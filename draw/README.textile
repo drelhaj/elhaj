@@ -1,0 +1,12 @@
+h1. Sentence Drawings in D3
+
+Original Implementation *done by hand*!! by "Stefanie Posavec":http://www.triangulationblog.com/2011/05/stefanie-posavec.html
+
+Really, the origianls provide skill and grace and composure. These auto-generated ones can only imitate. 
+
+The main attempt done by: "Tyler Rinker":http://www.r-bloggers.com/sentence-drawing-function-vs-art/
+
+I just followed along, and implemented in D3.
+
+http://vallandingham.me/sentence_drawings/#room
+

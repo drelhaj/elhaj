@@ -1,0 +1,2973 @@
+[Feminines Computerhandling]
+[Computer virenz]
+[German Information securityz Agency GISA]
+[hackz-TIC]
+[Phreaking]
+[Einweisung in Netzwerke]
+[Kommunikation zwischen Graphic und Sound Daten]
+[Verwendung von Mailboxen fuer oekologische Zwecke]
+[ziviles Computernetz (DDRNET)]
+[Die Verwandheit von Computer und Psychologie]
+[Postrecht und -geschichte]
+[DFÜ und Medienarbeit]
+[Datendirektanschluss an das Gehirn]
+[Gesetz zur Förderung der Informationsfreiheit]
+[Internet Workshop]
+[Leibnitz – Maschinenwelt und Netzwerke im 17 Jahrhundert]
+[Sozialversicherungsausweis und Verdatung bei Sozialbehörden]
+Kommunikation über den Computer. Grundwissen
+Datex und ähnliche Netzwerke
+Professionelle Mailboxen: Konzepte und Beispiele
+Bedienerfreundlichkeit und Datenschutz in Mailboxen
+Psychische Störungen durch Computermißbrauch
+Offene Netze. 15 Jahre Erfahrung aus den USA
+Rund um Bildschrimtext
+Anfängerz ins Telefonsystem
+Datenfunk
+Jura für hackz
+Modems. Von Datenklo bis Autodial und -answer
+[Die Entwicklung von Mailbox als Medium und die Zukunft der Vernetzung]
+[Freunde aus anderen Ländern (bisher: AU, CH, F, GS, S, USA) Anfängerz über Entwicklungen in ihrem Land.]
+[Der CCC erörtert die preisgünstigste Datenverbindung der Welt: den Datenfunk.]
+securityz heute, oder der Mensch als DV System
+Prorammentwicklung und der Teufel im Detail
+Haftung bei Prgrammfehlern und Anomalien
+Mailboxen und private Netze aus Sicht der DBP Telekom
+ComLink und APC
+Privates Internet
+Voice-Mail & PIT
+10 Jahre Chaos Computer Club?
+Mercury & AtariUUCP
+AmigaUUCP
+AX.25, Packet Radio
+Unix
+Zerberus
+TeX
+BTX-Docu-Verfahren
+MUD als Cyberspace?
+Netzdienste (E-Mail, News, Irc)
+virenz
+Journalisten / Neue Medien
+Datenschutz – Theorie und Praxis
+Corn Flakes Pfeiffen und Nachfolgemodelle
+[Computer und Ethik]
+[Datenschutz]
+[Definitionsfragen]
+[Offene Netze und freier Zugang an Unis]
+[Buergerdatenfunk]
+Chaos-Café: Frühstück und Kaffee
+hackz-Center: Die Welt am Draht
+Congressredaktion: Infos für alle
+Archiv: ohne Papier gahts nicht
+Eröffnungsansprache durch CCC & BHP
+Der NASA-hackz und seine Hintergründe
+Vortrag: securityzsloch in VMS
+Medienworkshop: Teil 1.
+Vorstellung: Stuttgarter Computer Club
+hackz & Staat: Polizei & CCC
+Vorstellung: Links Mailbox München
+'Gefährdung der Medienfreiheit...'
+Computervirenz im Ausblick
+Offene Netze: jetzt (Podium)
+Referat: 'Speicherkarten im Intimbereich'
+Mailboxvernetzung: Serversystem in Berlin
+Mailboxvernetzung: BTXNET, eine neue Idee
+ISDN: ...
+BTXNET: Arbeitgruppe (Teil 1.)
+Verschlüsselung mit DES und RSA
+Mailboxkopplung an UUCP und NEWS
+BTXNET: Arbeitgruppe (Teil 2.)
+Workshop: Mediengerechtes Publizieren
+BTX: Stand der Dinge
+Abschlussansprache
+Übernahme der Räume vom Nachtdienstbis
+Abbau, aufräumen...
+Übergabe der Räume ans Bürgerhaus anchl. Ruhe!
+Welcoming/opening
+How does a computer work?
+ISDN:  Everything over one network
+Internet and multimedia applications:  MIME/Mosaik/Gopher
+Data transport for Anfängerz
+Chip-cards:  Technology
+Media and information structures:  How much truth remains?  Direct
+Encryption for Anfängerz, the practical application of PGP
+Alternative networks:  ZAMIRNET, APS+hackztic, Green-Net, Knoopunt,
+Encryption:  Principles, Systems, and Visions
+Modacom empty"wireless modem"empty""
+Electronic Cash
+Bulletin board protocols: Functional comparison and social form, with the
+Discussion with journalist Eva Weber
+Net groups for students, Jan Ulbrich, DFN
+What's left after the eavesdropping attackz?  Forbidding encryption?
+Cyber Bla:  Info-cram
+How does an intelligence service work?  Training videos from the
+System theory and Info-policies with Thomas Barth
+Science Fiction video session:  Krieg der Eispiraten
+Thoughts about organization (empty"Urheben"empty")"
+Computer recycling
+Dumbness in the nets:  Electronic warfare
+Lockpicking:  About opening locks
+The Arbeitsgemeinschaft freier Mailboxen introduces itself
+In year 10 after Orwell ... Visions of the hackz scene
+Funknetze - Vergangenheit, Gegenwart, Zukunft
+Internet
+Copyright (I)
+Blueboxing
+Multimedia im Internet
+Copyright (II)
+Chipkarten (I)
+Chipkarten (II)
+Elektrosmog
+Voice-Chatsystem
+Dummheit bei der Telekom
+[unabhängige Bürgernetze]
+[Datex-J: nach Btx ein Versuch der Telekom und einiger großer Verleger, sich hier ins empty"gemachte Netz"empty" zu setzen?]"
+[Feminines Computer Handling]
+Sichere Kopplung an das Postnetz. Was läuft bei der Post; Prüfverfahren, Verhalten bei Hausdurchsuchung
+Parlakom – das Parlament am Netz. Computer im Bundestag
+Computer Artists Cologne stellen sich vor
+Datenfernübertragung für Anfängerz
+PC-virenz
+Video über den letzten Kongress
+securityz Abstrahlung: securityz von Monitoren und Fernsprechern
+Frühschoppen
+Renümee des Sysoptages vom letzten Congress. Kurz zu InterpoolNet. Hinweise auf Workshops
+Informationen zum Netzverbund FIDO-NET
+Auswirkungen des 2. WiKg. 
+Desktop Publishing – die Zeitschrift vom Schreibtisch. Am Beispiel des Genethischen Informationsdienstes
+Regionale Vernetzung von Mailboxen, Serversystem
+Btx als preiswerter Datenserver. Vorschlag zum Datenaustausch für Mailboxsysteme
+Mailboxen – neue Konzepte
+TCP/IP fuer Anfaenger
+Chaosradio -der CCC als Medienproduzent
+Trust-Center I: Was ist und wer traut einem Trustcenter?
+THC++
+IP V6, A-& X-DSL Technik, neue Dienste und Moeglichkeiten
+Umgang mit Gross-konzernen: CCC als kritischer Telekom-Aktionaer?
+Firewall Aufzucht & Pflege
+CCC TrustCenter-Workshop
+ISDN-Protokolle im Detail
+Ueber die Kompa-tibilitaet von virtueller zu tatsaechlicher Realitaet
+Waehrungs-Workshop
+Delphi-Boersen Workshop
+Organisations-workshop
+CCC Sachsen und die Idee der Politikseminare
+Wie funktioniert das Internet in den USA ?
+Vernetzung selbst-gemacht: Beispiel Prenzlnet
+Technikfolgen: Unfallverhuetung bei Schiffen
+Visionspromoting -ein Projekt im www stellt sich vor
+Dummheit in Netzen, Teil 13: empty"Schulen ans Netz"empty""
+Lockpicking-workshop
+IP over Packet Radio
+BOS-Funktechnik...securityzs-aufgaben...
+Begruessung und Orienterung
+CCC vor Ort Erfa-Kreise berichten ueber Projekte, Aktionen und zukuenftige Koordination
+Zensur-Debatte
+Vorstellung d. OnlineMagnaCharta
+Wirtschafts-spionage am Beispiel PROMIS Film+Diskussion
+ORGA-Hinweise+ Schlafplatz-vergabe
+Chronik 1996: CCC-Geschichte und drumherum im Jahre -4
+Orga-Hinweise
+Ueberleben in den Datenfluten:Informations-stukturierung
+Zusammenwuchs Telefonnetz und Internet
+Film und Work-shopankuendigung LOCKPICKING
+Globalisierung und Auswirkungen + Grundversorgung und Umgang mit Grosskonzernen
+Vortrag Prof. Kittler: empty"Hardware"empty""
+-noch unklar -
+Orga-Hinweise
+Fuer eine maschinenlesbare Regierung: Freedom of Information Act
+Create your own money:Bildung monopol-freier Waehrungen
+Anfängerz in die Kybernetik (Prof. Voelz) Informationelle Kriegsfuehrung & angewandte Kybernetik
+-in Klaerung -
+Wo wollen wir denn eigentlich hin? Zukunfts +Abschluss-diskussion
+TCP/IP für Anfängerz (Referent: Jan Haul)
+CCC Erfa Kreise Treffen & Koordination (Leitung: Frank Rieger)
+Konzepte von Information und Kommunikation (Referent: Hendrik Fulda)
+Anfängerz und Grundlagen Verschlüsselung (Referent: Andreas Bogk)
+ISDN für Anfängerz (Referent: Hartmut Schröder)
+DIRC-Konzept (Referent: Winrich Hoseit)
+Geschichte der Netzkultur in Deutschland (Referent: padeluun)
+Packet-Radio Anfängerz (Referent: Henning Heedfeld)
+Realitätsabgleich & Rückblick 1997
+Film & Diskussion empty"hackzs"empty" (mit der Autorin Christine Bader)"
+EC-Karten Unsecurityz Status Quo
+Bits auf dem Draht - IP-Netzen auf die Kabel geschaut
+hackz Chipcards (Teil 1): Gewaltfrei (Referent: Rüdiger Weiss)
+Social Engeneering
+Steganographie
+hackz Chipcards (Teil 2): Gewalttätig (Referent: Markus Kuhn, Tron)
+Adbusting: Markenhackzen (Referenten: Paul Kalkbrenner, Tim Pritlove)
+Open Source Processing (Referent: Frank Rieger)
+Unsecurityz in IP-Netzen (Referent: Christian Carstensen)
+Wirtschaftsspionage, innere securityz und Kryptoreglementierung
+Einrichtung von Computernetzen zur sinnvollen Nutzung
+hackz Chipcards (3): Anwendungen
+Lockpicking Meisterschaften des SSD e.V.
+JoJo-Workshop (Vorturner: padeluun)
+Die Karl Koch & KGB-Geschichte als Film: empty"23"empty""
+hackz for Money: Wirtschaftsspionage
+Wie funktioniert ein Internet-Provider (Referent: Ulf Zimmermann)
+Dummheit in Netzen, Teil Unklar: empty"Keine Bewegung"empty""
+Marktübersicht: Mobilfunk-Netze in Deutschland
+Integrated Services Internet - Zukunft des Internet (Referent: Bjoern Rupp)
+Internet-Telefonie: Entwicklung und Status
+GSM-Geräte und Schnittstellen
+GSM-hackz (Referent: Frank Rieger u.a.)
+The yearly technical update about Infowar (Referent: Frank Rieger)
+Premium Rate Services (Referent: Steffen Wernery)
+Gesetzliche Überwachungspflichten von Netzbetreiber und Service-Providern
+Liberalisierung der Telekommunikation und Folgen
+Ergonomisches Arbeiten: Geist & Körper bei Bildschirmarbeit
+Status Quo eines Bürgernetzes: Prenzlnet (Referent: Andreas Jeromin)
+Nachblick: HIP´97 Film und Diskussion
+Kommerzielle Funkdienste (Referent: Henning Heedfeld)
+Key signing party (Koordination: Lutz Donnerhackze)
+Abschlussdiskussion und 500-Jahres-Plan Ideensammlung
+Christopher CreutzigPGP für Anfängerz:Der Briefumschlag für elektronische Post
+Prof. Dr. Klaus BrunnsteinSpaß haben mit dem Ausfall von Computern?
+Presse-AnfängerzPflicht!
+C. Carstensen, F. Rieger, J. OhligComputer-Sabotage für Anfängerz /Techno-terrorz
+Presse-Konferenzin der Pressestelle
+Rop GonggrijpÜber die Rolle des hackzens in derGesellschaft jetzt und in der Zukunft
+Jan HaulCorporate Networks
+Christian Carstensenhackzen für Anfängerz /Unix-(Un)-securityz
+Tim PritloveWarum Internet immer noch Scheiße ist...(Referat + Diskussion)
+Thomas Hammer3D-InternetEntwicklungsstand + Software-Übersicht
+Wird wegen Unfall verschoben!!Thomas BarthOnline-Therapie (Computer & Psychologie)
+Film:empty"Unauthorized Access"empty"by Analiza Savage"
+Rena TangensAndrozentrismus in Netzen:Das Denken als Mann
+Günther v. GravenreuthWelche Gesetze gelten für MailBoxen?
+Christopher CreutzigÜber die Funktion eines Trust-Centersund andere Vertrauensprobleme
+RA Steinhoefel, Frank Rieger, padeluunAbschaffung des Datenschutzes und FolgenD-Info, EDS
+AkiraArchive im Netz
+Wau HollandDumpfhoheit in Netzstrümpfen
+Jonas VierlingAK-Medien der Hamburger Grünen:Medienpolitik-Workshop
+Fritz HohlMobile Agenten
+Doris KretzenZensurdebatteFrauenzimmerzimmer
+15:30 UhrThomas Hammer3D-InternetAbschließende Diskussion
+Jürgen Haag (Telekom), Andy Müller-MaguhnTelekom-Netzsecurityz und Umgang / Folgen
+padeluunDummheit in NetzenMobbing
+Gerd Meissner, padeluun, Burkhard SchröderÜber die Grenzen derInformationsfreiheit
+Steffen MeschkatIntelligente DatenBeschreibungssprachen des Webs
+Henning HeedfeldPacket RadioWorkshop(R13, rechts neben dem Funkraum!)Christine WittigSyReNa-M: Ideen zur FrauenvernetzungFrauenzimmerzimmer
+N.N.Wie verhält man sich bei Observationkorrekt?
+Hildegard SchmidtErgonomische Arbeitsplatzgestaltung amBildschirm
+W. Grossmann, Gerriet Hellwieg, Frank Rieger,Andreas SteinhauserÜber zukünftige Benutzerstrukturen imInternet und Wege, mit der Informationsflutumzugehen...
+Hendrik H. FuldaGroupWareVirtuelle Arbeitsgruppen
+Christopher CreutzigNetzgeld - Das Recht auf Bargeld
+H.C. DanyTV von untenWorkshop
+Frank RiegerDelphi-Börsen
+Dr. Hans HeinFunktionsweise des Denkens
+15:30 UhrAbbautreffenProjektleitung
+Björn KriewsSpuren im Schnee User-Identifikation und Konsumprofile im Webca. 16.15
+Wau HollandNeujahrsansprache des Alterspräsidenten17:15 Film:Die lustige Seite von Konrad Zuse17:45 Frank RiegerInformation WarfareElektronische Kriegsführung
+Film:Die lustige Seite von Konrad Zuse
+Christopher CreutzigKryptographie / Steganographie-WorkshopNeuigkeiten und Projekte
+Abschlußveranstaltung & Manöverkritik
+Machen Netzwerke Staaten überflüssig?
+Frederike Gers liest aus empty"Lange Leitung"empty": Von Tamponvertretern auf Datenreise - ein Roman aus dem bunten Leben in den Datennetzen"
+Fenster umsonst: Kooperative Softwareentwicklung im Internet
+Nie wieder Kleingeld?: Chipkartentechnik
+Cyberspace and the Way to the Inverse Panopticon
+Cyberspace und der Weg zum inversen Panoptikon: Thomas Barth (Referent: Sondererfahrungen...)
+CCC 1994 in Berlin - Der erste Tag in Zahlen
+Globales Dorf für Anfängerz: Einstieg ins Internet
+Internet ist cool, oder?: Porno- und Pizzaserver? - Internet-Hype und die Folgen
+Unsere Journalisten und wir: Public Relations für Mailboxprojekte
+Recht einfach: Mailboxen im Paragraphendschungel
+Halleluja...: Microsoft kauft die katholische Kirche
+Ständig mobil & Spaß dabei: Ein kurze Geschichte der beweglichen Telefonie
+Das E-Mail-Abo, ein alternativer Vertriebsweg?: Presse über's Netz
+Was ist OS/2?: Das 32-Bit-Betriebssystem
+Computer an Computer: was heißt TCXS/ZXC-IP?: OS/2 Networking
+Friedensarbeit über Datennetze: E-Mail im Balkan
+Der elektronische Briefumschlag mit PGP: Ganz gute Geheimhaltung
+Wieso hat die Telekom ihre Technik nicht im Griff?: Schwachstellen im Netz
+Der Datenschutz ist zur Zeit nicht besetzt.  Bitte versuchen Sie es später noch einmal.: Telefonbuch auf CD-Rom
+Überhöhte Telefonrechnungen und die rechtliche Situation des Kunden: Wer muß das bezahlen?
+Studentenleben digital: Netzzugänge an deutschen Unis
+Visionen für die Infobahn: Digitale Städte und andere Ideen
+Wie Wie Wie: BTX für Bildungsbürger?
+Opening and Keynote empty"Nothing to hide"empty""
+Datenpannen: Forderungen nach dem Jahr der Datenverbrechen
+The Trust Situation: Why the idea of data protection slowly turns out to be defective
+Der hackzparagraph 202c StGB: Bestandsaufnahme und Auswirkungen
+Building an international movement: hackzspaces.org: What we did so far. What will happen in the future.
+terrorzist All-Stars: Some cases of terrorzism around the world that are not terrorzist at all
+Das Grundrecht auf digitale Intimsphäre: Festplattenbeschlagnahme in neuem Licht
+hackz the iPhone: Pwning Apple's Mobile Internet Device
+Advanced memory forensics: The Cold Boot attackz: Recovering keys and other secrets after power off
+Why were we so securityz to the DNS vulnerability?
+Kurt Gödel – I do not fit into this century: Ein audiovisuelles Live-Feature
+U23: The hackzspace's Junior Academy
+Solar-powering your Geek Gear: Alternative and mobile power for all your little toys
+About Cyborgs and Gargoyles: State of the Art in Wearable Computing
+Chip Reverse Engineering
+Beyond Asimov - Laws for Robots: Developing rules for autonomous systems
+Locating Mobile Phones using SS7
+coreboot: Beyond The Final Frontier: Open source BIOS replacement with a radical approach to boot.
+FAIFA: A first open source PLC tool: PowerLineCommunications has now their open source tool
+securityz Failures in Smart Card Payment Systems: Tampering the Tamper-Proof
+RF fingerprinting of RFID
+Just Estonia and Georgia?: Global-scale Incident Response and Responders
+Erich Mühsams Tagebücher in der Festungshaft: Ein Idylle aus der Analogsteinzeit der Überwachung
+Cracking the MSP430 BSL: Part Two
+Collapsing the European securityz architecture: More securityz-critical behaviour in Europe!
+Messing Around with Garage Doors: Breaking Remote Keyless Entry Systems with Power Analysis
+Jahresrückblick: Die Themen des CCC im Jahr 2008
+attackzing Rich Internet Applications: Not your mother's XSS bugs
+Vulnerability discovery in encrypted closed source PHP applications
+Anatomy of smartphone hardware: Dissecting contemporary cellphone hardware
+Short Attention Span securityz: A little of everything
+Rapid Prototype Your Life: The time is now to make anything you can imagine
+The Infinite Library: Storage and Access of Pornographic Information
+Fnord News Show: Wir helfen Euch, die Fnords zu sehen
+Soviet Unterzoegersdorf: A Nation In Transit
+Lightning Talks Day2: 4 minutes of fame
+Climate Change - State of the Science
+Flying for free: securityzing the weather with unpowered aircraft
+Blinkenlights Stereoscope: Behind the scenes of the new light installation
+securityz of MICA*-based wireless sensor networks
+Algorithmic Music in a Box: Doing music with microcontrollers
+All your base(s) are belong to us: Dawn of the high-throughput DNA sequencing era
+Console hackz 2008: Wii Fail: Is implementation the enemy of design?
+Life is a Holodeck!: An overview of holographic techniques
+Embracing Post-Privacy: Optimism towards a future where there is empty"Nothing to hide"empty""
+Full-Disk-Encryption Crash-Course: Everything to hide
+securityzing Symbian: Symbian securityz and Shellcode Development
+Handschellen hackzen: Essentielles Grundwissen für alle, die nichts zu verbergen hatten
+TCP Denial of Service securityz: Accepting the Partial Disclosure Challenge
+Scalable Swarm Robotics: Formica: a cheap, open research platform
+Banking Malware 101: Overview of Current Keylogger Threats
+Tricks: makes you smile: A clever or ingenious device or expedient; adroit technique: the tricks of the trade.
+Fnord News Show (English interpretation): We help in seeing teh Fnords
+Running your own GSM network
+eVoting after Nedap and Digital Pen: Why cryptography might not fix the issue of transparent elections
+Neusprech im Überwachungsstaat: Politikersprache zwischen Orwell und Online
+Analyzing RFID securityz
+DECT: The Digital Enhanced Cordless Telecommunications standard
+attackzing NFC mobile phones: First look at the securityz of NFC mobile phones
+Methods for Understanding Targeted attackz with Office Documents
+Cisco IOS attackz and defense: The State of the Art
+hackz Jeopardy: Die ultimative hackz-Quizshow
+Lightning Talks Day3 - Morning: 4 minutes of fame
+Repurposing the TI EZ430U: with msp430static, solder, and syringe
+Privacy in the social semantic web: Social networks based on XMPP
+The Ultimate Commodore 64 Talk: Everything about the C64 in 64 Minutes
+securityz and anonymity securityz in Tor: Past, present, and future 
+OnionCat – A Tor-based Anonymous VPN: Building an anonymous Internet within the Internet
+Der elektronische Personalausweis: Endlich wird jeder zum empty"Trusted Citizen"empty""
+Objects as Software: The Coming Revolution: How RepRap and physical compilers will change the world as we know it (and already have)
+The Privacy Workshop Project: Enhancing the value of privacy in todays students view
+Zehn Big Brother Awards in .at: Rückblick über eine bewegte Zeit
+An Anfängerz to new stream cipher designs: Turning data into line noise and back
+Squeezing attackz Traces: How to get useable information out of your honeypot
+Stormfucker: Owning the Storm Botnet
+SWF and the Malware Tragedy: Hide and Seek in A. Flash
+Lightning Talks Day3 - Evening: 4 minutes of fame
+Weizenbaum: Rebel at work
+hackz Jeopardy (English interpretation): The ultimative hackz-Quizshow
+Why technology sucks: If technology is the solution, politicians are the problem
+Not Soy Fast: Genetically Modified, Resource Greedy, and coming to a Supermarket Near You: The silent march of the multinational GMO soy industry and its growing power in South America, the EU, and around the World.
+Wikileaks: Wikileaks vs. the World
+MD5 considered harmful today: Creating a rogue CA Certificate
+securityz Nightmares 2009: Oder: worüber wir nächstes Jahr lachen werden
+Closing Ceremony
+Lightning Talks Day4: 4 minutes of fame
+La Quadrature du Net - Campaigning on Telecoms Package: Pan-european activism for patching a empty"pirated"empty" law"
+Vertex hackz: Reverse Engineering von 3D-Dateiformaten
+Mining social contacts with active RFID
+Predictable RNG in the securityz Debian OpenSSL package: the What and the How
+Crafting and hackz: Separated at Birth
+Pflanzenhackzen: Züchten 2.0
+securityz Nightmares 2009 (English interpretation): Or: about what we will laugh next year
+Chaos-Familien-Duell
+Here be dragons: Keynote
+Eine Zensur findet statt: Eine Rundreise durch die Welt der Zensur – Wo, Was und Wie?
+Leyen-Rhetorik
+Why Net Neutrality Matters?: Status update on current legislation, campaigns and actions
+WikiLeaks Release 1.0: Insight into vision, motivation and innovation
+Exposing Crypto Bugs through reverse engineering
+GSM: SRSLY?
+UNBILD – Pictures and Non-Pictures: Reterritorialisierung und Globalisierung
+cat /proc/sys/net/ipv4/fuckups
+Der hackzparagraph beim Bundesverfassungsgericht
+Computer.Spiele.Politik.: Die Computerspieldebatte und wie man darin überlebt
+Privacy, openness, trust and transparency on Wikipedia: How the free encyclopedia project deals with sockpuppets
+Internetsperren: #zensursula and beyond
+Tor and censorship: lessons learned
+How you can build an eavesdropper for a quantum cryptosystem: hardware demo during the lecture
+coreboot: Adding support for a system near you: Working with the open source BIOS replacement and getting a PC to boot
+Lightning Talks - Day 1: 4 minutes of fame
+our darknet and its bright spots: building connections for spaces and people
+Here Be Electric Dragons: Preparing for the Emancipation of Machines
+Das Zugangserschwerungsgesetz
+Das Recht am eigenen Bild und das Ende der empty"Street Photography"empty""
+Wireless power transfer: Forgotten knowledge: Tesla invented wireless power
+A hackz’s Utopia: What's There and What's Missing
+hackz Jeopardy: Number guessing for geeks
+Why Germany Succeeded Where America Has Failed in Achieving Meaningful Voting Computer Changes:  And Why All Democracies Should Follow
+A part time scientists' perspective of getting to the moon : presenting the first German Team participating in the GoogleLunarXPrize
+Privacy & Stylometry: Practical attackz Against Authorship Recognition Techniques
+Vier Fäuste für ein Halleluja: Geschichten aus dem API-und Protokollkrieg von zwei glorreichen Halunken
+Die Schlacht um die Vorratsdatenspeicherung: Der Stand der Debatte nach der Anhörung beim Bundesverfassungsgericht
+Defending the Poor: Preventing Flash securityzs
+Legic Prime: Obscurity in Depth
+Exciting Tales of Journalists Getting Spied on, Arrested and Deported: How their own data was taken and used against them
+After the Hype: The current state of One Laptop per Child and Sugar Labs
+Die neokonservativen Thinktanks in der BRD: Wie SPD und CDU die gelenkte Demokratie einführen wollen
+Homewreckery: Electrifying the Thread out of Clothing
+Cybernetic Cannibalism: Why is Brazil the country of the future?
+Die Verwaltung rüstet auf - der digitale Steuerbürger: Gefahren, Nutzen, Risiken für Jedermann
+Conlanging 101: I make languages (and you can too)
+Liquid Democracy: Direkter Parlamentarismus – gemeinsam verbindlich entscheiden
+CKAN: apt-get for the Debian of Data
+SCCP hackz, attackzing the SS7 & SIGTRAN applications one step further and mapping the phone system: Back to the good old Blue Box?
+Building a Debugger: Open JTAG with Voltage Glitching
+Lightning Talks - Day 2: 4 minutes of fame
+Milkymist: An open hardware video synthesis platform
+Advanced microcontroller programming: Getting deeper into AVR programming
+Fuzzing the Phone in your Phone
+Reverse-Engineering DisplayLink devices: USB to DVI for hackzs
+empty"Haste ma'n netblock?empty": Layer 8 based IP Address hijacking in the end of the days of IPv4"
+ETSI-Vorratsdatenspeicherung 2009: und andere Sockenpuppen der GCHQ
+Nougatbytes - Ein Wortspiel, bunt und in stereo: Die geekige Bilderrätselspielschau
+CCC-Jahresrückblick
+DECT (part II): What has changed in DECT securityz after one year
+The Lost Cosmonauts: Critical Thinking
+Using OpenBSC for fuzzing of GSM handsets
+“Yes We Can’t!” - on kleptography and cryptovirology
+Peanut Butter and Plastic: Industrial Revolution: Decentralized Manufacturing and Desktop Fabrication
+Fnord-Jahresrückblick 2009: Von Abwrackprämie bis Zensursula
+Black Ops Of PKI
+Playing with the Built City
+Vom Kreationismus zum Kollektivismus: Fehlende Einsicht in die Leistung komplexer Systeme
+Kunstfreiheit statt hackzparagraph
+Playing with the GSM RF Interface: Doing tricks with a mobile phone
+Optimised to fail: Card readers for online banking
+I, Internet: We are more Borg than we thought
+Technik des neuen ePA
+Privacy-Enhanced Event Scheduling
+Weaponizing Cultural virenzes: A Manual For Engaged Memetic Resistance on The Front Lines of The Culture Wars
+Wofür offenes Internet?: Warum wir klare Regeln für Netzneutralität brauchen 
+Lightning Talks - Day 3: 4 minutes of fame
+DDoS/botnet mitigation & hosting online communities
+Fußgängernavigation mit Augmented Reality: Navit - Navigationssystem
+Europäische Biometriestrategien: Die Automatisierung von Personenidentifizierung an der Grenze und die damit einhergehenden kontrollpolitischen Veränderungen
+Location tracking does scale up: How skyhook wireless tracks you continously
+Stream: Fnord-Jahresrückblick 2009: German / English version of the Fnord-Jahresrückblick 2009.
+Die Ereignisse des 12.9. und ihre Folgen: Watching them watching us: Videoüberwachung staatlichen Handelns
+Wikipedia - Wegen Irrelevanz gelöscht
+Blackbox JTAG Reverse Engineering: Discovering what the hardware architects try to hide from you
+Photography and the Art of Doing it Wrong
+securityz Nightmares
+Closing Event
+secuBT: hackz the hackzs with User-Space Virtualization
+Finding the key in the haystack: A practical guide to Differential Power Analysis
+Understanding Telecommunication Interception: Intelligence Support Systems: The Big Brother Services Industry and their tools
+Im Herz der Bestie: Medien hackzen
+Wolpertinger. Ein verteilter Portscanner.: Schneller scannen!
+Lightning Talks - Day 4: 4 minutes of fame
+hackz the universe: When strings are super and not made of characters
+Stream: securityz Nightmares: in english!!11oneeleven (translated on the fly)
+Opening Ceremony (de): Security Track Keynote
+The Case for Scale in Cyber Security
+What's left for private messaging?
+Messenger Hacking: Remotely Compromising an iPhone through iMessage
+empty"Hacker hin oder herempty": Die elektronische Patientenakte kommt!"
+Plundervolt: Flipping Bits from Software without Rowhammer
+Geheimdienstliche Massenüberwachung vs. Menschenrechte: From Unanimity to Anonymity 
+What the World can learn from Hongkong
+Practical Cache Attacks from the Network and Bad Cat Puns
+SIM card technology from A-Z: Zahlenraten für Geeks
+Hacker Jeopardy
+I am system: breaking the security boundary in windows OS.: Humanitäre Hilfe zwischen Propaganda, Information und Spendenwerbung
+Katastrophe und Kommunikation am Beispiel Rojava: Gesellschaftlicher Wandel in den Reden im Bundestag
+Vom Ich zum Wir: Breaking PDF Encryption and PDF Signatures
+How to Break PDFs: David Graeber
+From Managerial Feudalism to the Revolt of the Caring Classes: Understanding the ME at the OS and hardware level
+Intel Management Engine deep dive: Breaking Out of a Sandboxed Virtual Machine
+The Great Escape of ESXi
+Uncover, Understand, Own - Regaining Control Over Your AMD CPU: How thousands of Facebook, You Tube and Instagram pages benefited from purchased likes and how we reverse engineered facebooks user IDs
+Inside the Fake Like Factories: How Betrusted Aims to Close the Hardware TOCTOU Gap
+Open Source is Insufficient to Solve Trust Problems in Hardware: Einblicke in die Forschung und Ausblick in die Umweltzertifizierung! 
+Wie klimafreundlich ist Software? : Wohin eigentlich mit all der erneuerbaren Energie?
+Energiespeicher von heute für die Energie von morgen
+The Large Hadron Collider Infrastructure Talk
+Server Infrastructure for Global Rebellion: A review of the best art & tech projects from 2019. With a focus on e-waste
+The Internet of rubbish things and bodies: Von Handyauswertung, intelligenten Grenzen und Datentöpfen
+Digitalisierte Migrationskontrolle: Looking back at the perhaps most dramatic instance of hacking of the 1980s and the role it had in shaping the public image of the CCC.
+The KGB Hack: 30 Years Later: Wie die radikale Rechte (ihre) Politik gamifiziert
+Let’s play Infokrieg: Reducing carbon footprint of network services with MirageOS unikernels
+Leaving legacy behind: Everything about the Archimedes computer (with zero 'Eureka!' jokes)
+The Ultimate Acorn Archimedes talk: Exploring a new attack surface on the 3DS
+It's not safe on the streets... especially for your 3DS!: Pleiten, Pech und Pannen in der Zahlungsdiensteregulierung
+Was hat die PSD2 je für uns getan?: The Science Behind Climate Reports
+Climate Modelling
+Mathematical diseases in climate models and how to cure them: What we can and need to change to keep climate change low - the scientist view
+Science for future?: Was müssen Medizinproduktehersteller einhalten (und was nicht)?
+Warum die Card10 kein Medizinprodukt ist: --Gaining code execution using a malicious SQLite database
+SELECT code_execution FROM * USING SQLite;: Details about the man hunt for Julian Assange and Wikileaks
+Technical aspects of the surveillance in and around the Ecuadorian embassy in London: Spoiler: Apple is bad at patching
+Tales of old: untethering iOS 11: An open source project for education, research and tinkering
+phyphox: Using smartphone sensors for physics experiments
+A Deep Dive Into Unconstrained Code Execution on Siemens S7 PLCs: Fables from building a startup in Silicon Valley
+How (not) to build autonomous robots
+(Post-Quantum) Isogeny Cryptography: show + tell
+LibreSilicon's Standard Cell Library (de): Ein nicht nuklearer Blick auf das Ende der Welt 
+Kritikalität von Rohstoffen - wann platzt die Bombe?: Decoding The Cultures of Hacking One Video at a Time
+Hack_Curio:  Die Luftschnittstelle und das Core im Wandel der Zahlen
+Der Pfad von 4G zu 5G: Signal overshadowing attack on LTE and its applications
+SigOver + alpha: Wie lange kann es so weitergehen?
+Der Deep Learning Hype: Challenges for distributed and decentralized technology from the perspective of Signal development
+The ecosystem is moving
+All wireless communication stacks are equally broken: Taking a look at a covert CIA virtual fencing solution
+Harry Potter and the Not-So-Smart Proxy War
+The sustainability of safety, security and privacy
+KTRW: The journey to build a debuggable iPhone
+BahnMining - Pünktlichkeit ist eine Zier: Leaking Your Recent Memory Operations on Intel CPUs
+ZombieLoad Attack
+Chaos Communication Slam
+Lightning Talks Day 2: Können wir Software bauen, die nützlich /und/ unbedenklich ist?
+Das nützlich-unbedenklich Spektrum: Psychedelic Therapy as a fundamentally new approach to mental health issues
+Psychedelic Medicine - Hacking Psychiatry?! : Cybercrime-Ermittlungen: Vorsicht vor der Polizei! Oder: Nicht im falschen Forum posten
+Hackerparagraph § 202c StGB // Reality Check
+Der dezentrale Jahresrückblick des CCC: Military warheads as a source of nuclear fuel
+Megatons to Megawatts
+Hacking Sony PlayStation Blu-ray Drives: Uncovering and assessing a second authentication mechanism in modern vehicle immobilization systems
+Vehicle immobilization revisited
+How to Design Highly Reliable Digital Electronics: How to understand the environmental impact of the digital products you build, and take measurable steps to “green your stack”
+Reducing Carbon in the Digital Realm: Attacks against privacy-preserving systems
+The search for anonymous data: Schule schwänzen für das Klima
+Fridays for Future (de): Jahresrückblick 2019
+Extinction Rebellion : The environmental costs of digital industry and pathways to sustainability
+Today's digital industry is unsustainable so where to go?: Break Isolation and Sandbox in the Instant Apps
+The Inside Story: There are Apps in Apps and Here is How to Break Them: How to understand this historic challenge and what we can do to defend ourselves
+The Case Against WikiLeaks: a direct threat to our community : Be prepared for the coming Digital Winter. And play Impossible Mission.
+Creating Resilient and Sustainable Mobile Phones
+It’s alive! – Nach den Protesten gegen die Polizeigesetze ist vor den Protesten gegen die autoritäre Wende: A security study of turbine control systems in power generation
+On the insecure nature of turbine control systems in power generation: Reducing the attack surface with pure embedded Go.
+TamaGo - bare metal Go framework for ARM SoCs.: How secure is the next generation of 'secure' processor features?
+TrustZone-M(eh): Breaking ARMv8-M's security
+Polizei-Datenbanken und Minderheiten: Staatliche Stigmatisierung und Diskriminierung von Sinti und Roma
+Die Zukunft grenzüberschreitenden Datenzugriffs und politischer Verfolgung
+Offene Sensordaten für Jedermann - Ein Citizen Science Projekt basierend auf Open Source und Open Hardware
+Reflections on the New Reverse Engineering Law: Mediterranean Migration Monologues
+Die Mittelmeer-Monologe: 3 different RCE vulnerabilities on Ruckus Wireless access points devices.
+Don't Ruck Us Too Hard - Owning Ruckus AP Devices: Wie gründe ich einen Betriebsrat, bevor die Kacke dampft?
+Was tun bevor es brennt - wie gründe ich eigentlich einen Betriebsrat?: Featuring the shortest movies and the largest lasers
+An ultrashort history of ultrafast imaging: E-ID, E-Voting, Netzsperren und andere netzpolitische Schauplätze
+Schweiz: Netzpolitik zwischen Bodensee und Matterhorn
+Identifying Multi-Binary Vulnerabilities in Embedded Firmware at Scale
+Breaking Microsoft Edge Extensions Security Policies: How an agency implements Fortress Europe by degrading Non-Europeans to second-rate people
+No roborders, no nation, or: smile for a European surveillance propagation
+Listening Back - The Sound of Surveillance: A rough guide to over-regulating free speech with anti-terrorist measures
+Confessions of a future terrorist: Lesung des öffentlichen Sourcecodes
+Open Code Verlesung
+Von Menschen radikalisiert: Über Rassismus im Internet: Eine erste Bilanz
+Die Affäre Hannibal: Warum wir zivilen Ungehorsam und Subversion mehr brauchen denn je
+Hacking the Media: Geflüchtete schmuggeln, Nazis torten, Pässe fälschen: Rechtsbrüche beim Export von Überwachungssoftware
+Finfisher verklagen: Whistleblowers and the Cases of The Snowden Refugees and Edward Snowden
+Human Rights at a Global Crossroads: Underestimating the dangers of designing a protection system
+Boeing 737MAX: Automated Crashes
+The One Weird Trick SecureROM Hates: Menschliche Faktoren der IT-Sicherheit
+Hirne Hacken: Die Realität beim Arztbesuch nach 15 Jahren Entwicklung einer medizinischen Digitalstrategie
+15 Jahre deutsche Telematikinfrastruktur (TI)
+Aus dem Schimpfwörterbuch der neuen Rechten: The sumo robot fight for the technically ungifted
+Hebocon
+Lightning Talks Day 3: An introduction without maths
+Cryptography demystified: An introduction to quantum computing and a review of the progress we made in the last 5 years.
+Quantum Computing: Are we there yet?
+High-assurance crypto software: Auditing Boot Loaders by Example
+Boot2root: War alles schon mal besser
+Der netzpolitische Jahresrückblick: Früher war mehr Schnee
+Nutzung öffentlicher Klimadaten: 8 Mikrokosmen, 8 Expert*innen, je 8 Minuten zu Digitalisierung und Nachhaltigkeit
+Das Bits&Bäume-Sporangium
+A systematic evaluation of OpenBSD's mitigations
+Build you own Quantum Computer @ Home - 99% of discount -  Hacker Style !: When SPF is not enough
+Email authentication for penetration testers
+No source, no problem! High speed binary fuzzing
+Thrust is not an Option: How to get to Mars really slow:  The Not-So Secret Data Sharing Practices Of Menstruation Apps
+No Body's Business But Mine, a dive into Menstruation Apps: Warum unser Web nachhaltiger werden muss und wie wir das anstellen!
+The Planet Friendly Web: Don't ask what you can do for TPMs, Ask what TPMs can do for you
+Hacking (with) a TPM: EU plans to swipe our freedom of expression under the carpet
+Content take-downs: Who cleans the internet?: Status of the Net Neutrality Reform in Europe
+5G & Net Neutrality:  Von E-Bikes in der Connected Mobility zur Entstehung eines nachhaltigen Open-Source-E-Bike-Projekts
+Connected Mobility hacken: digital.bike.23: Evolve your hack into robust software!
+Getting software right with properties, generated tests, and proofs: How to convert standard wifi dongles into digital broadcast transmitters
+Wifibroadcast: Mit künstlicher Intelligenz zu neuer Kunst zum kybernetischen Verstand
+Mensch - Kunst – Maschine: DECT is korrekt.
+#mifail oder: Mit Gigaset wäre das nicht passiert!: How simulations help us understand the Universe
+Grow your own planet: Human agreements, comunication infrastructures, services in Campi Aperti, Bologna, Italy
+Infrastructures in a horizontal farmers community: Egypt's Civil Society Under Attack
+The Eye on the Nile
+Warum 3D-gedruckte Kleidung NICHT die Zukunft ist
+Linux on Open Source Hardware with Open Source chip design: Conservation Genomics between Taxonomy, Big Data, Statistics and IT-Security
+Protecting the Wild: where artifacts come from, and how constructive math may help
+Provable Insecurity: Open Soil Research
+HUMUS sapiens
+Degrowth is coming - be ready to repair
+On the Edge of Human-Data Interaction with the Databox: Social, artistic & theoretical experiments with decentralized festivals
+p2panda: (Eine Gemeinschaftsproduktion der Haecksen, der tuwat-Gruppe Bildung und Chaos Siegen)
+ Welcome Pattern - Theorie und Praxis : Strategies and tactics to ‘hack’ public spaces and social conventions
+Speaking Fiction To Power: A dive into the foundations of hardware reverse engineering and our netlist analysis framework HAL
+HAL - The Open-Source Hardware Analyzer: Introduction to IC reverse engineering for non-chip-reverse-engineers. 
+Understanding millions of gates : In welcher digitalen Welt werden wir leben?
+Weichenstellung: Best of Informationsfreiheit
+Das Mauern muss weg: Was Sie schon immer nicht über darüber wissen wollten wer Ihre Geräte wirklich kontrolliert.
+Security Nightmares 0x14
+Closing Ceremony (de)
+Lightning Talks Day 4
+Verkehrswende selber hacken: Eine industrielle Perspektive für die Lausitz?
+Wandel im Braunkohlerevier: Lithium-Ionen-Batterierecycling
+36C3 Infrastructure Review: A Tool for Analyzing the Fairness of Electronic Devices
+Fairtronics: How to Stop the Dubious Use of Passenger Name Records by Law Enforcement
+#NoPNR – Let’s kill the next Data Retention Law: A media-art project which automates the search for flats in Berlin and challenges automation narratives
+Wohnungsbot: An Automation-Drama in Three Acts
+Ms: Art against Facebook Graffiti in the ruins of the feed and the party-info-capital is emigrating
+Art against Facebook: Resilient. Trustworthy. Sustainably Open.
+NGI Zero: A treasure trove of IT innovation
+Jahresrückblick der Haecksen
+Aufbau eines Sensornetzes für die Messung von Stickstoffdioxid: Makroökonomische Auswirkungen der Digitalisierung auf den Globalen Süden
+Gerechtigkeit 4.0: Governments around the world are implementing digital identity programs that don't work
+Opening Event: Why and How the Precariat will define the Global Transformation to save our planet.
+The Precariat: A Disruptive Class for Disruptive Times.: Will the U.S. be ready for 2020?
+Election Cybersecurity Progress Report: Possible paths from today's ghastly hackery to what computing should be
+Taming the Chaos: Can we build systems that actually work?: Dissecting the radio protocol of Sigfox, the global cellular network for the IoT you have probably never heard of
+Hunting the Sigfox: Wireless IoT Network Security
+Introduction to Deep Learning: Verantwortung und Ethik beim schöpferisch-kritischen Umgang mit Technologie
+Hackerethik - eine Einführung: Vom Fall der letzten Bastion biometrischer Systeme
+Venenerkennung hacken: Die strategische Fernmeldeüberwachung des BND vor dem Bundesverfassungsgericht
+G10, BND-Gesetz und der effektive Schutz vor Grundrechten: empty"So sicher wie beim Online-Banking"empty": Die elektronische Patientenakte kommt - für alle."
+All Your Gesundheitsakten Are Belong To Us: Endlich viele neue Gründe zu demonstrieren
+Polizeigesetze: Ein Demotivationsworkshop zur politischen Lage.
+Freude ist nur ein Mangel an Information
+The Rocky Road to TLS 1.3 and better Internet Encryption: Why It's Both Better and Worse Than We can Imagine
+empty"Theempty" Social Credit System"
+Censored Planet: a Global Censorship Observatory : An explanation of Inter-Net and everyday protocols
+How does the Internet work?: Hacking the most popular cryptocurrency hardware wallets
+wallet.fail: Fünf Monate nach dem Urteil im ersten NSU-Prozess
+empty"Das ist mir nicht erinnerlich.empty" − Der NSU-Komplex heute: Hacking your network likes it's 1980 again"
+What The Fax?!: “Eine neue Hoffnung” oder “Angriff der Klonkrieger”? 
+Genom-Editierung mit CRISPR/Cas: Hardware implants in the supply-chain
+Modchips of the State: (Ab)Using AMD Microcode for fun and security
+Inside the AMD Microcode ROM: Tearing down paywalls in scholarly communication
+Locked up science
+Mind the Trap: Die Netzpolitik der AfD im Bundestag
+First Sednit UEFI Rootkit Unveiled
+Datenschutz für Neulandbürger: An introduction to Spacecraft Operations
+Space Ops 101: Software Defined Radio Basics and some Modulation Theory 
+Digital Airwaves: A call to action to defend our ePrivacy and eliminate upload filters
+Citzens or subjects? The battle to control our bodies, speech and communications
+Chaos im Fernsehrat: A Gentle Introduction
+Quantum Mechanics: Five Eyes’ Quest For Security Has Given Us Widespread Insecurity
+It Always Feels Like the Five Eyes Are Watching You: From doodle to manufacture: how I make mechanically complicated PCBs.
+Artistic PCB Design and Fabrication: Das Grenzüberwachungssystem EUROSUR führt Aufklärungsdaten von Satelliten, Flugzeugen, Drohnen und bald auch Fesselballons zusammen
+Frontex: Der europäische Grenzgeheimdienst
+Updates von der europäischen Außengrenze
+(Cyber-)Stalking: Wenn Grenzen verschwimmen: Die digitale Seite der häuslichen Gewalt
+Stalking, Spy Apps, Doxing: Digitale Gewalt gegen Frauen
+Compromising online accounts by cracking voicemail systems: TCP/IP basics
+Transmission Control Protocol: Eine Liebesgeschichte
+Open Source Firmware: How Data Scientists can help to avoid a sixth global extinction
+Hacking Ecology: Neutrino Astronomy with Hyper-Kamiokande
+Going Deep Underground to Watch the Stars: Decentralizing semiconductor manufacturing
+LibreSilicon: How I Learned to Stop Worrying and Love the Backdoor
+SiliVaccine: North Korea's Weapon of Mass Detection: The decentralized P2P gossip protocol
+Scuttlebutt: From cells to dynamic models of biochemical pathways and  information theory, and back.
+Information Biology - Investigating the information flow in living systems: VR experience empty"Beyond Slavery"empty""
+Afroroutes: Africa Elsewhere
+A Routing Interregnum: Internet infrastructure transition in Crimea after Russian annexation  : some technofeminist reflections on Wikileaks
+A la recherche de l'information perdue: Activism and Performance In Hostile Spaces Online
+Tactical Embodiment: How to hack software defined network and keep your sanity?
+SD-WAN a New Hop
+Inside the Fake Science Factories: Refreshing Memories
+Jahresrückblick des CCC 2018: An update on the fate of the Snowden Refugees  
+The Surveillance State limited by acts of courage and conscience: Wie der Weg ins digitale Zuhause zum Spaziergang wird
+Smart Home - Smart Hack: War, Journalism, VR
+The Enemy : Efail, other attacks and lessons learned.
+Attacking end-to-end email encryption: An Artificial Intelligence Perspective on the Soul
+The Ghost in the Machine
+Die EU und ihre Institutionen 
+Meine Abenteuer im EU-Parlament
+Lightning Talks Day 2
+Explaining Online US Political Advertising: Praktische Hinweise für den Kontakt mit der Staatsmacht
+Verhalten bei Hausdurchsuchungen: Enabling students over example-driven teaching
+How to teach programming to your loved ones: Wie das BAMF seine Probleme mit Technik lösen wollte und scheitert
+Computer, die über Asyl (mit)entscheiden
+Snakes and Rabbits - How CCC shaped an open hardware success: A demystification of the exploit development lifecycle
+The Layman's Guide to Zero-Day Engineering: Explaining in detail just how those little COM files infected and played with us back in the day
+A deep dive into the world of DOS viruses: a utopian documentary about the digital age
+All Creatures Welcome
+Exploring fraud in telephony networks: A fully FOSS, Verilog to bitstream, timing driven, cross FPGA, usable toolchain.
+SymbiFlow - Finally the GCC of FPGAs!: the next step forward in open source FPGA tools
+The nextpnr FOSS FPGA place-and-route tool: Introduction to sex- and gender-sensitive medicine
+How medicine discovered sex: On art, AI, hormones hacking and other prospects of a post-human world
+The good, the strange and the ugly in 2018 art &tech : Algorithms define your priorities. Who else besides you can know what you need?
+Analyze the Facebook algorithm and reclaim data sovereignty 
+A Christmas Carol - The Spectres of the Past, Present, and Future: … und das Rennen um den schnellsten Computer der Welt
+SuperMUC-NG: Answers & practical guidelines for engineers.
+What is Good Technology?: Towards correct software that enriches our lives
+A farewell to soul-crushing code
+Modern Windows Userspace Exploitation
+Sense without sight: a crash course on #BlindNavigation: „Die Parallelwelt“- Das Schauspiel Dortmund und die Digitalität
+Theater und Quantenzeitalter: a didactic live-gaming performance about dying women across video game history
+Never Forgetti: Inclusive and Diverse Spaces and Communities
+ Feminist Perspectives: From past to present
+Jailbreaking iOS: What Virtual Universes Can Tell Us About Our Own
+Simulating Universes
+The year in post-quantum crypto: From Cyberfeminism to XenoFeminism
+ C2X: The television will not be revolutionized.: Hacking [in] Hong Kong
+The Urban Organism: An African tale of art, culture and technology
+Reality Check! Basel/Lagos?? In virtual reality?: Integrating nearby and offline connectivity with the Internet
+Wind: Off-Grid Services for Everyday People: Ein open-source Hardware- und Software-Design für vierbeinige Laufroboter
+Projekt Hannah: Warum DatenschützerInnen aufhören müssen von individueller Privatheit zu sprechen.
+Was schützt eigentlich der Datenschutz?: Massenüberwachung, Netzsperren und andere netzpolitische Schauplätze in der Schweiz
+Schweiz: Netzpolitik zwischen Bodensee und Matterhorn: How (not) to protect private keys
+Wallet Security: Disobedient Innovation
+DISNOVATION.ORG: Lesung
+Mondnacht: Kann man empirischen Studien trauen?
+Die dreckige Empirie: HF-Störquellen im Uplink
+Die verborgene Seite des Mobilfunks: Transparenz mit der Brechstange
+Best of Informationsfreiheit: Welche Daten speichert Amazon über uns?
+Archäologische Studien im Datenmüll
+Truly cardless: Jackpotting an ATM using auxiliary devices.
+Russia vs. Telegram: technical notes on the battle: How Curiosity's Onboard Computer works, and what you can learn from how it was designed
+The Mars Rover On-board Computer: OpSec für Datenreisende
+Du kannst alles hacken – du darfst dich nur nicht erwischen lassen.: An introduction and critique of the EC proposal for a regulation
+Electronic Evicence in Criminal Matters
+Desinformation und Fake News - Bekämpfung und Verifizierung leicht gemacht: The sumo robot fight for the technically ungifted
+Hebocon: Technische Liebesgedichte & Horrorgeschichten im Dichterwettstreit
+Chaos Communication Slam
+Lightning Talks Day 3: How using critical thinking in technological practice can make a difference
+The Critical Making Movement: Hacking the most secure handheld console
+Viva la Vita Vida: why clearing memory is hard.
+Memsad: Wie die GFF mit strategischen Klagen für Freiheitsrechte kämpft und was in 2019 auf uns zukommt
+Freedom needs fighters!: From 1 000 000 000 000 000 to 10: Breaking down 14 Orders of Magnitude
+Conquering Large Numbers at the LHC
+No evidence of communication and morality in protocols: Off-the-Record protocol version 4: A long way to a vibrant future
+Internet of Dongs: (even if you don’t have a Facebook account)
+How Facebook tracks you on Android
+From Zero to Zero Day: Über die Identifikation des ersten kosmischen Teilchenbeschleunigers und den Beginn einer neuen Ära in der Multimessenger-Astronomie
+Kosmische Teilchenbeschleuniger und ihre Spuren in der Antarktis: How high-level scripting languages make your hardware project beautifuly easy
+MicroPython – Python for Microcontrollers
+In Soviet Russia Smart Card Hacks You: Hierarchical decentralized naming system used since 30 years
+Domain Name System: When your browser is mining coins for other people
+Web-based Cryptojacking in the Wild: Essential Tools for Developing, Testing and Debugging Systems Interacting with the Real World
+Modeling and Simulation of Physical Systems for Hobbyists: Medizingeräte für Alle 
+Remo2hbo -Robustes und reparierbares Vitalparametermonitoring: Wie wir alle regelmäßig den Behörden ins Netz gehen und wie man immerhin mehr Transparenz schaffen kann
+Funkzellenabfrage: Die alltägliche Rasterfahndung unserer Handydaten: Über kreative Organisation, poltische Aktionen und das Bedürfnis nach vernetztem Aktivismus
+#afdwegbassen: Protest, (Club-)Kultur und antifaschistischer Widerstand: How I learned to stop worrying and love the backdoor
+Provable Security: How to write PCIe drivers in Rust, go, C#, Swift, Haskell, and OCaml
+Safe and Secure Drivers in High-Level Languages: weaknesses in the encryption of solid state drives (SSDs)
+Self-encrypting deception
+"Matrix, the current status and year to date: Langfristig bezahlbares, gemeinsames „Mieteigentum“ schaffen – 	auch ohne Banken"
+Die Häuser denen, die darin wohnen!
+Mehr schlecht als Recht: Grauzone Sicherheitsforschung: Blockchain origins and related buzzwords, described in pictures.
+A Blockchain Picture Book: Mein DIY-Smartphone-Bau 
+Butterbrotdosen-Smartphone
+Hacking the Human Microbiome
+Circumventing video identification using augmented reality: Ein Jahr unter der rechtsextremen Regierung
+Österreich: Überwachungsstaat oder doch nur Digitalisierung für Anfänger?: a try to explain the ecosystem
+Internet, the Business Side: Interdisciplinary research in Painting and Robotics. with Prof. Oliver Deussen, PhD candidate Marvin Guelzow, and the Artist Liat Grayver.
+Transhuman Expression: How soft and hardware can play a key role in saving lives at sea and why Frontex doesn´t like it
+Planes and Ships and Saving Lives: Tamper Proofing Commodity Hardware and other Applications
+Enclosure-PUF: Enforcing strong network segmentation, without anyone noticing
+Sneaking In Network Security: Reliably finding bugs to escape the Chrome sandbox
+Attacking Chrome IPC: live coding performance
+A WebPage in Three Acts: Hacking Visual Culture
+Media Disruption Led By The Blind: How cooperative online structures can facilitate sustainable offline activism
+The foodsaving grassroots movement: … und warum ihr dabei mitmachen solltet
+Repair-Cafés
+What the flag is CTF?: Von Cambridge Analytica zur EU-Wahl
+Microtargeting und Manipulation: Die Höhen und Tiefen der deutschen und europäischen Netzpolitik
+Netzpolitischer Wetterbericht 2018
+Dissecting Broadcom Bluetooth
+Security Nightmares 0x13
+Closing Event
+Lightning Talks Day 4: exploring the dark
+Let's reverse engineer the Universe: Up and to the right: All the statistics about this event you could wish for
+35C3 Infrastructure Review: A way to fix lazy eye?
+Hacking how we see
+Open Source Orgelbau: Preserving access to the open Internet with circumvention technology
+Cat & Mouse: Evading the Censors in 2018: exploring the relations between design and perception of machines and the dynamics in between
+Are machines feminine?: Unlocking God Mode on Linux
+Kernel Tracing With eBPF
+Augmented Reality: Bridging the gap between the physical and the digital world: Fantastic Media Manipulation
+Radical Digital Painting: OpenSchufa und OffeneGesetze
+Court in the Akten: Ein Erfahrungsbericht aus unbetreuter Vereinsmeierei
+empty"Have you ever felt oppressed by technology? YOU WILLempty" -- Campaigning für Offene Kulturen und Freies Wissen"
+(Switched) Ethernet
+114: Brauchen wir eine einheitliche Sperrufnummer für elektronische Berechtigungen?
+Abschlussveranstaltung
+Advanced TCP-Hijacking
+All Your Base Station Are Belong To Us: securityzing Wireless LANs
+Argus Pitbull hackz
+attackzing Routing Protocols
+attackzing Routing Protocols (praktische Übung)
+Bankraub im Zeitalter von Bits und Bytes
+Big Brother Awards
+Blinkenlights: Behind The Scenes
+Bluetooth - Ein Zahn im Aether
+c-wars: battle noise is normal
+Chaos Rückblick - Das Chaos Jahr 2001
+Computer- und Videospiele made in Germany
+Congress-Eröffnung und Orga-Hinweise
+Cryptographical Solutions for Wireless Devices
+Culture, Politix and Information Technology - Report from Plug'n'Politx in Zurich + Outlook
+d.o.c.-Kaffekränzechen
+Das Ende der Wahrheit - Informationskriegsführung in der Praxis
+Die schleichende Anfängerz von Zensur im Internet
+Die Stiftung Wauland stellt sich vor
+Distributed Portscanning mit PORZ
+DNS und ICANN - ein technopolitischer Blick auf die Ressourcenverwaltung des Internet
+EC-Kartentransaktionen & securityzsfragen
+Eine neue Linux libc: diet libc oder warum glibc scheisse ist
+Elliptische Kurven Kryptographie (ECC)
+Erfa-Kreis Treff
+ETSI und Lawful Interception
+EU-Urheberrechtsrichtlinie und Folgen
+F-CPU Development Status Report
+Film: “Codes” - Makers and Breakers (hackz World)
+GPL: GNU General Public License and Derivative Works
+Grundlagen der TCP/IP Protokollfamilie 
+hackz Jeopardy
+Häcksenworkshop
+How extreme is eXtreme Programming?
+Implementing Buffer Overflow attackz
+IMSI-Catcher: GSM Unsecurityz in der Praxis
+Indymedia Konzeptvorstellung und Diskussion
+insert_coin -- ein Experiment zu Inhaltsfilterung und -Manipulation im WWW
+Internationaler hackzfrhschoppen: Gesetze, hackztivism und andere Realitäten
+Intrusion Detection und Monitoring
+IPsec Grundlagen
+Kampagne für Realzeit
+L4 meets hurd
+Lawful Interception in the Netherlands and Germany
+Linux Deathmatch
+Lug-Treffen
+Meeting Of European Net Activists: Towards a European Privacy and Cyberrights Union
+Napsterisierung und Venterisierung von Wissen - Bausteine zu einer politischen Ökonomie des Wissens
+Perl - die Taschenkettensäge unter den Programmiersprachen
+Photuris (RFC2522) als Alternative zu ISAKMP/IKE
+Post-WTC copyright laws and the right to research
+Praktischer Einsatz von Crypto Filesystemen
+Privacy in the age of customer relationship management (CRM)
+Projekt “buffer overflow searcher” für Windows
+Prozessoren & Assembler für Anfängerz
+Runtime binary encryption on the UNIX platform
+Siegerehrung der 5. Deutschen Meisterschaften im Schlössöffnen nebst Wettkampf Blitzöffnung
+SigG auf der Karte
+SmallScript - the next generation of scripting languages
+Smart Cards: Grundlagen
+SMS & all its features
+Systemausfall '90 Verlag: Vervielfältigung ausdrücklich erwünscht
+TCP-Hijacking-Workshop
+TCP/IP DNS und Routing Grundlagen
+Telekommunikationsüberwachung im Internet nach dem TKG
+The attrACTIVE Domain -- die Zukunft der dahtlosen Konvergenz
+The Hurd: Unix Redesigned
+The RIP Act, empty"Anti-terrorzism"empty" laws
+Totale Kontrolle - Total Control
+Traffic Analysis of Encrypted Web Traffic
+Treffen aller Funkinteressierten
+Tron
+Übersicht aktuell verwendbarer e-Payment-Systeme
+Umgang und Möglichkeiten mit biometrischen Messmengen
+Upcoming securityz Nightmares II
+Videoüberwachung -- Reichvogt Hermann Gesslers Kamera auf der Stange
+Voice over IP
+Vorstellung Hostsharing e.G.
+Watson Vorführung
+Zensur im Internet Workshop
+Zukunft der Kabelfernsehnetze, MHP Standard und Hintergründe
+Zum Wahrheitsbegriff in der abendländischen Philosophie und den Wurzeln der Eristik.
+“root im sandkasten” -- Systeme mit LIDS
+“terrorzbekämpfung”: Datenschutz ade?
+Opening Event
+Keynote
+NSA-Untersuchungsausschuss: Zwischen Aufklärungswillen und Mauern aus Schweigen: Take a deep breath into pollution trickery
+The exhaust emissions scandal („Dieselgate“)
+A Free and Open Source Verilog-to-Bitstream Flow for iCE40 FPGAs
+How the Great Firewall discovers hidden circumvention servers
+The Great Train Cyber Robbery
+Thunderstrike 2: An inside look at x86 CPU design
+When hardware must „just work“: A gentle Anfängerz to post-quantum cryptography
+PQChackzs: Dokumentarisches Theater / Documentary Theatre
+Die Asyl-Dialoge / The Asylum Dialogues
+What is the value of anonymous communication?
+Towards (reasonably) trustworthy x86 laptops: half a year later
+rad1o++: Eine Reise auf die dunkle Seite
+Hardware-Trojaner in securityz-Chips: some 'new' insights
+Windows drivers attackz surface: How not to do DOCSIS networks
+Beyond your cable modem: OpenBSC reloaded
+Running your own 3G/3.5G network: The potential for payment system abuse
+Shopshifting: How advanced threat actors learn and change with innovation in securityz defense and constant APT reports, and how we can get better
+APT Reports and OPSEC Evolution, or: These are not  the APT reports you are looking for: Cultural Commons durch Kunstraub
+The mummy unwrapped: How the institutions fuck up, and how we fuck it up as well
+Avoiding kernel panic: Europe’s biggest fails in digital policy-making
+Internet Landscapes: NDG, BÜPF und wie wir uns dagegen wehren
+Netzpolitik in der Schweiz: How to turn your KVM into a raging key-logging monster
+Key-logger, Video, Mouse: Uncovering images from the secret Stasi archives.
+What does Big Brother see, while he is watching?
+Datahavens from HavenCo to Today
+New memory corruption attackz: why can't we have nice things?: Breaking the 3DS
+Console hackz: Understanding and adapting EU legal guidelines from a FOSS perspective
+hackz EU funding for a decentralizing FOSS project: How to bring student experiments into space.
+REXUS/BEXUS - Rocket and Balloon Experiments for University Students: Ein Computerwurm für PLCs
+PLC-Blaster: A deep dive into the surveillance features of North Korea's operating system
+Lifting the Fog on Red Star OS: Access to knowledge for every member of society
+Public Library/Memory of the World: Amiga Hardware Design And Programming
+The Ultimate Amiga 500 Talk: How hard can it be? An Anfängerz into CubeSat development
+So you want to build a satellite?
+Shooting lasers into space – for science!: How to design and fabricate soft robots using everyday materials
+My Robot Will Crush You With Its Soft Delicate Hands!
+Jahresrückblick des CCC: Export controls and securityz regulations: braindead and (in)evitable?
+Cyber all the Wassenaars: Wie es dazu kam und was daraus zu lernen ist
+Ein Abgrund von Landesverrat
+(Un)securityz von App-basierten TAN-Verfahren im Onlinebanking: From the Bill on Intelligence to the State of Emergency
+One year of securitarian drift in France: A tale of fault attackz on DRAM and attackz on CPU caches
+Rowhammer.js: Root privileges for web apps?
+Let's Encrypt -- What launching a free CA looks like: The Camel Strikes Back
+The Perl Jam 2
+Logjam: Diffie-Hellman, discrete logs, the NSA, and you: more than just pagers
+Iridium Update 
+Fnord-Jahresrückblick
+The state of Internet Censorship: alea iacta est 
+Net Neutrality in Europe: An attempt of calculating the economic cost of buffering.
+Buffering sucks!: Projektvorstellungen der JunghackzInnen
+Jugend hackzt 2015
+securityz von 125kHz Transpondern  am Beispiel Hitag S: 1 Jahr Freifunk in Südhessen 
+Lessons learned: Freifunk für Geflüchtete: Visualizing WLAN Channel Usage on OpenWRT
+All Our Shared Spectrum Are Belong to Us: The art of failure taught by improv theatre 
+G’scheitern: Guess what? The Government of Rafael Correa actually is totally against free-speech and we got proofs on that
+Ecuador: how an authoritarian government is fooling the entire world: from key distribution to position-based cryptography
+Quantum Cryptography: securityzing Free Data Channels and securityz Problems
+Dissecting VoLTE: exploring two decades of transport layer insecurityz
+goto fail;: Die Wissenschaftsgala vom 32C3
+Methodisch inkorrekt! (Live-Stream): Philosophical Perspectives on Privacy Drawing on the Example of Hannah Arendt
+Household, Totalitarianism and Cyberspace
+Lightning Talks Day 2: The future of Neuro-Headsets and concepts towards open-source, high-quality devices as an alternative to commercial products
+Evolution of Brain-Computer Interfaces: The first Open Source Cinema Camera
+apertus° AXIOM: Math, Functional Programming, Theorem Proving, and an Anfängerz to Isabelle/HOL
+Verified Firewall Ruleset Verification
+Vector retrogaming: Expeditionen ins Kommentierreich
+Das Zahnrad aus Fleisch: An Anfängerz to reverse engineering network protocols
+How hackzs grind an MMORPG: by taking it apart!: Living with a securityz implanted device
+Unpatchable: Die Wissenschaftsgala vom 32C3
+Methodisch inkorrekt!: Engaging social innovation and social innovators
+Maker Spaces in Favelas - Lecture: Pure capability-based securityz for UNIX
+CloudABI
+Software and business method patents: call for action: Disaggregating Data by Race and Ethnicity to Curb Discriminatory Policing
+Profiling (In)justice
+ Plunge into Proxy Politics
+Wie Jugendschutzprogramme nicht nur die Jugend schädigen
+Mobile Censorship in Iran: modular and precise resource management
+Ling - High level system programming: A complete toolbox for IoT securityz 
+julien.moinard@opale-securityz.com: Eine Anfängerz für blutige Anfängerz
+Quantenphysik und  Kosmologie: Fun and games until someone uses IPv6 or TCP
+Sanitizing PCAPs: Politische Phrasologie – warum man aus dem ganzen Zeug, das Politiker so reden, schlau werden kann
+„Nach bestem Wissen und Gewissen“ – Floskeln in der Politik
+Tor onion services: more useful than you think
+State of the Onion: Discrimination and ethics in the data-driven society
+Say hi to your new boss: How algorithms might soon control our lives.
+Safe Harbor: The future does not look much brighter than ten years ago. What comes next, and what can the hackz community do to make things better?
+Ten years after ‚We Lost The War‘: One can create art and beauty with … pixels
+QRtistry: Calling secret service agents to quit their jobs 
+Intelexit
+Crypto ist Abwehr, IFG ist Angriff!: Wireless Physical Layer securityz & More...
+Building and Breaking Wireless securityz: hackzs, I call thee to our Oceans!
+Maritime Robotics: Zahlenraten für Geeks
+hackz Jeopardy: Making it easier to avoid low-level compromise, and why you'll still lose
+Beyond Anti Evil Maid: An Artificial Intelligence exploration into the creation of meaning
+Computational Meta-Psychology
+Neither Snow Nor Rain Nor MITM… The State of Email securityz in 2015: How to drop more of your privileges to reduce attackz surface.
+Check your privileges!: The surveillance state & modern day COINTELPRO tactics
+The Price Of Dissent: Watching Algorithms
+Prediction and Control
+Reversing UEFI by execution: Or how I learned to stop worrying and love urandom
+The plain simple reality of entropy: Let's Build together a Free, Neutral and Decentralized Internet
+Internet Cube: Geheimdienste kontrolliert man am besten, indem man ihre Gründung verhindert
+Österreich: Der Kampf gegen unkontrollierte Massenüberwachung: How I failed to run an open source project
+libusb: Maintainer fail: Die absurdesten Szenen aus dem NSA-BND-Untersuchungsausschuss
+Grundrechte gelten nicht im Weltall!
+(In)securityz of Embedded Devices' Firmware - Fast and Furious at Large Scale
+Lightning Talks Day 3
+Vehicle2Vehicle Communication based on IEEE 802.11p: Large Scale Authorship Attribution from Executable Binaries of Compiled Code and Source Code
+De-anonymizing Programmers: How drones, IMSI Catchers, and cameras are shaping our cities
+The architecture of a street level panopticon
+20 OSCILLATORS IN 20 MINUTES : Gaza as a case study
+Free Software and Hardware bring National Sovereignty: How hackz is conceived in social science research
+Craft, leisure, and end-user innovation: Was kann das? Wie kann ich das nutzen? Wo besteht Erforschungsbedarf?
+Stromtankstellen – eine neue öffentliche Infrastruktur: Overview on Current Efforts - We Need Moar H4x0rs?! 
+Technology and Mass Atrocity Prevention: Trash the prints, print the trash
+re_cycle: The role of social-graphs for Drones in the War on terrorz. 
+Graphs, Drones & Phones: What hackz has to do with avantgarde art of the 1960ies (subtitle to be changed)
+empty"Fluxus cannot save the world.empty""
+Gibberish Detection 102: From DEFCON to the DARPA Cyber Grand Challenge
+A Dozen Years of Shellphish: The future of space exploration
+3D printing on the moon: Findings from a Research Project on Digital Surveillance Post-Snowden
+Media Coverage and the Public in the Surveillance Society: Net-activism strategies against fake web companies
+Trust us and our business will expand!: phone verified accounts bringing the Hessian army back to life
+the possibility of an army: Journalism ♥ Computer Science
+On Computing Numbers, with an Application to Problems of our Society
+#GOIBlocks - Technical observations about recent internet censorship in India: Perceptions of hackzs and hackztivists on their (in)securitisation
+“I feel like a criminal and I have to be god at the same time”: The Empires Strike Back
+Crypto Wars Part II
+DDoS mitigation EPIC FAIL collection
+Breaking Honeypots for Fun and Profit
+Predicting Crime in a Big Data World
+securityz Nightmares 0x10
+Closing Event: 3D printed key attackz
+Replication Prohibited: *(will be specified later based on usability test with Ivana Jilekova)
+Top X* usability obstacles: Social media break up coordinator
+When  algorithms fail in our personal lives
+How Open Source Software, second hand laptops and hackzs helped stop Ebola (and stopped an apocalypse).: How social media companies are creating a global morality standard through content regulations
+Sin in the time of Technology
+Collect It All: Open Source Intelligence (OSINT) for Everyone: A brief Anfängerz to search over encrypted data
+The Magic World of Searchable Symmetric Encryption
+Lightning Talks Day 4: und warum das gar nicht so einfach ist.
+Wie man einen Blackout verursacht 
+Microsofts Windows 10 Botnet: An OpenWrt perspective on the development of Linux 802.11 support
+Wireless Drivers: Freedom considered harmful?
+Katastrophe und Kommunikation: Conditions for a Successful Market Entry of Decentralized Social Networks
+A New Kid on the Block: Mooltipass, Openpandora/Pyra and Novena/Senoko: how I contributed and what was to be learnt on the path
+How to contribute to make open hardware happen: Creativity, Archives & Digital Media from the Chinese Internet
+CHINTERNET ART: Mecrisp intern
+Compileroptimierungen für Forth im Microcontroller
+31C3 Opening Event: A New Dawn
+31C3 Keynote: Die digitale „Agenda“ der Bundesregierung aus inhaltlicher, philologischer und linguistischer Perspektive
+„Wir beteiligen uns aktiv an den Diskussionen“
+SCADA StrangeLove: Too Smart Grid in da Cloud
+Practical EMV PIN interception and fraud detection: You have a tracking device in your pocket
+SS7: Locate. Track. Manipulate.
+Mobile self-defense: Gefahren von Kameras für (biometrische) Authentifizierungsverfahren
+Ich sehe, also bin ich ... Du: A gentle Anfängerz to elliptic-curve cryptography
+ECChackzs
+Crypto Tales from the Trenches
+Citizenfour: fun(ctional) operating system and securityz protocol engineering
+Trustworthy securityz modular operating system engineering: Das Zentrum für politische Schönheit
+Mit Kunst die Gesellschaft hackzen: New Bleichenbacher Side Channels and attackz
+Revisiting SSL/TLS Implementations: A Journey to Coax Out Chips' Inner Secrets
+Glitching For n00bs: First steps into space with sounding rockets
+Rocket science – how hard can it be?: Uploading rover...
+Space hackz: Do you care about Matroshka processors?
+AMD x86 SMU firmware analysis: A Deep Technical Analysis
+Rocket Kitten: Advanced Off-the-Shelf Targeted attackz Against Nation States: Too Much Fun with Microwaves
+3D Casting Aluminum: Moving Beyond Single Points of Failure for Software Distribution
+Reproducible Builds: Piecing together the missing bits
+osmo-gmr: What's up with sat-phones ?: Operative Kommunikation im digitalen Informationskrieg
+Mein Bot, der Kombattant: Wir leben noch und zwar sehr gut.
+10 Jahre OpenStreetMap: ... or how we battle the daemons of memory safety
+Code Pointer Integrity: how the EU was hypnotised that the NSA did not exist
+The Cloud Conspiracy 2008-2014: How 150 year old equations still help to communicate
+From Maxwell to antenna arrays
+Personal Tracking Devices and Online Identity
+Let’s build our own personalized open textile production line : or having FUN with (home/hackzspace) robotics
+How I Learned to Stop Reinventing and Love the Wheels: An open-hardware bipedal walking machine
+The eXperimental Robot Project
+Jugend hackzt: FPGAs for Everybody with Novena
+Towards General Purpose Reconfigurable Computing on Novena
+(In)securityz of Mobile Banking
+SS7map : mapping vulnerability of the international mobile roaming infrastructure: Industrial System Ownership
+Switches Get Stitches
+Beyond PNR: Exploring airline systems
+securityz Analysis of Estonia's Internet Voting System
+Safer playing with lasers
+Iridium Pager hackz: How governments use censorship and surveillance  as part of their violent repressive tactics
+Information Control and Strategic Violence: Und nichts (securityz) Bootet mehr?
+Vor Windows 8 wird gewarnt: Destroying data as a performative act
+»Hard Drive Punch«: transparency in the service of justice
+Reconstructing narratives: A Lawful Method for Converting Closed IP into Open IP
+Fernvale: An Open Hardware and Software Platform, Based on the (nominally) Closed-Source MT6260 SoC: What went wrong, how the Internet reacted, what we can learn for the future
+The Matter of Heartbleed: The untold story of what really happened, how it was patched and what was learned.
+ Heartache and Heartbleed: The insider’s perspective on the aftermath of Heartbleed: Wir helfen Euch die Fnords zu sehen.
+Fnord News Show: How computation helps to explain mind, universe and everything
+From Computation to Consciousness: A century of secret deals between the NSA and the telecom industry
+Tell no-one: Reverse Engineering Dead Protocols
+Cyber Necromancy: Inhalt und Umsetzung
+Das Transparenzportal Hamburg: Verteidigung gegen Dunkle Künste
+Krypto für die Zukunft: Creating an open source securityz flash-drive-sized computer
+Forging the USB armory: Reversing the Surveillance Business Model
+Privacy and Consumer Markets: Cybernetics, Anti-terrorzism, and the ongoing case against the Tarnac 10
+The Invisible Committee Returns with empty"Fuck Off Google"empty""
+attackz on UEFI securityz, inspired by Darth Venamis's misery and Speed Racer: The story of the NSA listening post – told by an ex-SIGINT analyst who worked there
+Inside Field Station Berlin Teufelsberg
+Doing right by sources, done right: Wir helfen Euch die Fnords zu sehen.
+Fnord News Show (Stream): An overview of usable securityz research
+Why is GPG empty"damn near unusable"empty"?"
+Lightning Talks Day 2: Wie es kommt, dass technischer Fortschritt den Nutzern gänzlich egal sein kann.
+GIFs: Tod eines Mediums. Und sein Leben nach dem Tod.: Automatic detection of key-reuse securityz
+Finding the Weak Crypto Needle in a Byte Haystack
+hackz Ethics in Education: Reports from the Frontlines
+Global Civil Society Under attackz: Trends in the sanitarian territory
+Internet of toilets
+Mining for Bugs with Graph Database Queries: Taking stock after two years of net neutrality in the Netherlands
+net neutrality: days of future past? : empty"Bei Kopierern kommt das raus
+Traue keinem Scan, den du nicht selbst gefälscht hast: Techniques for Chip Preparation
+Uncaging Microchips: Das Duo 'read & delete' präsentiert radikale philosophische Texte mit musikalischer Begleitung
+Serenität – Anleitung zum Glücklichsein
+Programming with dependent types in Idris: The next big privacy heist
+The automobile as massive data gathering source and the consequences for individual privacy: or how we learned to stop worrying and love the NSA
+Long war tactics: Lessons learned from crowdfunding a hardware project
+Mr Beam goes Kickstarter: open source DIY brain-computer-interfaces | technology and applications crash-course | empty"BCI Mind-hackz"empty" intro"
+Open-BCI DIY-Neuroscience Maker-Art Mind-hackz
+Preserving arcade games
+Too Many Cooks - securityzing the Internet-of-TR-069-Things: The art of making a free phonebox and the culture of anonymous communication
+Superheroes Still Need Phoneboxes
+Freedom in your computer and in the net
+Jahresrückblick des CCC: Der Protest gegen TTIP und CETA
+Deine Rechte sind in diesen Freihandelsabkommen nicht verfügbar
+DP5: PIR for Privacy-preserving Presence
+Thunderstrike: EFI bootkits for Apple MacBooks: Neue Energie für die Informationsfreiheit
+IFG – Mit freundlichen Grüßen: A Bus Trip into the Surveillance Culture of Berlin One Year After Snowden
+The Magical Secrecy Tour 
+The Perl Jam: securityzing a 20 Year-old Vulnerability
+UNHash - Methods for better password cracking: Several failure modes of the hackz scene
+Infocalypse now: P0wning stuff is not enough: Neue Spiele, neue Musik und noch mehr Luftballons
+Googlequiz – 2015er Edition: Vortrag mit aktuellen Fotos aus luftigen Perspektiven
+NSA Points of Presence in AT: Understanding the architecture of a quantum processor
+Let's build a quantum computer!: European copyright reform is finally on the horizon
+Correcting copywrongs
+EMET 5.1 - Armor or Curtain?: Politics and Physics of a Problem That's Not Going Away
+What Ever Happened to Nuclear Weapons?: How many windows are open in the patent fortress
+The Maker movement meets patent law: From war pigeons in 1914 to cyborg moths in 2014
+Living Drones: A view into technology on the other side of the world
+Computer Science in the DPRK: You never read alone
+Trackography
+MegaCode to facility gates: Einstellungen und Internetnutzungsverhalten im Kontext des NSA-Skandals am Beispiel von Facebook
+Snowden Effect vs. Privacy Paradox
+securityz Analysis of a Full-Body X-Ray Scanner
+Lightning Talks Day 3: Developing the Future of Authenticated Encryption
+CAESAR and NORX: The Role of Stylometry in Privacy
+Source Code and Cross-Domain Authorship Attribution: post-existentialism is the question, not post-privacy
+empty"securityzempty" in theater: DIY audio signal processing"
+Axoloti: Augmenting the Human Mind
+Eye Wear Computing: How speech processing helps the CCC subtitle project, and vice-versa.
+Automatically Subtitling the C3: Exploring identity and empathy through neuroscience, embodiment, VR and storytelling
+The Machine To Be Another
+Higher-Dimensional Geometry and Fractals: We want all data about food to be linked and public
+Why do we need an open food information platform: securityzation in a new media
+Damn securityz Chemical Process: Advanced binary tricks
+Funky File Formats: One Terabyte of Kilobyte Age
+The Only Thing We Know About Cyberspace Is That Its 640x480: Die Krise der Politik ist die Krise der Bilder
+Die Krise der Bilder ist die Krise der Politik: [Die Untersuchung]
+ES GIBT VIEL ZU TUN - HAU'N WIR AB.
+Agri-tech and the Arts: From Barns to D-Space: Ein Science-Fiction-Theaterstück
+The Time is Right
+The case of Chelsea Manning
+Why are computers so @#!*, and what can we do about it?: Neuland
+State of the Onion: #7reasons
+Premiere: We love surveillance: A Historical Re-Enactment of the PayPal14
+Paypals War on terrorz: Damit Sie auch morgen schlecht von Ihrem Computer träumen.
+securityz Nightmares
+31C3 Closing Event: Using microcontrollers to capture the blink of an eye for cheap
+Low Cost High Speed Photography: Turning copyright upside-down with metadata
+Attribution revolution:  A Free Robotic Certificate Authority
+Let's Encrypt: Internet reengineering session
+Now I sprinkle thee with crypto dust
+Tor: Hidden Services and Deanonymisation
+Lightning Talks Day 4
+31C3 Infrastructure Review: How to make your own telescope
+Telescope Making: Evaluating a complex cryptographic implementation
+The rise and fall of Internet voting in Norway
+Diamonds are a quantum computer’s best friend: From the Outside Looking In
+Virtual Machine Introspection: Damit Sie auch morgen schlecht von Ihrem Computer träumen.
+(Fast) Alles über DNS
+Abschlussveranstaltung
+Advanced encryption Standard - alles wird gut
+Advanced evasion of IDS buffer overflow detection 
+Anatomie Capability basierter Systeme
+Belastungstest an Überwachungseinrichtungen
+CCC Erfa-Kreis Treff
+CCC Projekte Status Quo
+Chaos-Rückblick im Jahre 2000
+Crashkurs für die Amateurfunk-Lizenz Klasse 3 (1/3)
+Crashkurs für die Amateurfunk-Lizenz Klasse 3 (2/3)
+Crashkurs für die Amateurfunk-Lizenz Klasse 3 (3/3)
+Datenschutzprobleme bei mobilen Informationsdiensten
+Die Freiheit der Bits und die Finanzierung der Künstler
+Die Programmiersprache Dylan
+Die TCP/IP Protokollfamilie
+Die Wissens-Allmende
+Dynamic Secret Sharing Scheme based on Factoring and LaGrange Interpolating Polynomials
+Anfängerz digitales Fernsehen
+Anfängerz in die Erratik (Performatives Propädeutikum)
+Elliptical Curve Cryptography
+Eröffnungsveranstaltung
+securityzing Buffer Overflows
+securityzing format string securityz
+F-CPU Project Status Quo
+Free Software Foundation Europe Vorstellung
+Freedom Downtime
+GNUPG Gnu Privacy Guard - Projektvorstellung & Status Quo
+Information-Guerilla / Hoaxes
+IP für Fortgeschrittene: Multicast
+IP für Fortgeschrittene: Routing und attackz darauf
+IPv6 für Fortgeschrittene
+Mobile Adhoc Networking
+MP3-Psychoakustik
+Netfilter Framework in Linux 2.4
+Sammeln, speichern, verarbeiten, abwiegeln und abstreiten 
+Satellitenbildaufklärung - eine Anfängerz
+Siegerehrung der deutschen Meisterschaft im Schlossöffnen
+Smart Card Fingerprinting
+Smart Cards
+Suchen und Finden im Internet
+TCP-Hijacking
+Telekommunikationsüberwachung nach TKG
+Tesla Workshop
+Upcoming securityz Nightmares
+Videoüberwachung im Öffentlichen Raum
+Von der Freien Software zur Freien Gesellschaft
+Von Offener Theorie zur Offenen Enzyklopädie
+Wavelan-securityz / The dark sides of IEEE 802.11
+Workshop zu den empty"Wizards of OS 2001"empty""
+XML/XSLT-Workshop
+33C3 Opening Ceremony: The Infrastructure and People behind Drone Killings
+The Global Assassination Grid: Crypto fight in the Wake of Apple v. FBI
+The Fight for Encryption in 2016
+Bootstraping a slightly more securityz laptop: How the FBI and local cops are hackz computers outside of their jurisdiction.
+Law Enforcement Are hackz the Planet: The Red Pill of N26 securityz
+Shut Up and Take My Money!: Technical Teardown of the Pegasus malware and Trident securityz chain
+Pegasus internals: The Role of Automation Dependency in Aviation Accidents
+What's It Doing Now?: env stinks || exit
+Dieselgate – A year later: A hackz’s review of Dieselgate
+Software Defined Emissions: ...or why adding BTLE to a device sometimes isn't smart at all
+Lockpicking in the IoT: PS4: PC Master Race
+Console hackz 2016: Ein Geheimdienst als Zeuge. Szenen aus dem NSA-Untersuchungsausschuss.
+Nicht öffentlich.
+Reverse engineering Outernet
+How Do I Crack Satellite and Cable Pay TV?: Breaking TLS using SSLv2
+The DROWN attackz: Polizeiliche Datenbanken und was man über seinen Auskunfts- und Löschungsanspruch wissen sollte
+Check Your Police Record!: Prejudice in Word Embeddings
+A Story of Discrimination and Unfairness
+Geolocation methods in mobile networks: Let's put the new EU Net Neutrality rules to work
+Make the Internet Neutral Again : Wie mit Gerüchten über Geflüchtete im Netz Stimmung gemacht wird
+Bonsai Kitten waren mir lieber - Rechte Falschmeldungen in sozialen Netzwerken: Game Over
+Nintendo hackz 2016: Improving the encrypted the web, one round-trip at a time
+Deploying TLS 1.3: the great, the good and the bad: Finding interesting targets in 128bit of entropy
+You can -j REJECT but you can not hide: Global scanning of the IPv6 Internet: Side effects include side-channel attackz and bypassing kernel ASLR
+What could possibly go wrong with <insert x86 instruction here>?: Lessons learnt implementing PCIe on FPGA for XTRX Software Defined Radio
+Building a high throughput low-latency PCIe based SDR
+Zwischen Technikbegeisterung und kritischer Reflexion: Chaos macht Schule: How mapping creates space, shapes cities and our view of the world.
+Space making/space shaping: Wider die automatisierte Rechtsdurchsetzung
+Kampf dem Abmahnunwesen: Was Aktivisten davon lernen können
+Routerzwang und Funkabschottung: A proposal for securityz computing in an age where we cannot trust our CPUs anymore
+Untrusting the CPU: Open Sourcing a 22 Years Old Game
+Back to the 16bit Era: Eine kleine Anfängerz in den 802.11ac Standard
+Make Wi-Fi fast again: Becoming a secret travel agent
+Where in the World Is Carmen Sandiego?
+Woolim – Lifting the Fog on DPRK’s Latest Tablet PC: (but were afraid to ask)
+Everything you always wanted to know about Certificate Transparency: teaching a new dog old tricks
+securityzing PHP7 unserialize
+Predicting and Abusing WPA2/802.11 Group Keys: A DIY MIDI Controller and a New UI for Wind Instruments
+The Nibbletronic
+Anthropology for kids - What is privacy?: Was die Sensor & Automatisierungstechnik in der Landwirtschaft heute schon leisten kann – Ein Einblick
+0en & 1en auf dem Acker: How cold data can make you feel things.
+A Data Point Walks Into a Bar: Type In Beyond the Scrolling Horizon
+Keys of Fury: Grundrechte per Volksentscheid versenken
+Netzpolitik in der Schweiz 2016: Ein Jahresrückblick aus dem Land der Datenberge
+Netzpolitik in Österreich: A Journey in the Land of (Cyber-)Espionage
+Visiting The Bear Den: von Mikroskopen, Wahrnehmung und warum das kaum jemanden interessiert
+Es sind die kleinen Dinge im Leben
+How physicists analyze massive data: LHC + brain + ROOT = Higgs: The struggle for securityz for all.
+hackz the World: Intrusion and Exfiltration in Server-less Architectures
+Gone in 60 Milliseconds
+Recount 2016: An Uninvited securityz Audit of the U.S. Presidential Election: Wie politische empty"Gewissheiten"empty" sprachlich konstruiert werden"
+Die Sprache der Populisten: A Closer Look at the Political Reactions to Mass Surveillance in Germany
+Germany after Snowden: Is Data-Protection-Friendly Germany fighting State Surveillance?
+Stopping law enforcement hackz
+NSU Monologe: …und was wir dagegen tun können
+Durchmarsch von Rechts: Schlagende Argumente, fliegende Fäuste
+Eine kleine Geschichte der Parlamentsschlägerei: Wir helfen euch, die Fnords zu sehen!
+Fnord-Jahresrückblick: Technology and Politics in Congress Talks, from 1984 to now
+Der 33 Jahrerückblick: Preserving documentation of human rights violations
+Syrian Archive: (Did) We Accidentally a New Geological Epoch(?)
+Welcome to the Anthropocene?: IT securityz is largely a science-free field. This needs to change.
+In Search of Evidence-Based IT-securityz: Demokratiefeindliches Strafrecht: Die Datenhehlerei gem. § 202d StGB
+Haft für Whistleblower?: We must prevent EU copyright reform from breaking the internet
+Copywrongs 2.0
+Anfängerz zu Blockchains: and How You Can Help the Refugees Who Saved His Life
+The Untold Story of Edward Snowden’s Escape from Hong Kong: How private companies leak your personal data into the public domain, and how you can buy it.
+Build your own NSA: Wer denkt, Vorratsdatenspeicherungen und „Big Data“ sind harmlos, der kriegt hier eine Demo an Spiegel-Online.
+SpiegelMining – Reverse Engineering von Spiegel-Online
+Shining some light on the Amazon Dash button
+A look into the Mobile Messaging Black Box: Lightning Talks
+Lightning Talks Day 2: How to write an open source bit-bang low-speed USB stack running on a sub-$1 Cortex M0+
+No USB? No problem.
+SearchWing - Drones to find refugees in Mediterranean Sea: (Not Only) attackz on OAuth and OpenID Connect
+On the securityz and Privacy of Modern Single Sign-On in the Web
+State of Internet Censorship 2016: Call the frontdoor to install your backdoors
+Intercoms hackz
+ATMs how to break them to stop the fraud
+International exchange of tax information: The Devolution of Arab Men from Humans to Digital Fodder
+The Clash of Digitalizations
+Tapping into the core: Analyzing Embedded OS Random Number Generators
+Wheel of Fortune: Berufe aus vergangenen Zeiten
+Von Kaffeeriechern, Abtrittanbietern und Fischbeinreißern: Mixed Reality and multi-sensory communication    
+hackz Reality 
+Formal Verification of Verilog HDL with Yosys-SMTBMC: How (inter)national money transfers works
+A world without blockchain
+Downgrading iOS: From past to present
+SpinalHDL : An alternative hardware description language: A systemic update of sensitive information that you sniff from pagers
+Code BROWN in the Air: Uncovering Nation-State Mobile Espionage in the Wild
+Million Dollar Dissidents and the Rest of Us
+CCC-Jahresrückblick 2016: Introducing the Love to Code Platform
+Making Technology Inclusive Through Papercraft and Sound: Developing open, FPGA-based capture hardware for conference & user group recording
+Dissecting HDMI: Why Lauri Love's case is even more important than you thought 
+No Love for the US Gov.: Refocusing on the moon as a platform for future deep space missoins
+The Moon and European Space Exploration: the state at the beginning of the 21st Century
+Interplanetary Colonization
+Lasers in the sky (with asteroids): Dark Matter and Gravitational Waves
+Eavesdropping on the Dark Cosmos: Stuff in Space Is Far Away – but How Do We Know?
+The Universe Is, Like, Seriously Huge: after 1.0
+radare demystified
+On Smart Cities, Smart Energy, And Dumb securityz
+Dissecting modern (3G/4G) cellular modems: Dreaming Machines
+Machine Dreams
+Technologien für und wider Digitale Souveränität: Space Transportation and the Extraterrestrial Imperative
+An Elevator to the Moon (and back): Hedy Lamarr: Frequency Hopping in Hollywood
+The woman behind your WiFi: 10 Jahre Informationsfreiheitsgesetz
+Irren ist staatlich
+What We Can Learn about Creativity from 3D Printing: an overview of physically unclonable functions
+PUFs, protection, privacy, PRNGs: or zero-knowledge succinct non-interactive arguments of knowledge for laypeople
+The Zcash anonymous cryptocurrency
+How do we know our PRNGs work properly?: Lightning Talks
+Lightning Talks Day 3: What you need and how it works. An experiences report
+Building Custom Pinball Machines: Turbulence, Big Data, AI, Fake News, and Peak Knowledge
+A New Dark Age
+Hochsecurityzs-Generalschlüssel Marke Eigenbau: Unsere Daten, die Zukunft und die zerstörte Demokratie
+Berechnete Welt
+Saving the World with (Vegan) Science: A net.art collective since 1995. Understanding the browser as a canvas for art.
+JODI - Apache is functioning normally : An exploration of candy as an engineered material
+Edible Soft Robotics: A sumo style robot battle for intentionally crappy robots!
+Hebocon: Die Wissenschaftsgala vom 33C3
+Methodisch inkorrekt!: How thousands of companies are profiling, categorizing, rating and affecting the lives of billions
+Corporate surveillance, digital tracking, big data & privacy: A tale of 3 different memory deduplication based securityzation techniques
+Memory Deduplication: The Curse that Keeps on Giving
+Liberté, Égalité, Fraternité... and privacy ?!
+Do as I Say not as I Do: Stealth Modification of Programmable Logic Controllers I/O by Pin Control attackz: On the Privacy & securityz of the Ultrasound Tracking Ecosystem
+Talking Behind Your Back: Dissecting a Modern Wireless Network for the Internet of Things
+Decoding the LoRa PHY: Wie Wertschätzung in (Tech-)Communities gelingen kann
+Von Alpakas, Hasenbären und Einhörnern – Über Anerkennungskultur
+ From Server Farm to Data Table: hackzs' knowledge studied by sociologist of science 
+hackz collective as a laboratory
+The 12 Networking Truths: Power and politics in the development of the driverless car
+Ethics in the data society: Why Censorship is a Bad Idea for Everyone
+The Economic Consequences of Internet Censorship
+The High Priests of the Digital Age
+Genetic Codes and what they tell us – and everyone else: Schärft das Schwert der Transparenz!
+Datenschutzgrundverordnung: Rechte für Menschen, Pflichten für Firmen & Chancen für uns
+The Ultimate Game Boy Talk
+securityz Nightmares 0x11
+33C3 Closing Ceremony: Mind-sets, state-of-the-art methods and practices according to official documents including leaks
+Mass Surveillance through Computational Linguistics and Human Language Technology: Reimagining Experience Sharing and Skill Transfer
+Beyond Virtual and Augmented Reality: 50 most unwanted retail surveillance technologies / 50 most wanted countersurveillance technologies
+Retail Surveillance / Retail Countersurveillance: owards A Global Network Of Neighbourhoods And Cities Rejecting Surveillance
+Rebel Cities: Was der Anti-terrorz-Kampf von der Urheberrechtsdurchsetzung lernen kann
+Privatisierung der Rechtsdurchsetzung: About military RF communication surveillance and other activist art & technology projects
+Surveilling the surveillers: Post-trump open brainstorm by IFS - Institute for Social Role Play and associates    
+Prediction Fail: Lightning Talks
+Lightning Talks Day 4: The usual extremely factual look behind the scenes of this event
+33C3 Infrastructure Review: Deciding between technological utopias in a liberal state
+The Transhumanist Paradox: Theresa May’s effort to abolish privacy
+Understanding the Snooper’s Charter: securityz Boot support in qemu, kvm and ovmf.
+TCPA - resistance is futile? --- Rüdiger Weis / Andreas Bogk (Saal 1) [366]
+Anfängerz in Geschichte und Struktur des CCC --- Andy Müller -Maguhn (Saal 1) [374]
+Micro FM Transmitter im Eigenbau (Teil 1) --- Elektra  (Saal 5) [377]
+Computer- und Videogame Producer (Saal 1) [380]
+Project Blinkenlights: ARCADE --- Tim Pritlove / Thomas Fiedl er / Sven Neumann (Saal 1) [381]
+Quantenkryptographie --- Christian Kurtsiefer (Saal 1) [382]
+Datenbanken - was ist das? --- Markus Schaber (Saal 2) [384]
+Spam Prevention --- Stefan Sels (Saal 3) [386]
+Capture the flag (Linux Deathmatch) --- Stefan Sels () [387]
+attackzing networked embedded systems --- FX of Phenoelit (Saa l 1) [388]
+Wikipedia
+Spass mit Codeflow Analyse - neuer Schwung für Malware --- St ealth  / Halvar Flake / Scut  (Saal 1) [392]
+Clustering the NetBSD Operating System for Video Rendering -- - Hubert Feyrer (Saal 2) [396]
+NetBSD - An Operating System (not only) for Embedded Environm ents --- Hubert Feyrer (Saal 2) [397]
+Mastering Regular Expressions --- Eric  Van Buggenhaut (Saal 2) [398]
+Its my box: how the hardware and software traps in the Xbox w ere   beaten and Linux installed --- Michael Steil / Andy Green / Mil osch  Meriac (Saal 2) [399]
+Rapid Deployment von IPv6 mit 6to4 --- Hubert Feyrer (Saal 2)  [400]
+Network Hijacking --- Stefan Krecher (Saal 1) [401]
+Network Hijacking Workshop --- Stefan Krecher / Bastian Ballm ann / Alexander Neumann (Saal 2) [402]
+Unscharfe kryptographische Fingerabdrücke --- Konrad Rieck (S aal 3) [404]
+Chipkarten und Überwachung --- Matthias Brüstle (Saal 3) [406]
+WLSec - Wireless LAN securityz Framework --- Reyk Flöter (Saal  2) [407]
+Next Generation Operations Support Systems and securityz Issue s --- Carlos Heller (Saal 3) [408]
+Call Center - Risiken und Nebenwirkungen --- Fanny Pittack (S aal 3) [409]
+How CIL opens Microsoft's sources --- Mathias Hasselmann (Saa l 3) [410]
+Patent Party --- Peter Gerwinski / Roland Goretzki / Eike Lan ge (Saal 1) [411]
+Siegerehrung Deutsche Meisterschaften im Schlossöffnen --- St effen Wernery (Saal 1) [412]
+AES attackz --- Rüdiger Weis (Saal 2) [413]
+Schach der Künstlichen Un-Intelligenz --- Rüdiger Weis (Saal 3) [414]
+Biometrie - Funktionsweise und securityz --- Lisa Thalheim /  Jan Krissler (Saal 3) [415]
+CCC Regiotreffen --- Lars Weiler (Saal 2) [417]
+Wikipedia Workshop --- Kurt Jansson (Saal 5) [418]
+Biometrie Workshop (Fortsetzung) --- Lisa Thalheim / Jan Kris sler (Saal 5) [421]
+Beopardy - The hackz Jeopardy --- Stefan `Sec` Zehl (Saal 1)  [424]
+EC-Kartenunsecurityz Workshop XXIII --- Andy Müller-Maguhn /  Sebastian Zimmermann / Frank  Rosengart (Saal 3) [426]
+Eröffnung --- Andy Müller-Maguhn / Tim Pritlove / Andreas Leh ner (Saal 1) [428]
+Abschlussveranstaltung --- Andy Müller-Maguhn / Tim Pritlove / Andreas Lehner (Saal 1) [429]
+Kontrolle des Internets durch das DNS: ICANN Status Quo --- A ndy Müller-Maguhn (Saal 3) [430]
+Blindspots der hackzpsyche --- Hendrik Fulda / Andreas Stein hauser (Saal 5) [431]
+Die zeitliche Dimension von securityz --- Hendrik Fulda / Fr ank Rieger (Saal 3) [432]
+TCP/IP für Anfängerz --- Jan-Hinnerk Haul (Saal 1) [433]
+securityz Nightmares III: Worüber wir nächstes Jahr lachen wer den --- Hendrik Fulda (Saal 1) [434]
+Jahresrückblick: Netzzensur und andere Ereignisse des Chaos J ahres 2002 --- Andy Müller-Maguhn / Jens Ohlig / Lars Weiler (Saal 1)  [435]
+Pop Culture and Media hackz --- Rudy Rucker (Saal 3) [440]
+empty"Medien selber machen!empty" am Beispiel der Berliner radiokampagn e.de --- Oliver Pritzkow (Saal 3) [441]"
+Lawful Interception of IP Traffic: The European Context --- J aya Baloo (Saal 3) [442]
+How to find anything on the web --- fravia  (Saal 1) [443]
+Forensik: Musterspuren in Schließzylindern --- KOK Müller (Sa al 1) [445]
+Zero Tool hackz --- Nils Magnus (Saal 1) [448]
+Smartcards mit SOSSE sind lecker --- Matthias Brüstle (Saal 2 ) [449]
+TCP state/window tracking + stat --- Harald Welte (Saal 2) [4 50]
+A GNU approach to improving Unix securityz --- Wolfgang Jährli ng / Moritz Schulte (Saal 2) [451]
+Perl - die Taschenkettensäge unter den Programmiersprachen -- - Brigitte Jellinek (Saal 3) [452]
+Die fünf Pforten der Manipulation --- Ralf Grauel (Saal 1) [4 53]
+Blinkenlights Protocol Workshop --- Rene Schickbauer / Sven N eumann / Tim Pritlove (Saal 5) [454]
+ISP User Profiles --- Steffen David / Stefan Wahl (Saal 2) [4 60]
+NOC Review --- Philipp Wünsche / Denis Ahrens (Saal 2) [461]
+Datenfunk Übertragungstechniken --- Rolf Thier (Saal 2) [462]
+attackz auf Paddingverfahren zu RSA --- Rainer Böhme (Saal 2 ) [463]
+Statistische Stego-Analyse mit R --- Rainer Böhme (Saal 3) [4 64]
+Bürgernetze - Spielball von Staats- und Wirtschaftsinteressen 
+Micro FM Transmitter im Eigenbau (Teil 2) --- Elektra  (Saal 5) [469]
+SoCCCoban - Spiele in Flash --- Corinna  (Saal 5) [470]
+Call Center - Anekdoten --- Fanny Pittack (Saal 5) [471]
+BlinkenMini --- Julia Eisenberg / Stefan Schürmanns (Saal 5) [472]
+Poster Session (Saal 5) [474]
+Conceiving Ada --- Cornelia Sollfrank (Saal 5) [475]
+TCP/IP v6 Anfängerz --- Harald Welte (Saal 1) [478]
+EU-Urheberrechtslinie
+One Time Crypto --- Frank Rieger (Saal 3) [480]
+Nerdsport: Raketen basteln für Anfängerz --- Frank Rieger (Saa l 3) [481]
+Erfahrungen bei Design und Abnahme eines BSI zertifizierten S ystems --- Thomas Brandl (Saal 2) [483]
+Buffer Overflows for Anfängerz --- Viola  (Saal 5) [484]
+Symbolics Lisp Machines oder: früher war alles besser --- And reas Bogk (Saal 3) [488]
+Big Brother Awards 2002/2003 --- Christian Mock / Matthias Ge iser / Rena Tangens / padeluun  (Saal 1) [489]
+Skalierbare Netzwerk-Programmierung unter Unix --- Felix von Leitner (Saal 2) [490]
+Distributed Computing Panel --- Markus Schaber / Tiziano Meng otti / Manuel Möller (Saal 1) [491]
+Intro zu X86_64 und IA64 Architektur und Assembler --- Felix von Leitner (Saal 2) [494]
+SCTP (Stream Control Transmission Protocol) --- Andreas Jungm aier (Saal 2) [495]
+Freedom CPU : Year 4 --- Cedric  Bail / Nicolas Boulay / Yann  Guidon (Saal 2) [498]
+C Optimizations for the masses --- Dirk Engling (Saal 2) [500]
+Browser-Esperanto und seine Dialekte - Anfängerz in Auszügen  --- Maria Oelinger (Saal 5) [502]
+19C3 WLAN IPSec Configuration Workshop --- Philipp Wünsche / Thorsten Schröder (Saal 2) [503]
+Urban hackz
+Detecting DDos attackz and Countermeasures at ISPs --- Jan Cz mok (Saal 3) [506]
+Amateurfunk - Quo Vadis? --- Michael Holzt / Peter Schwindt ( Saal 2) [508]
+Informationsfreiheiten.de Treffen --- Volker Grassmuck (Saal 5) [509]
+Teesatz Wahrsagen: 2003 im Anfängerz (Saal 5) [511]
+GenderChangers --- Ursula Teubert (Saal 5) [512]
+Stand
+EU data retention - Europas Daten für die amerikanischen Dien ste --- Erich Moechel / Andreas Bogk (Saal 1) [517]
+Angriff der Mensch-Maschine-Schnittstelle am Beispiel Interne t-Banking --- Volker Birk (Saal 3) [518]
+Big Brother Awards 2002/2003 Diskussion --- Christian Mock / Matthias Geiser / Rena Tangens / padeluun  (Saal 3) [521]
+Ada Lovelace Project (Saal 5) [526]
+Vorstellung .net --- Johannes  (Saal 5) [527]
+Video Presentation: Control Commission - Action
+802.11b Wireless Network securityz - Past
+NOC Preview --- Christian Carstensen (Saal 1) [531]
+Buchvorstellung: Krieg und Internet -Ausweg aus der Propagand a? --- Stefan Krempl (Saal 3) [536]
+WSIS - An Overview --- Markus Beckedahl / Ralf Bendrath / Rik ke Frank Joergensen (Saal 1) [537]
+Practical Win32 and UNICODE securityzation --- FX of Phenoelit (Saal 1) [538]
+Statusbericht NetBSD --- Hubert Feyrer (Saal 2) [539]
+Das OpenBSD Projekt --- Alexander von Gernler (Saal 2) [541]
+Trusted or Treacherous? --- Rüdiger Weis / Andreas Bogk (Saal  1) [542]
+BigBrother auf der Autobahn? - Das deutsche Mautsystem --- Fr ank  Rosengart (Saal 1) [543]
+Abschlussveranstaltung Lockpicking --- Steffen Wernery (Saal 1) [545]
+1024-bit RSA ist unsicher --- Rüdiger Weis (Saal 2) [546]
+The Brainf*ck CPU Project - Anfängerz in FPGA Entwicklung - -- Clifford Wolff (Workshop) [549]
+ROCK Linux - Das tool zum erstellen von (Linux) Distributione n --- Clifford Wolff (Saal 3) [550]
+Eröffnung --- Tim Pritlove / Andy Müller-Maguhn / Frank  Rose ngart / Andreas Bogk (Saal 1) [555]
+Behind the CryptoPhone --- Frank Rieger (Saal 2) [556]
+Ein Rant über den Missbrauch von Java
+Bioinformatik - Einblick in die Herstellung von digitalen Kil lermutanten --- Manuel Odendahl (Saal 2) [559]
+Soziale Software - Trolls
+Der Zettel am Bildschirm: Psychologische Aspekte von Computer securityz inOrganisationen. --- Alexander Schestag / Sabine Engelha rdt (Saal 3) [562]
+Using Smartcards with Opensc --- Andreas Jellinghaus (Worksho p) [563]
+Data Mining und Intelligence Software --- Martin Duchscherer (Saal 2) [568]
+Fragen an eine maschinenlesbare Regierung --- Gerriet Hellwig  (Saal 1) [574]
+Das neue Urheberrecht und die gesellschaftlichen Folgen --- M artin Kreißl (Saal 3) [575]
+Free WLANs for the masses --- Jan Michael Hess (Saal 1) [576]
+securityz Internet Live Conferencing with SILC --- Christian  Ho rchert / Frank Becker (Saal 3) [577]
+Synchronization between Linux Kernel Contexts; SMP
+Reverse engineering linux based firmware images --- Harald We lte (Saal 3) [580]
+Chaos Jahresrückblick 2003 --- Andy Müller-Maguhn / Lars Weil er (Saal 1) [581]
+hackztivity --- Clifford Wolff / Raffael  Himmelreich (Saal 1)  [583]
+Daten sammeln für Datengarten und Lesemaschine --- Gerriet H ellwig / Ursel Reichhardt (Saal 3) [587]
+Schummeln in öffentlichen „distributed computing“ Projekten - -- Michael Feiri (Saal 3) [588]
+AN.ON and the future of anonymziers in Germany --- Matthias H annich / Oliver Berthold (Saal 1) [589]
+Bürgernetze --- Klaus Schleisiek (Workshop) [590]
+Berichte von den Big Brother Awards --- Christian Mock / Matt hias Geiser / Rena Tangens (Saal 1) [591]
+Die Programmiersprache Python --- Markus Schaber (Haecksen) [ 592]
+Weird Programming --- Markus Schaber (Saal 3) [593]
+Sinn einer fBSD empty"Personal Firewall"empty" --- Sebastian Schoeberl ( Workshop) [594]"
+AmateurfunkAnfängerz 1/3 --- Michael Grigutsch (Workshop) [5 95]
+AmateurfunkAnfängerz 2/3 --- Thomas DM8TBR (Workshop) [596]
+AmateurfunkAnfängerz 3/3 --- Matzen DL7CA (Workshop) [597]
+trustbased P2P exchange on the semantic web and the WYMIWYG K noBot project  --- Reto Bachmann-Gmuer (Saal 1) [598]
+Software-Patente --- Edward Gerhold (Saal 1) [599]
+RFID - Chips mit Antenne für eindeutige Nummern --- padeluun   / Axel Rüweler / Volker Birk (Saal 2) [600]
+Spam Analyse & Optimierung --- fd0  / Stefan Sels (Saal 3) [6 01]
+Sniffen für Fortgeschrittene --- Nils Magnus (Saal 2) [602]
+Biological Weapons --- Florian Burckhardt (Saal 2) [603]
+Xbox Hardware hackz --- Andrew „bunnie“ Huang / Michael Ste il (Saal 2) [604]
+Xbox Software hackz --- David Jilli / Edgar „gimli“ Hucek /  Franz „hamtitampti“ Lehner / Jeff empty"koitsu"empty"/"empty"asterisk"empty"  Mears / Stefa n "empty"ionic"empty"  Esser (Saal 2) [606]"
+WOS3: What‘s brewing? What‘s missing? --- Florian  Cramer / E rik Möller / Patrick Danowski / Volker Grassmuck (Workshop) [607]
+Alternative Compensation Systems --- Volker Grassmuck (Saal 3 ) [608]
+securityz Nightmares III --- Hendrik Fulda / Frank Rieger (Saa l 1) [609]
+Abschlussveranstaltung --- Andy Müller-Maguhn / Tim Pritlove (Saal 1) [610]
+hackz Jeopardy (Saal 1) [611]
+Hardware / Netzwerk --- Dorothea Eggers / Ursula  (Haecksen) [612]
+Haecksenzirkel --- Tina Lorenz (Haecksen) [615]
+Presseworkshop --- Claudia Fischer (Haecksen) [616]
+PGP: The Real User’s Guide --- Elizabeth  (Haecksen) [617]
+AHA - Activism
+GPG Keysigning Party --- Tribble  (Haecksen) [619]
+IPSec  --- Philipp Wünsche (Haecksen) [620]
+LFS (Linux from Scratch) --- Jule Riede (Haecksen) [621]
+Softwarekunst: das Projekt runme.org --- Florian  Cramer (Saa l 3) [623]
+Neue Notrufnummer für die Informationsgesellschaft  --- Micha el Denck (Saal 3) [624]
+Massage für Männer (Haecksen) [625]
+Feminine Projekte Wau Holland Stiftung --- Ursel Reichhardt ( Haecksen) [626]
+Bits und Bytes verschieben: Elektronikselbstbau 2003 --- Mich ael Holzt (Workshop) [629]
+The quintessenz biometrics doq/ubase   --- Erich Moechel / At rox  / q/chris  / Sourcerer  (Saal 2) [630]
+Skolelinux - ein genialer Schulserver --- Kurt  Gramlich (Saa l 3) [631]
+Die zutiefste Wahrheit über PI
+Fnord-Jahresrückschau --- Felix von Leitner / Frank Rieger (S aal 1) [633]
+Blinkenlights Workshop --- Tim Pritlove (Workshop) [634]
+Distributed Computing --- Michael Weber (Saal 3) [637]
+RoboterEvolution --- Matthias Rehkop (Saal 2) [638]
+RoboterRechte --- Matthias Rehkop (Saal 2) [639]
+Bug Hunting --- Frank Becker (Workshop) [640]
+Regiotreff --- Lars Weiler (Saal 3) [642]
+Workshop: Ethik und hackz-Ethik --- Thomas Barth (Workshop) [643]
+Gute Antennen selber bauen --- Elmar Lecher (Saal 2) [644]
+Freie Radios - Heile Welt? --- Oliver Pritzkow / Herr Wetterf rosch (Saal 3) [645]
+First Aid for Nerds Vortrag --- Sven „Sanifox“ Vößing (Worksh op) [649]
+connect -> plug n politix --- bonzai@so36.net  (Haecksen) [65 0]
+RFID Controller Workshop  --- padeluun  (Haecksen) [651]
+Building a digital video recorder --- Thomas 'Mike´ Michlmayr   (Saal 2) [652]
+Device hackz with JTAG --- Peter De Schrijver  (Saal 3) [65 3]
+Windows (in)securityz --- Volker Birk (Saal 1) [656]
+Programmieren von small-scale devices --- Dirk Engling (Works hop) [657]
+Zope und Plone --- Jörg Kantel (Workshop) [658]
+Der Tausendjahresplan: Chaos Visionen --- Andreas Bogk (Saal 1) [659]
+eCos - embedded devices OpenSource. --- Volker Birk (Saal 2) [660]
+Festplattenlöschen mit dem Degausser --- Peter Franck (Worksh op) [661]
+Software-Patente --- Edward Gerhold (Workshop) [662]
+Wettbewerb „Homöomorphe Endmontage“ (Workshop) [663]
+Eröffnung: tuwat
+Dude, you broke the Future!: Warum das Laden eines Elektroautos unsicher ist
+Ladeinfrastruktur für Elektroautos: Ausbau statt Sicherheit: China's Social Credit Systems
+Gamified Control?: CITL: Quantitative, Comparable Software Risk Reporting
+How risky is the software you use? 
+Die Lauschprogramme der Geheimdienste: Lesung
+QualityLand: Analyse einer Wahlsoftware
+Der PC-Wahl-Hack: Wie in Österreich über Sicherheit und Überwachung gesprochen wird
+Die Sprache der Überwacher
+Die fabelhafte Welt des Mobilebankings: Facts to fight lore
+DPRK Consumer Technology
+KRACKing WPA2 by Forcing Nonce Reuse: work in progress beta preview of the documentary
+All Creatures Welcome : mit Krisenintervention den Kapitalismus hacken
+hacking disaster: Things you always wanted to know about NIC drivers
+Demystifying Network Cards
+Uncovering British spies’ web of sockpuppet social media personas: Wird es Regen geben? Ein Ausblick auf die neue Legislaturperiode
+Der netzpolitische Wetterbericht
+How can you trust formally verified software?: Why is my vacuum as powerful as my smartphone?
+Unleash your smart-home devices: Vacuum Cleaning Robot Hacking
+Inside Intel Management Engine 
+Bildung auf dem Weg ins Neuland: The Bundestagswahl 2017 and Rise of the AfD
+Pointing Fingers at 'The Media'
+Defeating (Not)Petya's Cryptography
+Microarchitectural Attacks on Trusted Execution Environments
+The Ultimate Apollo Guidance Computer Talk: Die EU hat die Wahl: Schutz von Menschen oder von Geschäftsmodellen?
+Lobby-Schlacht um die ePrivacy-Verordnung
+End-to-end formal ISA verification of RISC-V processors with riscv-formal
+The Work of Art in the Age of Digital Assassination: Decrypting French encryption law
+WTFrance: How much can we trust science in light failed replications, bogus results and widespread questionable research practices?
+Science is broken
+Algorithmic science evaluation and power structure: the discourse on strategic citation and 'citation cartels'
+1-day exploit development for Cisco IOS
+iOS kernel exploitation archaeology: warning: gravity ahead
+Watching the changing Earth: An Open Electrical Impedance Tomography Project
+Low Cost Non-Invasive Biomedical Imaging: Raum, Zeit, Licht und Gravitation, wie hängt das zusammen?
+Relativitätstheorie für blutige Anfänger
+Catch me if you can: Internet Activism in Saudi Arabia: Firmware modifications faking you fitter
+Doping your Fitbit: Strong metadata protection for asynchronous messaging
+Practical Mix Network Design: Forensic Architecture is an independent research agency that undertakes historical and theoretical examinations of the history and present in articulating notions of public truth.
+Forensic Architecture: A journey on how to fix broken proprietary hardware by gaining code execution on it
+eMMC hacking, or: how I fixed long-dead Galaxy S3 phones: No bug is small enough
+Squeezing a key through a carry bit: Modems, FIDO, Z-Netz, Usenet, UUCP, SLIP and ISDN
+BBSs and early Internet access in the 1990ies: The Situation of Censorship and Surveillance in Iran, and What Should Be Done
+Tightening the Net in Iran: A semantics based approach
+Lets break modern binary code obfuscation: Ein Leitfaden für post-humane Computer- und Körperanwendungen
+Access To Bodies: Shipped from Germany for 0.1412554 Bitcoins
+Ecstasy 10x yellow Twitter 120mg Mdma: How the reputation economy is creating data-driven conformity
+Social Cooling - big data’s unintended side effect
+BootStomp: On the Security of Bootloaders in Mobile Devices: How the internet self-governs without international law
+BGP and the Rule of Custom: Die Informatik löst formale (mathematisch modellierte) Probleme ganz vorzüglich – doch nun soll sie alle anderen Probleme auch noch lösen / Computer science nicely solves formally modelled problems – now it is believed to solve everything else too
+Die göttliche Informatik / The divine Computer Science
+Mobile Data Interception from the Interconnection Link: Über die Banalität der Beeinflussung und das Leben mit Algorithmen
+Beeinflussung durch Künstliche Intelligenz: Tools for Fooling the empty"Black Box"empty""
+Deep Learning Blindspots: tuwat
+Jahresrückblick des CCC 2017: An introduction into reverse-engineering x86 microcode and writing it yourself
+Everything you want to know about x86 microcode, but might have been afraid to ask: Homebrew on the Horizon
+Console Security - Switch
+Intel ME: Myths and reality: Fun with lattices in cryptography and cryptanalysis
+LatticeHacks: Zum Verbot von Indymedia linksunten
+All Computers Are Beschlagnahmt: Zahlenraten für Geeks
+Hacker Jeopardy
+Lightning Talks Day 2: ...and dehumanize ourselves in the process?
+Why Do We Anthropomorphize Computers?...: How search and rescue in the mediterranean was criminalized
+The seizure of the Iuventa
+Spy vs. Spy: A Modern Study Of Microphone Bugs Operation And Detection: Where IoT has gone wrong
+Internet of Fails: A Rapidly Emerging Police State and Imminent Deportation to Sri Lanka and Philippines
+The Snowden Refugees under Surveillance in Hong Kong: Analyzing & Breaking Exploit Mitigations and Secure Random Number Generators on QNX 6.6 and 7.0
+Taking a scalpel to QNX: Wie die Überwachung unsere Sicherheit gefährdet
+Trügerische Sicherheit:  'Liberating' Firmware from Closed Devices with Open Source Hardware
+Opening Closed Systems with GlitchKit: Theory and practice of moonshining and legal distilling
+Home Distilling: from apple to schnaps -- a complete diy-toolchain
+Schnaps Hacking: Zahlenraten für Geeks (Stream)
+Hacker Jeopardy Stream: Therapiestunde mit einem Datenjournalisten und vielen bunten Visualisierungen
+Social Bots, Fake News und Filterblasen: Shamir secret sharing: How it works and how to implement it
+We should share our secrets: Dissecting FPGAs from bottom up, extracting schematics and documenting bitstream formats
+Reverse engineering FPGAs: Ways to Chaos in Digital and Analogue Electronics
+Electromagnetic Threats for Information Security: How to make a community project fly
+Blinkenrocket!
+Inside Android’s SafetyNet Attestation: Attack and Defense: Exposing the global banking watchlist
+Financial surveillance
+The making of a chip: Practical cache attacks on the MMU
+ASLR on the line: An AES encrypted radio system
+Uncovering vulnerabilities in Hoermann BiSecur: Approaches to working with sound and network data transmissions as a sculptural medium.
+Visceral Systems
+Making Experts Makers and Makers Experts: 5.-Klässlerinnen, die über die Millisekunden für einen delay()-Aufruf diskutieren! Gibt es nicht? Doch, gibt es!
+Digitale Bildung in der Schule: On the obstacles to think of emergent technologies in the field of nursing science
+Think big or care for yourself
+May contain DTraces of FreeBSD: Die aktuellen Auseinandersetzungen über digitale Freiheitsrechte
+Netzpolitik in der Schweiz: ...or why we need 17 billion Volts to make a picture.
+Free Electron Lasers: (without your mom yelling at you)
+How to drift with any car: Will You Be My Plugin?
+Humans as software extensions: Afrofuturism, Telling tales of speculative futures
+Afro TECH
+The Noise Protocol Framework
+Implementing an LLVM based Dynamic Binary Instrumentation framework: From Hacker Culture to the Software of the Future
+Growing Up Software Development: The Robots Play Our Music and What Do We Do?
+Robot Music: Die Wissenschaftsgala vom 34C3
+Methodisch inkorrekt!: The time travelling android isn’t even our biggest problem
+Regulating Autonomous Weapons: Eine Geschichte voller Missverständnisse
+Antipatterns und Missverständnisse in der Softwareentwicklung
+Vintage Computing for Trusted Radiation Measurements and a World Free of Nuclear Weapons: short answer: Yes!
+cryptocurrencies, smart contracts, etc.: revolutionary tech?: Traveling with Digital Devices in the Golden Age of Surveillance
+Protecting Your Privacy at the Border: A survey of BSD kernel vulnerabilities.
+Are all BSDs created equally? : Neues vom Zentrum für Politische Schönheit
+Tiger, Drucker und ein Mahnmal: An Exploration of NFC Transactions and Explanation How Apple Pay and Android Pay Work
+Decoding Contactless (Card) Payments : Analysing the terminology of the UK’s  Snooper’s Charter
+This is NOT a proposal about mass surveillance!: Die geekige Wort- & Bilderrätselspielshau ist zuЯück
+Nougatbytes 11₂
+Lightning Talks Day 3: Freetown Christiania´s digitally controlled/surveyed heating system. 350 users
+“Nabovarme” opensource heating infrastructure in Christiania: The Open Observatory of Network Interference
+OONI: Let's Fight Internet Censorship, Together!: or is it just PEWPEW?!
+Saving the World with Space Solar Power
+Drones of Power: Airborne Wind Energy: Artistic interventions in climate change
+Don't stop 'til you feel it: An introduction to the basics of climate research and what we can do about climate change
+A hacker's guide to Climate Change - What do we know and how do we know it?
+On the Prospects and Challenges of Weather and Climate Modeling at Convection-Resolving Resolution: Cybernetic models analyze scenarios of interactions between future global food consumption, agriculture, landuse, and the biogeochemical cycles of water, nitrogen and carbon.
+Simulating the future of the global agro-food system
+Closing the loop: Reconnecting social-technologial dynamics to Earth System science
+Ensuring Climate Data Remains Public: Wieviel CO2 macht <...>? Ungefähr?
+Treibhausgasemissionen einschätzen
+Taxation
+Bringing Linux back to server boot ROMs with NERF and Heads: Is designing circuits with code instead of CAD the future of electronic design automation?
+Designing PCBs with code: From tractors to Web standards
+History and implications of DRM
+Net Neutraliy Enforcement in the EU: From molecular colonization to molecular collaboration
+Open Source Estrogen: Going to space the libre way
+UPSat - the first open source satellite: Satellite Open Ground Station Network
+SatNOGS: Crowd-sourced satellite operations
+Inside AfD: SDR PHY for OsmocomBB
+Running GSM mobile phone on SDR: Open Source Hardware for Smart Candies
+Electroedibles: Political pressure for DNA-based facial composites
+Extended DNA Analysis : was alles geht und wie man anfängt, mit Mikroskopen
+Es sind die kleinen Dinge im Leben II
+Public FPGA based DMA Attacking: Can we see the stray radiation of wireless devices? And what would the world look like if we could?
+Holography of Wi-Fi radiation
+Coming Soon: Machine-Checked Mathematical Proofs in Everyday Software and Hardware Development
+Policing in the age of data exploitation: Overview of how the state censored and how it got circumvented
+Internet censorship in the Catalan referendum: Towards an open source binary firmware analysis framework
+avatar²
+Resilienced Kryptographie: Das erste computer netzwerk in Krieg (Jugoslavia 1992-1997)
+Zamir Transnational Network und Zagreb Dairy: Survey of Network Anonymisation Techniques
+How Alice and Bob meet if they don't like onions: Von Technik, Kollaborationen und Erreichtem zum G20-Gipfel 2017
+Ein Festival der Demokratie: Obsolete Technologies + Critical Material Studies in Media Art
+Deconstructing a Socialist Lawnmower: Wie man ein Haus kaufen kann ohne es zu besitzen
+Mietshäusersyndikat: den Immobilienmarkt hacken: Informationsfreiheit trotz CSU
+Schreibtisch-Hooligans: Hijacking debug components for embedded security
+TrustZone is not enough: Was die Sensor & Automatisierungstechnik in der Landwirtschaft heute schon leisten kann – Ein Einblick
+0en & 1en auf dem Acker: Forcing the Netherlands to publicly debate privacy and the intelligence agencies
+Fuck Dutch mass-surveillance: let's have a referendum!: Get a unique tour of some of the world’s most unusual networks, led by a Cuban hacker
+The Internet in Cuba: A Story of Community Resilience
+Security Nightmares 0x12: #tuwat
+Abschluss
+Lightning Talks Day 4: Resilient P2P Messaging for Everyone
+Briar
+Privacy Shield -  Lipstick on a Pig?: How does the CCC run a conference?
+34C3 Infrastructure Review
+Tracking Transience
+International Image Interoperability Framework (IIIF) – Kulturinstitutionen schaffen interoperable Schnittstellen für digitalisiertes Kulturgut: Walter Höllerer bei WikiPedia
+WHWP: is there no such thing as open hardware?
+openPower - the current state of commercial openness in CPU development: Rosa Menkman investigates video compression, feedback, and glitches
+institutions for Resolution Disputes
+Organisational Structures for Sustainable Free Software Development: How Undocumented Immigrants in the US Navigate Technology
+Uncertain Concern
+Type confusion: discovery, abuse, and protection: reject the default reality^W abstractions and substitute your own
+library operating systems: A decentralized Public Key Infrastructure that supports privacy-friendly social verification
+Modern key distribution with ClaimChain: Research on Monitoring Italian Government Surveillance Capabilities by means of Transparency tools
+Italy's surveillance toolbox
+Hardening Open Source Development: A critical look on a new audio Format
+MQA - A clever stealth DRM-Trojan: Hacking industrial control gateways
+Opening Event: Art Practice under the Regime of Anti-terrorz Legislation
+Do You Think That's Funny?: Techniques - Tools - Tricks
+An Anfängerz to Firmware Analysis: Die Diskussion um NSA, PRISM, Tempora sprachlich und logisch aufgearbeitet
+Keine Anhaltspunkte für flächendeckende Überwachung: Reporting on the secret trial of Chelsea Manning
+07KINGSTON25 JAMAICA: MALARIA UPDATE Dispatches from Fort Meade
+Mobile network attackz evolution: Applying science to eliminate 100% of buffer overflows
+Bug class genocide
+30c3 Keynote: We're living in interesting times
+The Tor Network: Hexagon challenges
+Baseband securityzation in 2013
+No Neutral Ground in a Burning World: Zahlenraten für Geeks [Number guessing for geeks]
+hackz Jeopardy: The Making of…
+Seidenstraße: It hurts.
+Reverse engineering of CHIASMUS from GSTOOL: Stealing Money from ATMs with Malware
+Electronic Bank Robberies:  Was tun nach der mittelmäßigen Kryptographie-Apokalypse?
+Kryptographie nach Snowden: Clean boot every boot -  rejecting persistence of malicious software and tripping up the evil maid
+Hardening hardware and choosing a #goodBIOS
+30c3 Keynote: WiiU
+Console hackz 2013: Wer kontrolliert das Netz?
+Der Kampf um Netzneutralität: OMG - my Smart TV got pr0wn3d
+HbbTV securityz: A singing and dancing robot build to take part in casting shows 
+Sim Gishel
+Der tiefe Staat: How OpenWrt evolved from a WRT54G firmware to an universal Embedded Linux OS
+10 Years of Fun with Embedded Devices:  Anfängerz to Heterogeneous Parallel Programming
+Rock' em Graphic Cards: Anfängerz to software radio principles
+Basics of Digital Wireless Communication: Concepts and components for intercontinal communication with single photons.
+Long Distance Quantum Communication
+Forbidden Fruit: Stalin's best men, armed with paper and pen
+World War II hackzs: On the Awesomeness of Particle Accelerators and Colliders
+Breaking Baryons: How to do things with words
+Überwachen und Sprache: Deep program analysis without the headache
+Triggering Deep securityz Using Symbolic Execution: Erkenntnisse aus Informationsfreiheitsanfragen - hackzs, Bugs, Workarounds 
+IFGINT: more than just pew pew!
+lasers in space: Velocipedes and Face Recognition
+Policing the Romantic Crowd
+Monitoring the Spectrum: Building Your Own Distributed RF Scanner Array: Activity Recognition for the Mind
+Toward a Cognitive empty"Quantified Self"empty" : A Decentralized PKI For Social Movements"
+The GNU Name System: Embedded securityz Using Binary Autotomy
+Firmware Fat Camp: Forschung Aktuell - Aus Naturwissenschaft und Technik mit Berichten vom 30C3
+Deutschlandfunk Live: Wie kommt IT ins Radio?
+Workshop empty"hackz Radio"empty": Deutschlandfunk Extra live"
+empty"Smartes Heim - Glück alleinempty": Sondersendung live"
+Die Lange Nacht der hackz: by an anonymous 15 years old
+Life Without Life: DJ Set:
+ vin cent: formatierung der neurologischen Festplatten und update der biologischen Betriebssysteme auf Homo Cosmicus 1.0 mit kosmologisch relevante Frequenzklastern 
+!live Gongkonzert Klanghaus Media Audionic & Klavier Anka & Eternal Drum
+X-Dream
+Gammler und Kundan Lal
+live! Ben Con Cello
+Tobi Lampe (Pokerflat) b2b Vinzenco
+Maulwolf DJs (Renken&Rothstein)
+Superdefekt (MFOC)
+Robo Klein & John Ohrt (Universum Alltona): Attribute Based Credentials in Practice
+The Gospel of IRMA : Fun and frightening uses of always-on camera enabled wearable computers
+Glass hackzs: Repurposing an Inmarsat Dish
+Hillbilly Tracking of Low Earth Orbit: Historische Grundlagen und notwendige Konsequenzen 
+Die Bundesrepublik – das am meisten überwachte Land in Europa 
+Hardware attackz, Advanced ARM securityzation, and Android hackz
+The Year in Crypto: Von der Historie zur Zukunft
+25 Jahre Chipkarten-attackz: The future of IC analysis
+securityz of the IC Backside
+Seeing The Secret State: Six Landscapes
+Jahresrückblick des CCC: How to make art after Snowden?
+Hello World!
+Fast Internet-wide Scanning and its securityz Applications
+EUDataP: State of the Union: Using existing hardware platforms to integrate python into your dashboard
+Script Your Car!
+V wie Verfassungsschutz
+Revisiting empty"Trusting Trust"empty" for binary toolchains"
+Art of the securityz: An Anfängerz to Critical Engineering: We already know
+SCADA StrangeLove 2
+Jahresrückblick des CCC: securityz notions, proofs and attackz using dependently typed functional programming
+BREACH in Agda
+Lightning Talks, Day 2
+My journey into FM-RDS: Making awesome stuff with FPGAs
+FPGA 101
+Anfängerz to Processor Design: So hosten Sie Ihre De-Mail, E-Mail und Cloud direkt beim BND!
+Bullshit made in Germany
+The good, the bad, and the ugly - Linux Kernel patches: Food replicating Robots from Open Source Technologies
+Plants & Machines: How technology is used to subvert and circumvent anti-monopoly laws
+Technomonopolies: 2013er Edition
+Googlequiz: A case for expansionistic space policy
+We only have one earth: Side-Channel (and other) attackz in Practice
+Extracting keys from FPGAs, OTP Tokens and Door Locks: Free Software on Your Camera
+Magic Lantern: Twisting time and space to explore the unknown
+Against Metadata: Creating mash-up movies by hidden activity and geography of Peer-to-Peer file sharing
+The Pirate Cinema: What can be done to protect the term, the notion and the existence of the Users?
+Turing Complete User: call for participation in project and product development
+Open source experimental incubator build up: !Mediengruppe Bitnik about their recent works
+hackz as Artistic Practice: A farewell to a bold proposal?
+Desperately Seeking Susy: Let's create the Arduino for FPGAs
+Programming FPGAs with PSHDL: Pragmatic Advice for securityz Researchers
+Disclosure DOs, Disclosure DON'Ts: On Freedom of Facial Expression
+Perfect Paul
+Deutschlandfunk - Das 30C3-Interview mit ...
+Deutschlandfunk - Das 30C3-Interview mit ...: Computer und Kommunikation über den 30C3
+Deutschlandfunk Live
+Deutschlandfunk - Das 30C3-Interview mit ...: Deutschlandfunk Extra live
+empty"Datenschutz aus Brüssel - Wer will denn das?empty": DJ Set:"
+gaya kloud: A Mate Butoh Performance
+Caayari : DJ Set:
+Kraftfuttermischwerk: DJ Set:
+gaya kloud: formatierung der neurologischen Festplatten und update der biologischen Betriebssysteme auf Homo Cosmicus 1.0 mit kosmologisch relevanten Frequenzklastern
+live! Gongkonzert Klanghaus Media Audionic
+DJ Elbe (Elfenmaschine)
+Na Nu? Ein Gnu!
+Don Shtone (Sven Dohse)
+live! At the space office (Universum Alltona)
+Zeitgeist
+Roamin'Roman
+live! Neal White
+deo&z-man (mafiosibros.)
+Holle Lang: rapid prototyping of digital fabrication and instrumentation machines
+Making machines that make: Autonomous flying vehicles, where are we and where are we going?
+Drones: by xobs & bunnie
+The Exploration and securityzation of an SD Memory Card: Dynamic Dalvik Instrumentation of Android Applications and the Android Framework
+Android DDI
+Even More Tamagotchis Were Harmed in the Making of this Presentation: It's worse than it looks
+X securityz: terrorz, whistleblowers, drugs, internet
+The Four Wars: The militarization of the Internet
+To Protect And Infect
+Trezor: Bitcoin hardware wallet: a call to resistance
+Sysadmins of the world, unite!: Lawful Interception
+CounterStrike: Der schonungslose Realitätsabgleich mit Birzarrometer-Rekalibrierung [The harsh reality check and recalibration of the bizarre-o-meter]
+Fnord News Show
+Europe, the USA and Identity Ecosystems: In China Your ID Card Knows Everything
+ID Cards in China: Your Worst Nightmare: hackz City-Wide Access Control Systems
+RFID Treehouse of Horror: Artificial Intelligence Reloaded
+How to Build a Mind: Survey
+White-Box Cryptography
+Persistent, Stealthy, Remote-controlled Dedicated Hardware Malware: Creating Internet Privacy and securityz Resources That Don't Suck
+The Internet (Doesn't) Need Another securityz Guide: Eine Anfängerz in die Wirkungsweise psychedelischer Substanzen
+Mind-hackz mit Psychedelika: Ein Streifzug durch die Fehler in der Kryptografie 
+Zwischen supersicherer Verschlüsselung und Klartext liegt nur ein falsches Bit : Der schonungslose Realitätsabgleich mit Birzarrometer-Rekalibrierung [The harsh reality check and recalibration of the bizarre-o-meter]
+Fnord News Show
+India's Surveillance State
+Lightning Talks, Day 3
+#SOPA, #NSA, and the New Internet empty"Lobby"empty": Spending a year coding in a newsroom"
+Nerds in the news: Using random sampling, entity resolution, communications metadata, and statistical modeling to assist prosecutions for disappearance and genocide in Guatemala
+Data Mining for Good: 30C3S SCE mbH: GEMA-Konkurrenz für Fortgeschrittene 
+2 Takte später
+Anonymity and Privacy in Public Space and on the Internet
+Reverse engineering the Wii U Gamepad
+Backdoors, Government hackz and The Next Crypto Wars: Kriegsführung der Zukunft?
+Die Drohnenkriege
+Y U NO ISP, taking back the Net
+Building a safe NFC ticketing system: experiences from the “i3 Berlin” 3D printer project with Blender and Github
+Structuring open hardware projects: Passwortgenerierung mit Arduino  [Generating passwords with Arduino]
+calc.pw: An Arduino Powered Electric Guitar
+The ArduGuitar
+Towards an affordable brain-computer-interface
+Recht auf Remix: Building a space for grassroots sustainable technology development near Barcelona
+Calafou, postcapitalist ecoindustrial community: what is the winning move?
+WarGames in memory: Errata FTW
+Virtually Impossible: The Reality Of Virtualization securityz: Spaß mit mechanischer Anzeige
+Das FlipDot-Projekt
+Decoder
+Deutschlandfunk - Das 30C3-Interview mit ...
+Deutschlandfunk - Das 30C3-Interview mit ...
+Deutschlandfunk - Das 30C3-Interview mit ...
+Deutschlandfunk - Das 30C3-Interview mit ...: Wie kommt IT ins Radio?
+Workshop empty"hackz Radio"empty": Deutschlandfunk Extra live"
+empty"Big Data und der Dual Useempty": Radio Rollenspiel"
+ENKIs vergessene Kinder: A spoken word poetry performance
+When Words Dance: DJ Set:
+Tasmo: DJ Set:
+Barbnerdy: DJ Set:
+Nie Low: formatierung der neurologischen Festplatten und update der biologischen Betriebssysteme auf Homo Cosmicus 1.0 mit kosmologisch relevanten Frequenzklastern 
+live! Gongkonzert Klanghaus Media Audionic
+dj-spock
+Fukami: Acid Pauli!!
+Acid Pauli!!!!!!
+Peer Gregorius (Nation of Gondwana)
+live! Woodrow Wilson (Krautrock)
+Harre Künast (click 808)
+Jay Pauli (Grünanlage / Alte Liebe): ɛloʊ is the color of gold, butter, or ripe lemons. In the spectrum of visible light, and in the traditional color wheel used by painters, jɛloʊ is located between green and orange.
+live! jɛloʊ // Rotzige Beatz
+Carsten Stäcker (Frequenzberater)
+Dj Bimmel (U-site, Fusion, ROT): A parliamentary drama of 223 actors
+hackz the Czech Parliament via SMS: Physically Unclonable Functions for Hardware Tamper Detection
+Thwarting Evil Maid attackz: Everything we know about NSA spying
+Through a PRISM, Darkly
+Amtliche Datenschützer: Kontrolleure oder Papiertiger?: Damit Sie auch morgen schlecht von Ihrem Computer träumen. [Tomorrow’s computer nightmares, today.]
+securityz Nightmares
+Closing Event: The militarization of the Internet
+To Protect And Infect, Part 2: Fünf Desillusionen
+Warum die Digitale Revolution des Lernens gescheitert ist.
+THE DATABASE NATION, a.k.a THE STATE OF SURVEILLANCE: getting out of surveillance state mode
+Concepts for global TSCM: Damit Sie auch morgen schlecht von Ihrem Computer träumen. [Tomorrow’s computer nightmares, today.]
+securityz Nightmares
+Closing Event
+Beyond the Tech: Building Internet Freedom Tools for Real People
+Lightning Talks, Day 4
+attackzing HomeMatic: How to decipher the messages of your body
+Coding your body: Contemplations on the essence of hackz and its implications on hackz ethics
+The philosophy of hackz: empty"A New Hope"empty" or "empty"The Empire Strikes Back"empty"?"
+Human Rights and Technology: Presentation of MOC/NOC/VOC/SOC/*OC
+Infrastructure Review: Auf dem Weg zu fairer Elektronik am Beispiel der Elkos  [The way to fair electronics, by example of capacitors]
+Dead Man Edition: Wie kommt IT ins Radio?
+Workshop empty"hackz Radio"empty": Deutschlandfunk Extra live"
+empty"Braucht die Informatik hackzempty""
+Deutschlandfunk - Das 30C3-Interview mit ...: Forschung Aktuell - Aus Naturwissenschaft und Technik mit Berichten vom 30C3
+Deutschlandfunk Live: Formatierung der neurologischen Festplatten und update der biologischen Betriebssysteme auf Homo Cosmicus 1.0 mit kosmologisch relevante Frequenzklastern
+live! Gongkonzert Klanghaus Media Audionic & Eternal Drum
+Marco Morelle & Philipp Wolgast
+live! Tonfang (Universum Alltona)
+Jonas Wahrlich (e.minor, Plux, Der Hut)
+live! Akustik Nord (Jojo Heizmann): Technotheater
+Chaos Collective
+Dj DeineMaid
+!live Frau Malonda
+Dj DeineMaid
+Marc Schneider (Panorama Bar)
+RatKat
+Opening Event: Welcome everybody!
+Steam-Powered Telegraphy : A League of Telextraordinary Gentlemen present the marvel of Telex on the Net - driven by a steam engine
+Der Bundestrojaner: Die Wahrheit haben wir auch nicht, aber gute Mythen
+TOR
+It was a bad idea anyway...: The demise of electronic voting in The Netherlands
+NEDAP-Wahlcomputer in Deutschland
+What is terrorzism?: And who is terrorzising whom?
+Design Noir: The seedy underbelly of electronic engineering
+Programming DNA: A 2-bit language for engineering biology
+DNS Rebinding And More Packet Tricks
+empty"I can count every star in the heavens above but I have no heart I can't fall in love…empty".: The image of computers in popular music"
+The Role of Brilliant Deviants in the Liberalization of Society: How People Like Us Make People Like Them Accept Us
+Paparazzi - The Free Autopilot: Build your own UAV
+Anonymity for 2015: Why not just use Tor?
+AES: side-channel attackz for the masses
+Tracker fahrn: We Track Harder - We Track More! Take the pain out of running a Bittorrent-Tracker!
+Crouching Powerpoint, Hidden Trojan: An analysis of targeted attackz from 2005 to 2007
+AnonAccess: Ein anonymes Zugangskontrollsystem
+IPv6: Everywhere they don't want it: Global connectivity even in the places that you are not supposed to have it
+Freifunkerei: And a Do-It-Yourself society against the state
+Simulating the Universe on Supercomputers: The evolution of cosmic structure
+Building a hackz Space: A hackz Space Design Pattern Catalogue
+10GE monitoring live!: How to find that special one out of millions
+Desperate House-hackzs: How to hackz the Pfandsystem
+Make Cool Things with Microcontrollers: hackz with Microcontrollers
+Cybercrime 2.0: Storm Worm
+Digital Sustainability: Scarcity is Entering the Net
+VX: The virenz Underground
+Elektronische Dokumente und die Zukunft des Lesens: Warum es so ewig gedauert hat, bis Bücher auf geeigneten Geräten lesbar wurden, und was uns noch erwartet
+Data Retention and PNR: The Brussels Workshop
+Quantum Cryptography and Possible attackz
+Why Silicon-Based securityz is still that hard: Deconstructing Xbox 360 securityz: Console hackz 2007
+Chaos Jahresrückblick: Ein Anfängerz über die Aktivitäten des Clubs 2007
+Toying with barcodes: Jemandem einen Strich auf die Rechnung machen
+Port Scanning improved: New ideas for old practices
+DIY Survival: How to survive the apocalypse or a robot uprising
+Rule 34 Contest: There is porn of it.
+Lightning Talks Day 2
+Absurde Mathematik: Paradoxa wider die mathematische Intuition
+After C: D, libd and the Slate project: A clean slate for operating systems
+Linguistic hackz: How to know what a text in an unknown language is about?
+To be or I2P: An Anfängerz into anonymous communication with I2P
+Automatic memory management: Why should I care about something that a computer could handle better, anyway?
+Spiel, Freude, Eierkuchen?: Die Gamerszene und ihre Reaktion auf kritische Berichterstattung 
+Inside the Mac OS X Kernel: Debunking Mac OS Myths
+Das Panoptische Prinzip - Filme über die Zeit nach der Privatsphäre: Ergebnisse des Minutenfilmwettbewerbs des C4 und des Kölner Filmhauses
+hackz ICANN: tactics to hackz the individual into the ICANN system
+Konzeptionelle Anfängerz in Erlang
+Wireless Kernel Tweaking: or how B.A.T.M.A.N. learned to fly
+23 Wege für Deine Rechte zu kämpfen: Wie man sich selbst mit den eigenen Stärken für unsere Bürgerrechte einsetzen kann
+Just in Time compilers - breaking a VM: Practical VM securityzing based on CACAO
+Modelling Infectious Diseases in Virtual Realities: The empty"corrupted blood"empty" plague of WoW from an epidemiological perspective"
+hackz SCADA: how to own critical infrastructures
+C64-DTV hackz: Revisiting the legendary computer in a joystick
+Mifare: Little securityz, Despite Obscurity
+What can we do to counter the spies?
+hackz ideologies, part 2: Open Source, a capitalist movement: Free Software, Free Drugs and an ethics of death
+The history of guerilla knitting
+Die Wahrheit und was wirklich passierte: Jede Geschichte hat vier Seiten. 
+Agenten des Bösen: Verschwörungstheorien
+Relay attackz on card payment: securityz and defences: Keeping your enemies close
+All Tomorrow's Condensation: A steampunk puppet extravaganza by monochrom and friends
+Sex 2.0: hackz Heteronormativity
+hackz Jeopardy: Die ultimative hackz-Quizshow
+Hamburger Wahlstift
+Distributed campaigns for promoting and defending freedom in digital societies: Sharing experience about campaigning on the political field in France
+Wahlchaos: Paradoxien des deutschen Wahlsystems
+Analysis of Sputnik Data from 23C3: Attempts to regenerate lost sequences
+Current events in Tor development
+hackz in the age of declining everything: What can we do when everything we thought turns out to be wrong
+Meine Finger gehören mir: Die nächste Stufe der biometrischen Vollerfassung
+Open Source Lobbying, tips from the trenches: From one angry e-mail to writing national policy on open source
+Space Communism: Communism or Space first?
+Grundlagen der sicheren Programmierung: Typische securityzslücken
+Anfängerz in MEMS: Skills for very small ninjas
+OpenSER SIP Server: VoIP-Systeme mit OpenSER
+Getting Things Done: Der Antiverpeil-Talk
+From Ring Zero to UID Zero: A couple of stories about kernel securityzing 
+haXe: hackz a programming language
+Reverse Engineering of Embedded Devices
+OpenStreetMap, the free Wiki world map: 3 years done - 10 to go?
+Chaos Communication Camp '07: The Movie
+A Spotter's Guide to AACS Keys
+The Arctic Cold War: The silent battle for claiming and controlling the Arctic
+A collection of random things: Look what I found under the carpet
+One Token to Rule Them All: Post-securityzation Fun in Windows Environments
+Playstation Portable Cracking: How In The End We Got It All!
+Latest trends in Oracle securityz
+securityz Nightmares 2008: Oder: worüber wir nächstes Jahr lachen werden
+Closing Event
+GPLv3 - Praktische Auswirkungen
+Smartcard protocol sniffing
+Ruby on Rails securityz
+EU Policy on RFID & Privacy: Developments 2007, Outlook 2008
+Unusual Web Bugs: A Web hackz's Bag O' Tricks
+I know who you clicked last summer: A swiss army knife for automatic social investigation
+FeM-Streaming und Encoding: Abschlussbericht
+<NO>OOXML - A 12 euros campaign: Against Microsoft Office's broken standard
+Overtaking Proprietary Software Without Writing Code : empty"a few rough insights on sharpening free software"empty""
+Dining Cryptographers, The Protocol: Even slower than Tor and JAP together!
+Lieber Cyborg als Göttin: Politischer hackztivismus und Cyborgfeminismus
+Lightning Talks Day 4
+Who can you trust?: Opening Ceremony and Keynote
+Das neue gesetzliche Verbot des hackzs: Praktische Auswirkungen des neuen Strafrechtes, das in wenigen Monaten in Kraft treten wird
+Know Your Citizens: State Authorities' Access to Sensitive Information
+The Grim Meathook Future: How The Tech Culture Can Maintain Relevance In The 21st Century
+Privacy, Identity, and Anonymity in Web 2.0
+Drones: Autonomous flying vehicles
+hackz the Electoral Law
+We don't trust voting computers: The story of the dutch campaign against black-box voting to date
+Revenge of the Female Nerds: Busting Myths about Why Women Can't Be Technical
+Konrad Zuse - Der rechnende Raum: Ein audiovisuelles Live-Feature
+Pressekonferenz
+Go - Das Spiel für die Menschen: Auch für Computer? - Nicht beim Go!
+Project Sputnik: Realtime in-building location tracking at the 23C3
+Lightning Talks Day 1
+A not so smart card: How bad securityz decisions can ruin a debit card design
+hackz fingerprint recognition systems: Kann ich dir ein Bier ausgeben?
+Open Source Machine Translation: From tools, to tricks, to projects: build a translation engine from Klingon to Finnish in an hour
+Transparency and Privacy: The 7 Laws of Identity and the Identity Metasystem
+Data Retention Update: News and Perspectives on Implementation and Opposition
+Design and Implementation of an object-oriented, securityz TCP/IP Stack: Ethereal^W Wireshark without remote securityzs - a proof of concept
+4+2+1 Jahre BigBrotherAwards Deutschland: Eine Lesung aus dem Buch empty"Schwarzbuch Datenschutz"empty""
+Gäste-Überwachung in Hotels durch staatliche und private Schnüffler
+The Rise and Fall of Open Source: The Million Eyeball Principle and forkbombs
+Information Operations: Sector-Oriented Analysis of the Potential Impact and Possible Countermeasures
+hackz a Country: FOSS in India: An Overview Free and Open Source Software efforts and projects in India
+Kollaboratives Wissensmanagement im Bildungsbereich: Die Zitierfähigkeit von Wiki-Wissen
+Digitale Bildforensik: Spuren in Digitalfotos
+A Probabilistic Trust Model for GnuPG: A new way of evaluating a PGP web of trust by using a probabilistic trust metric
+How To Design A Decent User Interface: Take a look at software from a user's point of view and improve your applications
+Anfängerz to matrix programming: trance codes: How to recognize trance coded communication patterns
+Fudging with Firmware: Firmware reverse-engineering tactics
+Java wird Groovy: Eine Anfängerz in die neue, dynamische Sprache für das Java-Ökosystem
+The gift of sharing: A critical approach to the notion of gift economy within the everyday life-world of free and open source software (FOSS).
+Güter und Personen empty"tracken"empty" - Lokalisierung im Pizzamann-Universum: Technische Mittel und soziale Aspekte des "empty"Tracking & Tracing"empty""
+Building an Open Source PKI using OpenXPKI: Take a lot of Perl, add some OpenSSL, sprinkle it with a few HSMs, stir, season to taste, enjoy!
+Wifi Backpack Strap Workshop
+AVIT>C23: Vidvox VDMX5
+Dylan Anfängerz
+Machine Learning in a Nutshell: A hands on workshop
+Infon Battle Arena: An Anfängerz
+Snortattackz.org: The IPS CHALLENGE
+diac24.net: Practical VPN hackz
+CCC Jahresrückblick: Ein Anfängerz über die Aktivitäten des Clubs 2006
+Detecting temperature through clock skew: Hot or Not: Defeating anonymity by monitoring clock skew to remotely detect the temperature of a PC
+Tor and China: Design of a blocking-resistant anonymity system
+A hackz's Toolkit for RFID Emulation and Jamming
+RFID hackz
+Stealth malware - can good guys win?: Challenges in detecting system compromises and why we’re so far behind the (smart) bad guys
+Console hackz 2006: Xbox 360, Playstation 3, Wii
+Black Ops 2006 Viz Edition: Pixel Fuzzing and the Bioinformatic Bindiff
+You can't make this stuff up: A Stand-Up Comedy Approach to hackz
+Biometrics in Science Fiction: 2nd Iteration
+Router and Infrastructure hackz: empty"First we take Manhattan
+JSON RPC: Cross Site Scripting and Client Side Web Services
+How to implement bignum arithmetic: A short look at my pet project implementation
+Lightning Talks Day 2
+The Story of The hackz Foundation: Challenges of Organizing a Foundation for hackzs in the USA
+To live outside the law you gotta be honest: Ist nicht jedes Passwort eine Manifestation des Mißtrauens?
+Elektronische Reisedokumente: Neue Entwicklungen beim ePass
+Mobile phone call encryption: Encrypting (GSM) mobile phone calls  over VPN with an Asterisk PBX
+Faster PwninG Assured: Hardware hackzs and Cracks with FPGAs
+MMORPGs: The state and future of the World of Warcraft
+Tracking von Personen in Videoszenen: Wie trackt man automatisch sich bewegende Objekte?
+securityz Network Server Programming on Unix: Techniques and best practices to securityzly code your network server
+hackzspaces: How we built ours - How you can build yours
+Body hackz: Functional body modification
+In the Absence of Trust
+Homegrown Interactive Tables: Any Technology Sufficiently Advanced is Indistinguishable from Magic
+Überwachen und Strafen in Entenhausen
+Kritik an den Illuminaten zwischen 1787 und 2006: Der Stand der Auseinandersetzung zwischen Discordiern und Illuminaten
+Analysis of a strong Random Number Generator: by anatomizing Linux' CPRNG
+Dying Giraffe Recordings: A non-evil recordlabel: Using the power of creative commons to create an alternative system which is fair for musicians and their fans
+Ethernet mit Mikrocontrollern: Wie funktioniert TCP mit 2kb RAM?
+Jabber-Showcase: XMPP ist viel mehr als nur Instant Messaging
+Barrierefreies Web
+Warum wir uns so gerne überwachen lassen…: Erhellendes aus Philosophie und Soziologie zur Klärung des Phänomens steigender Kontrolle und Überwachung
+Vehicular Communication and VANETs: The future and securityz of communicating vehicles
+Tap the Electronic Frontier Foundation: EFF staffers answer your questions!
+(WOMEN ONLY) Haecksen-Plenums-Frühstück
+Web Application securityz: Find the Flaw, or Someone Else Will
+acts_as_cool: Ruby on Rails
+Why OpenSource Needs Professional Marketing
+(WOMAN ONLY) Qualität heißt selber machen: Was kann Medienaktivismus im Netz?
+The linguistic fingerprint: Silver bullet or mere myth?
+(WOMEN ONLY) Bauen einer WLAN-Antenne
+How to extend Network Night Vision with protocols: Discussing design of frame-parser
+Unlocking FileVault: An analysis of Apple's encrypted disk storage system
+Software Protection and the TPM: The Mac OS X Story
+Bluetooth hackz Revisited
+Nintendo DS: Anfängerz and hackz
+An Anfängerz to Traffic Analysis: attackz, Defences and Public Policy Issues...
+securityz in the cardholder data processing?!: Experiences and lessons learned with the Payment Card Industry Data securityz Standard
+On Free, and the Differences between Culture and Code
+Automated securityz Detection in Binaries: Finding securityzable securityz in binaries
+hackz Jeopardy: The one and only hackz quizshow
+How to squeeze more performance out of your wifi: Cross-layer optimization strategies for long-range IEEE 802.11e based radio (mesh) networks
+The worst part of censorship is XXXXX: Investigating large-scale Internet content filtering
+Trust Your Eyes: Grundlagen der Visualisierung und wie man mit Visualisierungen „faken“ kann
+Lightning Talks Day 3
+Void the warranty!: How to start analyzing blackboxes
+DVB-T - From Pixeldata to COFDM Transmission: How to build a complete FPGA-based DVB-T transmitter
+Überwachungsdruck - einige Experimente: Wie wirkt Überwachung?
+Pornography and Technology: a love affair
+Powerpoint Karaoke
+Freie Software - Eine Chance für Afrika?: Ein Erfahrungsbericht aus Malawi
+Funkerspuk: radio politics in the USA and Germany in the first half of the 20th century
+A 10GE monitoring system: hackz a 10 Gigabit Intrusion detection and prevention system into a network troubleshooting tool.
+SIP securityz: Status Quo and Future Issues
+Subverting AJAX: Next generation securityz in 2.0 Web Applications
+Mining Search Queries: How to discover additional knowledge in the AOL query logs
+DRM comes to European digital TV: How the DVB project is locking down TV standards and importing U.S. mistakes.
+Sie haben das Recht zu schweigen: Durchsuchung, Beschlagnahme, Vernehmung - Strategien für den Umgang mit Polizei und Staatsanwalt
+Schlossöffnung bei der Staatssecurityz der DDR: Werkzeuge und Vorgehen der STASI
+23C3 CTF: Capture the Flag hackz Contest
+A Natural Language Database Interface using Fuzzy Semantics
+Fuzzing in the corporate world: The use of fuzzing in the corporate world over the years and recent implementation of fuzzing tools into the development cycle and as a requirement before purchase
+Counter-Development: The Accessibility of Technology as an Addendum to Engineering Ethics in the Knowledgeable Society
+OpenPCD / OpenPICC: Free RFID reader and emulator
+Geschichte der Automaten, Androiden und Homunculi
+Advanced attackz Against PocketPC Phones: 0wnd by an MMS
+Rootkits as Reversing Tools: An Anonymous Talk
+securityz VOIP: using GSM phones, Asterisk and IPsec/openvpn
+Opensearch
+Lojban Workshop
+Erfakreis-Meeting
+A not so smart card: getting the card issuer's secret key
+Swiss Gettogether
+Nintendo hackz teatime
+hackz XMPP and Jabber
+Unusual bugs
+Podjournalism: The Role of Podcasting in Critical and Investigative Journalism
+TV-B-Gone: Better Living Through Inventing
+securityz Nightmares 2007: Oder: worüber wir nächstes Jahr lachen werden
+Fnord Jahresrückblick: Wir helfen Euch, die Fnords zu sehen
+Culture Jamming & Discordianism: Illegal Art & Religious Bricolage
+Closing Ceremony: Who did you trust?
+Automated Botnet Detection and Mitigation: How to find, invade and kill botnets automated and effectively
+Virtuelle securityz: Mandatory Access Control und TPM in Xen
+Inside VMware: How VMware, VirtualPC and Parallels actually work
+sFlow: I can feel your traffic
+23C3 Network Review
+CSRF, the Intranet and You: Causes, attackz and Countermeasures
+Software Reliability in Aerospace: An overview on design and generation of safe and reliable Software
+empty"We are great together, the liberal society and its enemies!empty": monochrom"
+Chaos und Kritische Theorie: Adorno, Wilson und Diskordianismus
+Krypta: DIY Serverhousing
+Gesundheitskarte 1.01
+Ego Striptease - Ich zeig dir, wer du bist: Blogs, flickr, etc: warum machen wir es ihnen so einfach?
+Juristische Fragen um die Mitbenutzung fremder WLANs: Zivilrechtliche und strafrechtliche Haftung
+Nerds und Geeks zwischen Stereotyp und Subkultur: Eine kulturanthropologische Untersuchung
+Lightning Talks Day 4
+One Laptop per Child: project proposals
+AVIT>C23: gephex - VJing on Linux: workshop by sMIG
+German Lojban meeting
+AVIT>C23: 3L ('thrill') VJ Software
+Nougatbytes 10: Gebilde(r)ter Hirnsalat – die rhekkcüЯ der Bilderrätsel
+Opening Event
+Not my department
+Die Wahrheit, was wirklich passierte und was in der Zeitung stand: Wie Medien unsere Wahrnehmung beeinflussen
+Zur Lage der Information: 1.5 Jahre FragDenStaat.de
+Die Antiterrorzdatei
+The Grand EU Data Protection Reform : A latest battle report by some key actors from Brussels
+Hinter den Kulissen: Der NSU und das V-Leute-System
+Enemies of the State: What Happens When Telling the Truth about Secret US Government Power Becomes a Crime: Blowing the Whistle on Spying, Lying & Illegalities in the Digital Era
+hackz Cisco Phones: Just because you are paranoid doesn't mean your phone isn't listening to everything you say
+Googlequiz: Wie man (spaßorientiert) mehr als 5% seines Googlevermögens trainiert
+Siechtum und Sterben der ärztlichen Schweigepflicht
+Our daily job: hackz the law: The key elements of policy hackz
+Setting mobile phones free: An overview of a mobile telephony market and how a community-driven operator is born
+Re-igniting the Crypto Wars on the Web
+Privacy and the Car of the Future: Considerations for the Connected Vehicle
+Defend your Freedoms Online: It's Political, Stupid!: A Positive agenda against the next ACTA, SOPA, and such
+The Ethics of Activist DDOS Actions: A Historical Analysis
+Time is NOT on your Side: Mitigating Timing Side Channels on the Web
+ISP's black box: provisioning behind the scenes
+Cyberpeace statt Cyberwar
+What accessibility has to do with securityz
+Netzaktivisten! Ist das alles, was wir drauf haben?: Eine subjektive Bestandsaufnahme
+INDECT, Verhaltenserkennung & Co: automatisierte staatliche Verdächtigung
+White IT, Clean IT & CEO Coalition: Wie die Exekutive versucht Provider zur Inhaltekontrolle im Internet einzuspannen
+New Human Interfaces for Music: DIY MIDI Controllers
+SCADA Strangelove: or: How I Learned to Start Worrying and Love Nuclear Plants
+Deutschlandfunk @ 29C3: Interviews, Talkrunden, Kennenlernen
+Not my department: Frank Rieger im Interview über den 29C3
+Zur Lage der Informationsfreiheit: Stefan Wehrmeyer von »Frag' den Staat« im Interview
+Deutschlandfunk @ 29C3: Interviews, Talkrunden, Kennenlernen
+Live-Sendung »Forschung Aktuell«: Deutschlandfunk @ 29C3
+Deutschlandfunk @ 29C3: Interviews, Talkrunden, Kennenlernen
+We are all lawmakers!: How to further transparency by law – the Hamburg example and beyond
+Certificate Authority Collapse: Will the EU Succeed in Regulating HTTPS? 
+Trojaner-Blindflug: Spionage-Software von Staats wegen
+Was ist, was kann, was soll Gender Studies Informatik?
+Der Mord fällt aus: Ein Werkstattbericht der GEMA-Alternative C3S
+Facthackzs: RSA factorization in the real world
+hackzs As A High-Risk Population: Harm Reduction Methodology
+Safecast: DIY and citizen-sensing of radiation: Empowering citizen in the wake of Fukushima triple-meltdown disaster
+hackz Jeopardy: Zahlenraten für Geeks
+Hanussen's mindreading: Experiments of the historical psychic
+Meldegesetz: Was aus dem 57-Sekunden-Gesetz wurde
+Lightning Talks 1: 5 Minutes of Fame
+Many Tamagotchis Were Harmed in the Making of this Presentation
+SmartMeter: A technological overview of the German roll-out 
+Defeating Windows memory forensics
+Let Me Answer That for You: adventures in mobile paging
+ESXi Beast: securityzing VMWARE ESXi Binary Protocols Using CANAPE
+EveryCook: Cooking gets digital 
+(Un)securityz Hardware-basierter Festplattenverschlüsselung
+Romantic hackzs: Keats, Wordsworth and Total Surveillance
+Tactical Tech - Bridging the Gap
+OMG! OER!: How big business fights open education in Poland, and how open education fights back!
+Sharing Access  Risiken beim Betrieb offener (WLAN-)Netze: Stand gestern, heute und morgen  
+The Tor software ecosystem
+IFG: Chance oder Bürgerbluff?: Informationsfreiheit in Deutschland. Ein Sachstand.
+empty"How I met your pointerempty": Hijacking client software for fuzz and profit"
+Meine Kleidung funkt: Tracking von Menschen durch in Kleidung integrierte RFID-Chips
+Stylometry and Online Underground Markets
+Deutschlandfunk @ 29C3: Interviews, Talkrunden, Kennenlernen
+Live-Sendung »Forschung Aktuell«: Deutschlandfunk @ 29C3
+Deutschlandfunk @ 29C3: Interviews, Talkrunden, Kennenlernen
+CCC-Jahresrückblick
+Analytical Summary of the BlackHole securityz Kit: Almost Everything You Ever Wanted To Know About The BlackHole securityz Kit
+Open Source Schlüssel und Schlösser: Offene Quellen zum Bösen und Guten: von downloadbaren Handschellenschlüsseln zu sicheren elektronischen Schlössern
+Writing a Thumbdrive from Scratch: Prototyping Active Disk Antiforensics
+Russia’s Surveillance State
+Milking the Digital Cash Cow: Extracting Secret Keys of Contactless Smartcards
+Further hackzs on the Calypso platform: or how to turn a phone into a BTS
+Fnord-Jahresrückblick: Diesmal mit noch mehr Eurozonen-Spaltung!
+Securing the Campaign: securityz and the 2012 US Presidential Election
+Lightning Talks 2: 5 Minutes of Fame
+Privatisierung der Rechtsdurchsetzung: Von ACTA, IPRED und Freunden
+Sind faire Computer möglich?
+Low-Cost Chip Microprobing
+securityz Evaluation of Russian GOST Cipher: Survey of All Known attackz on Russian Government Encryption Standard
+Hash-flooding DoS reloaded: attackz and defenses
+Pflanzenhackzen richtig: Einblicke in die Weizenzüchtung
+CVE-2011-3402 Technical Analysis
+Stabilitätsanker & Wachstumslokomotive
+Ethics in securityz Research
+On Breaking SAML: Be Whoever You Want to Be
+Small footprint inspection techniques for Android: Reverse engineering on Android platforms
+An Overview of securityz Name Resolution: DNSSEC, DNSCurve and Namecoin
+Long live the protocoletariat!
+hackz Philosophy: Digitale Mündigkeit, Technikpaternalismus und warum wir Netzphilosophie brauchen
+A Rambling Walk Through an EMV Transaction
+Men who stare at bits: RFID-Studierendenkarten mit Fehlern
+The future of protocol reversing and simulation applied on ZeroAccess botnet: Mapping your enemy Botnet with Netzob
+Deutschlandfunk @ 29C3: Interviews, Talkrunden, Kennenlernen
+Live-Sendung »Computer und Kommunikation«: Deutschlandfunk @ 29C3
+Deutschlandfunk @ 29C3: Interviews, Talkrunden, Kennenlernen
+Best of ... Verfassungsschutz: Der Verfassungsschutz schützt die Verfassung so wie Zitronenfalter Zitronen falten.
+29C3 GSM: Cell phone network review: 262 42 - The full spectrum
+Proximax, Telex, Flashproxy oder Tor Bridges: Übersicht über aktuelle Zensurumgehungssoftware
+Marvin und der Blues: Wie Roboterinstrumente zum Musik machen benutzt werden können
+securityz Nightmares: Damit Sie auch morgen schlecht von Ihrem Computer träumen.
+Closing Event
+Sprache, Ungleichheit und Unfreiheit
+Lightning Talks 3: 5 Minutes of Fame
+The Care and Feeding of Weird Machines Found in Executable Metadata
+Page Fault Liberation Army or Gained in Translation: a history of creative x86 virtual memory uses
+Millions of Lessons Learned on Electronic Napkins: On the way to free(ing) education
+The ultimate Galaksija talk: Everything about a Yugoslavian microcomputer halfway between a TRS-80 and a ZX 80
+NOC Review: NOC Review about the 29C3
+chmod o+rw bundestag: Mehr Transparenz und Teilhabe im Gesetzgebungsprozess
+A Fat Girl's Intimate Perspective on hackz Culture and Spaces
+A/V Showcase: Jon Baxter
+Amateurfunk - ein Hobby mit hackzvalue!?
+Anonymous communications
+Anti-Honeypot Technology
+Apache securityz
+Apple Motion on the Workbench
+Applied Data Mining
+Aspects of Elliptic Curve Cryptography
+Automated hackz via Google
+AVG ain't vector graphics
+AVIT Breakfeast Day One
+AVIT Breakfeast Day Three
+AVIT Breakfeast Day Two
+AVIT Anfängerz
+AVIT^C3 MIDI Lab
+Barrierefreies Internet
+Bericht von den BigBrotherAwards
+Berliner VJ Stammtisch
+Biometrie als datenschutzrechtliches Problem
+Biometrie in Ausweisdokumenten
+Biometrie ßberwinden
+Biometrie ßberwinden (Wdh.)
+Black Ops of DNS
+BlitzĂśffnung (Finale)
+Bluetooth hackz
+CCC-Jahresrßckblick
+Chaosradio Workshop
+Ciphire Mail
+Closing Event
+Coden auf dem Info-Layer
+Collaboration for the Tresor Showcase Part I
+Collaboration for the Tresor Showcase Part II
+Computer und Robotik in Entenhausen
+Cored Programming
+Crashkurs Mathematik am Beispiel Biometrie
+Das Literarische Code-Quartett
+Das Programmiersystem Forth
+Datamining the NSA: Hands-On Workshop
+Datamining the NSA: Anfängerz
+Der 2. Korb der Urheberrechtsnovelle
+Die Informationsgesellschaft: Neue Chancen und Hemmnisse fßr gesc hlechtergerechte Entwicklung
+Die Propagandawßste des realen Krieges
+Die Ăblichen Verdächtigen
+Digital Prosthetics
+DIN AV DVD Presentation
+Edit This Page
+Einfßhrung in die Rastersondenmikroskopie
+Einfßhrung in kryptographische Methoden
+Embedded devices as an attackz vector
+Enforcement of Intellectual Property Rights under German Private L aw
+Enforcing the GNU GPL
+Feuriges hackzen - SpaĂ mit Firewire
+Fight for your Right to Fileshare
+Firewall Piercing
+First Aid for Nerds
+Fnord-Jahresrßckblick
+Free Software in South America
+Freedom of expression in new Arab landscape
+GameCube hackz
+Gentoo Developer Meeting
+Gentoo Hardened
+GNOME Anwendungsentwicklung
+GPG Key Signing Party
+GPL fßr Anfängerz
+Grundlagen des Compilerdesign
+hackz Jeopardy
+hackz EU funding for a FOSS project
+hackz Linux-Powered Devices
+hackz The Genome
+hackz with Pure Data
+hackztivity
+Haecksen - Get2Know
+Haecksen-Treffen
+Hang the VJ
+Haskell
+Hidden Data in Internet Published Documents
+High-Speed Computing & Co-Processing with FPGAs
+Honeypot Forensics
+How to find *anything* on the Web
+How To Herd Cats
+Humanoid Robots
+Information - Wissen - Macht
+Inside PDF
+Intellektuelle Selbstverteidigung
+Intellektuelle Selbstverteidigung Teil 2
+Internet censorship in China
+Anfängerz to 3DJ
+Anfängerz to Cubensis
+Anfängerz to ES-X
+Anfängerz to Play
+Jam-Session
+Kampagne Fair Sharing
+Kryptografie in Theorie und Praxis
+Learning OpenPGP by example
+LiberTOS
+Lightning Talks: Day 1
+Lightning Talks: Day 2
+Lightning Talks: Day 3
+Lobbying fßr Nerds
+Lockpicking von Meisterhand
+Machine Learning in Science and Engineering
+MD5 To Be Considered Harmful Someday
+MediaWiki Developer Workshop
+Mehr securityz fßr HostAP-WLANs
+Mixing VJing and Post-Production
+Natural Language Steganography
+Next-Generation Peer-to-Peer Systems
+NOC Overview
+Old Skewl hackz: Infra Red
+On finding the score to visuals
+Opening Event
+Passive covert channels in the Linux kernel
+Phishing the Web
+Physical securityz
+Pirate Radio
+Pixels don't need no money
+Pixels want to be many
+Pixels want to blink Part I
+Pixels want to blink Part II
+Pixels want to break free of the screen
+Pixels want to dance
+Pixels want to talk
+Portable Software-Installation with pkgsrc
+Positionsbezogene Ad-hoc Kollaboration ßber WLAN
+Practical Mac OS X Insecurityz
+Praktische Anleitung zum Bau eines Radiosenders
+Preisverleihung - The Shortest C-Coding Contest
+Protesting in the new Millenium
+Pure Data and Gem for VJs
+Quanteninformationstheorie fßr Nicht-Physiker
+Quantenmechanik fßr Nicht-Physiker
+Radioaktive Pässe
+Recent features to OpenBSD: ntpd and bgpd
+RFID Technologie und Implikationen
+Robocup
+Ruby
+SAP R/3 Protocol Reverse Engineering
+securityz Instant Messaging
+securityz Frameworks
+securityz Nightmares 2005
+Showcase: 4YourEye
+Showcase: Codeep
+Showcase: ctrl-v
+Showcase: Cubensis
+Showcase: Dr. Mo
+Showcase: E-Gruppe
+Showcase: elektroschroeder
+Showcase: Fluchtpunkt
+Showcase: hamageddon
+Showcase: John DeKron:videokonferenz
+Showcase: rbnesc
+Showcase: whitevoid
+Showcase: zelabo + O.S.T
+Showcase: zoozoozoo.net
+securityz bei VoIP-Systemen, eine Einfßhrung
+securityzsanalyse von IT-GroĂprojekten der Ăśffentlichen Hand
+securityzsmanagement
+Side Channel Analysis of Smart Cards
+Siegerehrung Lockpicking
+Softwarepatente - Der Tag danach
+Softwarepatente - Rßstzeug zur Debatte
+SPAM Workshop
+Spam-Politik
+Squeak and Croquet
+State of Emergent Democracy
+Suchmaschinenpolitik
+SUN Bloody Daft Solaris Mechanisms
+The Art of Fingerprinting
+The Blinking Suspects
+The Convergence of Anti-Counterfeiting and Computer securityz
+The Fiasco ÂľKernel
+The Incomputable Alan Turing
+The Kernel Accelerator Device
+The Reality of Network Address Translators
+TKĂV - Das Ohr am Draht
+Toll Collect
+Tor
+Treffen der CCC-Erfakreise
+Trusted Computing
+Unsecurityz von Personal Firewalls
+USB - Unbekannter Serieller Bus
+Veranstaltungs- und Projektplanung im CCC
+Verdeckte Netzwerkanalyse
+Verified Fiasco
+Video Mix Project Stammtisch
+Videoßberwachung im europäischen Vergleich
+Voting Machine Technology
+Weird Programming 1
+Weird Programming 2
+Wettkampf Freestyle (Finale)
+Wettkampf Freestyle (Qualifikation)
+Wettkampf HandĂśffnung (Finale)
+Wettkampf HandĂśffnung (Qualifikation)
+Wettkampf HangĂśffnung (Finale)
+Wettkampf HangĂśffnung (Qualifikation)
+Wikimedia Collaboration Workshop
+Wikipedia Sociographics
+Wirklich selbst denken oder durchdrehen
+xDash
+XMPP/Jabber
+Zufallszahlengeneratoren
+Pentanews Game Show: Your opponents will be riddled as well
+27C3 Keynote: We come in Peace
+Copyright Enforcement Vs. Freedoms: ACTA, IPRED3 and other upcoming battles of the crusade against sharing
+Von Zensursula über Censilia hin zum Kindernet: Jahresrückblick rund um Internet-Sperren, Sendezeitbegrenzungen im Internet und vermeintlichen Jugendschutz
+Whistleblowing: Licht ins Dunkel!
+SMS-o-Death: From analyzing to attackzing mobile phones on a large scale.
+Netzneutralität und QoS - ein Widerspruch?: Fakten auf den Tisch
+Data Retention in the EU five years after the Directive: Why the time is now to get active
+empty"Die gesamte Technik ist sicherempty": Besitz und Wissen: Relay-attackz auf den neuen Personalausweis"
+Adventures in analyzing Stuxnet
+Code deobfuscation by optimization
+Contemporary Profiling of Web Users: On Using Anonymizers and Still Get Fucked
+Eins, zwei, drei - alle sind dabei: Von der Volkszählung zum Bundesmelderegister
+Friede sei mit Euren Daten: Ein datenschutzrechtlicher Ausflug in ein kirchliches Parelleluniversum
+hackz smart phones: expanding the attackz surface and then some
+Desktop on the Linux... (and BSD, of course): you're doing it confused? weird? strange? wrong?
+Recent advances in IPv6 insecurities
+Spinning the electronic Wheel: Still the bicycles for the 21th century
+From robot to robot: Restoring creativity in school pupils using robotics
+JTAG/Serial/FLASH/PCB Embedded Reverse Engineering Tools and Techniques: a dump of simple tools for embedded analysis at many layers
+Automatic Identification of Cryptographic Primitives in Software
+USB and libusb: So much more than a serial port with power
+AllColoursAreBeautiful: interactive light installation inspired by blinkenlights
+hackz iButtons
+Rootkits and Trojans on Your SAP Landscape: SAP securityz and the Enterprise
+Stanislaw Lem - Der enttäuschte Weltverbesserer: Ein audiovisuelles Live-Feature
+File -> Print -> Electronics: A new circuit board printer will liberate you from the Arduino-Industrial Complex
+Reverse Engineering the MOS 6502 CPU: 3510 transistors in 60 minutes
+Wideband GSM Sniffing
+Part-Time Scientists: One year of Rocket Science!
+Building Custom Disassemblers: Instruction Set Reverse Engineering
+empty"The Concertempty": a disconcerting moment for free culture"
+High-speed high-securityz cryptography: encrypting and authenticating the whole Internet
+Adventures in Mapping Afghanistan Elections: The story of 3 Ushahidi mapping and reporting projects.
+The importance of resisting Excessive Government Surveillance: Join me in exposing and challenging the constant violations of our right to privacy
+Distributed FPGA Number Crunching For The Masses: How we obtained the equivalent power of a Deep Crack for a fistful of dollars - and how the community can benefit from this
+Lying To The Neighbours: Nasty effects with tracker-less BitTorrent
+Node.js as a networking tool
+Logikschaltungen ohne Elektronik: logische Schaltungen mit Pneumatik
+Is the SSLiverse a safe place?: An update on EFF's SSL Observatory project
+Literarischer Abend
+Defense is not dead: Why we will have more securityz computers - tomorrow
+The Baseband Apocalypse: all your baseband are belong to us
+securityz communications below the hearing threshold: Improved approaches for auditive steganography
+Wikileaks und mehr: Eine Whistleblowerperspektive auf Leaking-Plattformen
+Lightning Talks - Day 2: 4 minutes of fame
+I Control Your Code: attackz Vectors Through the Eyes of Software-based Fault Isolation
+A short political history of acoustics: For whom, and to do what, the science of sound was developed in the 17th century
+Netzmedienrecht, Lobbyismus und Korruption: Wie wirkt die Lobby von Medienkonzernen?
+Techniken zur Identifizierung von Netzwerk-Protokollen
+empty"Spoilers, Reverse Green, DECEL!empty" or "empty"What's it doing now?"empty": Thoughts on the Automation and its Human interfaces on Airplanes"
+Data Recovery Techniques: Fun with Hard Drives
+The Hidden Nemesis: Backdooring Embedded Controllers
+CCC-Jahresrückblick 2010
+Radio der Zukunft: Was kommt nach dem analogen Radio?
+Console hackz 2010: PS3 Epic Fail
+IMMI, from concept to reality: The Icelandic Modern Media Initiative and our need for a well-regulated flow of information
+Running your own GSM stack on a phone: Introducing Project OsmocomBB
+Chip and PIN is Broken: securityz in the EMV Protocol
+Fnord-Jahresrückblick 2010: von Atomausstieg bis Zwangsintegration
+hackz Jeopardy: Number guessing for geeks
+A Critical Overview of 10 years of Privacy Enhancing Technologies
+terrorzists Win - securityzing Telecommunications Data Retention?
+Ignorance and Peace Narratives in Cyberspace: Cloud Computing, Assessment, and Fools like Me.
+SIP home gateways under fire: Source routing attackz applied to SIP
+DIY synthesizers and sound generators: Where does the sound come from?
+Analyzing a modern cryptographic RFID system: HID iClass demystified
+INDECT - an EU-Surveillance Project
+Digitale Spaltung per Gesetz: Das Internet und geschaffene soziale Ungleichheit im Alltag von Erwerbslosen
+Fnord-Jahresrückblick 2010 (english translation): von Atomausstieg bis Zwangsintegration
+hackz Jeopardy (english translation): Number guessing for geeks
+Lightning Talks - Day 3: where is my community?
+Cognitive Psychology for hackzs: Bugs, securityzs, and occasional patches
+Safety on the Open Sea: Safe navigation with the aid of an open sea chart.
+Android geolocation using GSM network: empty"Where was Waldroid?"empty""
+Your Infrastructure Will Kill You
+Reverse Engineering a real-world RFID payment system: Corporations enabling citizens to print digital money
+Zero-sized heap allocations vulnerability analysis: Applications of theorem proving for securing the windows kernel
+FrozenCache: Mitigating cold-boot attackz for Full-Disk-Encryption software
+OMG WTF PDF: What you didn't know about Acrobat
+Ich sehe nicht, dass wir nicht zustimmen werden: Die Sprache des politischen Verrats und seiner Rechtfertigung
+Three jobs that journalists will do in 2050: Why future media may be more powerful (and more subversive) than ever before
+How the Internet sees you: demonstrating what activities most ISPs see you doing on the Internet
+securityz Nightmares
+Closing Event
+Tor is Peace, Software Freedom is Slavery, Wikipedia is Truth: The political philosophy of the Internet
+Cybernetics for the Masses: implants, sensory extension and silicon - all for you!
+hackzs and Computer Science: What hackz research taught me
+A framework for automated architecture-independent gadget search: CCC edition
+International Cyber Jurisdiction: Kill Switching” Cyberspace, Cyber Criminal Prosecution & Jurisdiction Hopping
+News Key Recovery attackz on RC4/WEP
+Lightning Talks - Day 4: where is my community?
+Data Analysis in Terabit Ethernet Traffic: Solutions for monitoring and lawful interception within a lot of bits
+OpenLeaks
+Having fun with RTP: „Who is speaking???“ 
+Pentanews Game Show 2k11/3: 42 new questions, new jokers, same concept, more fun than last year!
+Marriage From Hell: On the Secret Love Affair Between Dictators and Western Technology Companies
+Sachsen dreht frei: On- und Offline-Überwachung: Weil sie es können
+Datamining for hackzs: Encrypted Traffic Mining
+Der Staatstrojaner: Vom braunen Briefumschlag bis zur Publikation
+802.11 Packets in Packets: A Standard-Compliant securityz of Layer 1
+The coming war on general computation: The copyright war was just the beginning
+Defending mobile phones
+Black Ops of TCP/IP 2011
+What is WhiteIT and what does it aim for?: Why you probably want to be concerned about it and similiar alliances.
+r0ket++: The CCC-Badge
+SCADA and PLC securityz in Correctional Facilities: Tiffany Rad, Teague Newman, John Strauchs
+Almighty DNA?: Was die Tatort-Wahrheitsmaschine mit Überwachung zu tun hat
+Does hackztivism Matter?: How the Btx hackz changed computer law-making in Germany
+What is in a name?: Identity-Regimes from 1500 to the 2000s
+EU-Datenschutz und das Internet der Dinge (english translation)
+The Atari 2600 Video Computer System: The Ultimate Talk: The history, the hardware and how to write programs
+Can trains be hackzed?: Die Technik der Eisenbahnsicherungsanlagen
+Demokratie auf Sächsisch
+Automatic Algorithm Invention with a GPU: Hell Yeah, it's rocket science
+The movements against state-controlled Internet in Turkey: A short account of its history and future challenges
+BuggedPlanet: Surveillance Industry & Country's Actings
+Macro dragnets: Why trawl the river when you can do the whole ocean: What happens when data collection goes awry in the 21st century
+String Oriented Programming: Circumventing ASLR, DEP, and Other Guards
+hackz Jeopardy: Number guessing for geeks
+Politik hackzen: Kleine Anleitung zur Nutzung von securityzslücken gesellschaftlicher und politischer Kommunikation
+Echtes Netz : Kampagne für Netzneutralität
+Effective Denial of Service attackz against web application platforms: We are the 99% (CPU usage)
+The Science of Insecurityz
+hackz MFPs: Part2 - PostScript: Um, you've been hackzed
+How governments have tried to block Tor
+„Die Koalition setzt sich aber aktiv und ernsthaft dafür ein“: Sprachlicher Nebel in der Politik
+Apple vs. Google Client Platforms: How you end up being the Victim.
+7 years, 400+ podcasts, and a whole lot of Frequent Flyer Miles: Lessons learned from producing a weekly independent podcast on international conflicts and concerns.
+NPC - Nerds’ Pissing Contest: Mein Ruby ist besser als dein urxvt!
+Eating in the Anthropocene: Transgenic Fish, Mutagenic Grapefruits and Space Potatoes
+Data Mining the Israeli Census: Insights into a publicly available registry
+Don't scan, just ask: A new approach of identifying securityz web applications
+Reverse Engineering USB Devices
+A Brief History of Plutocracy
+Power gadgets with your own electricity: escape the basement and make the sun work for you
+Bionic Ears: Anfängerz into State-of-the-Art Hearing Aid Technology
+Time is on my Side: securityzing Timing Side Channel securityz on the Web
+Rootkits in your Web application: Achieving a permanent stealthy compromise of user accounts with XSS and JS injection attackz.
+Building a Distributed Satellite Ground Station Network - A Call To Arms: hackzs need satellites.  hackzs need internet over satellites.  Satellites require ground stations.  Let's build them!
+Quantified-Self and OpenBCI Neurofeedback Mind-hackz: Transhumanism, Self-Optimization and Neurofeedback for post-modern hackzs
+hackz Jeopardy Translation
+Lightning Talks Day 2
+Privacy Invasion or Innovative Science?: Academia, social media data, and privacy
+Counterlobbying EU institutions: How to attempt to counter the influence of industry lobbyists and political forces aiming towards increasing control over the Internet
+Ein Mittelsmannangriff auf ein digitales Signiergerät: Bachelorarbeit Informatik Uni Kiel SS 2011
+Reverse-engineering a Qualcomm baseband
+Post Memory Corruption Memory Analysis: Automating securityzation of invalid memory writes
+Crowdsourcing Genome Wide Association Studies: Freeing Genetic Data from Corporate Vaults
+empty"Neue Leichtigkeitempty": when unconditional artistic freedom happens"
+Jahresrückblick
+Bitcoin - An Analysis
+KinectFusion: Real-time 3D Reconstruction and Interaction Using a Moving Depth Camera
+Cellular protocol stacks for Internet: GPRS, EDGE, UMTS, HSPA demystified
+Implementation of MITM attackz on HDCP-securityzd Links: A non-copyright circumventing application of the HDCP master key
+The hackz will not be televised?: hackz in Movies
+New Ways I'm Going to hackz Your Web App
+Fnord-Jahresrückblick: von Atomendlager bis Zensus
+Not your Grandfathers moon landing: Hell yeah, it's Rocket Science 3.1415926535897932384626!
+securityz Log Visualization with a Correlation Engine: What's inside your network?
+Frag den Staat: Praktische Informationsfreiheit
+TRESOR: Festplatten sicher verschlüsseln
+Ooops I hackzed my PBX: Why auditing proprietary protocols matters
+Open source music: Tracking 2.0
+The best of The oXcars: the greatest free/Libre culture show of all times
+Print Me If You Dare: Firmware Modification attackz and the Rise of Printer Malware
+The future of cryptology: which 3 letters algorithm(s) could be our Titanic?: RMS Olympic, RMS Titanic, HMHS Britannic  vs Discrete Logarithm, Integer factorization, Conjectured hard problems
+Towards a Single securityz European Cyberspace?: What the European Union wants. What the hackzdom can do..
+CCC Camp 2011 Video Impressions: Reviving a nice summer dream
+Taking control over the Tor network
+Lightning Talks Day 3: Pecha Kucha Round!
+Deceiving Authorship Detection: Tools to Maintain Anonymity Through Writing Style & Current Trends in Adversarial Stylometry
+Electronic money: The road to Bitcoin and a glimpse forward: How the e-money systems can be made better
+Datenvieh oder Daten-Fee: Welchen Wert haben Trackingdaten?
+Introducing Osmo-GMR: Building a sniffer for the GMR satphones
+Behind the scenes of a C64 demo
+Sovereign Keys: A proposal for fixing attackz on CAs and DNSSEC
+From Press Freedom to the Freedom of information: Why every citizen should be concerned
+The engineering part of social engineering: Why just lying your way in won't get you anywhere
+Quantum of Science: How quantum information differs from classical
+securityz Nightmares
+Closing Event
+Resilience Towards Leaking or Why Julian Assange Might Be Wrong After All
+Antiforensik: Anfängerz in das Thema Antiforensik am Beispiel eines neuen Angriffsvektors
+bup: Git for backups
+ChokePointProject - Quis custodiet ipsos custodes?: Aggregating and Visualizing (lack of) Transparancy Data in near-realtime
+NOC Review: NOC Review about the Camp 2011 and 28C3
+Smart hackz For Privacy
+Changing techno-optimists by shaking up the bureaucrats
+Your Disaster/Crisis/Revolution just got Pwned: Telecomix and Geeks without Bounds on securityz and Crisis Response
+Lightning Talks Day 4
+DC+, The Protocol: Technical defense against data retention law
+Evolving custom communication protocols: Hell Yeah, it's rocket science
+22C3 Closing Event - Famous last words
+22C3 Network Review
+3G Investigations - Scanning your GPRS/UMTS IP network for fun  and profit
+5 Theses on Informational-Cognitive Capitalism
+Academic tools and real-life bug finding in Win32
+Access to Knowledge - Copyright, Patents and Politics at the World Intellectual Property Organisation
+A discussion about modern disk encryption systems
+Advanced Buffer Overflow Methods [or] Smack the Stack - Cracki ng the VA-Patch
+A guided tour to European IT lobbying - An investigation into intransparency
+AJAX Based Web Applications
+Alter Wein in einer neuen Flasche: Rootkits unter dem 2.6 Kern el - Kernel Module unter dem 2.6er Kernel fßr gut und bĂśse?
+Anonymität im Internet - Rechtliche und technische Aspekte
+Anonymous Data Broadcasting by Misuse of Satellite ISPs - An o pen-source project to develop a tool for broadband satellite broadcast s
+Applied Machine Learning - Brief Anfängerz into Machine Lea rning followed by application examples.
+Atmel AVR fßr Dummies - Was ist denn nun eigentlich so ein 'I nterrupt'?
+attackzing the IPv6 Protocol Suite
+AutodafĂŠ: An Act of Software Torture - Presentation of an inn ovative buffer overflow uncovering technique called empty"Fuzzing by weight ing attackz with markers"empty""
+A way to fuzzy democracy - Using modern communication to trans form the way we make political decisions
+Bad TRIPs - What the WTO Treaty did in Hongkong and what that means for us
+Biometrics in Science Fiction
+Blackberry: call to arms, some provided - Teach yourself uppe r management in 22 days
+Black Ops Of TCP/IP 2005.5 - New Explorations: Large Graphs, Larger Threats
+Bluetooth hackz - The State of The Art - A roundup and live demonstrations of all currently known Bluetooth securityz.
+Breaking Down the Web of Trust
+Capture The Flag
+CCC Jahresrßckblick - Ein Ăberblick ßber die Aktivitäten d es Clubs 2005
+Changing Realities - Innovation, user-creation, activism and  entrepreneurship in Second Life
+Collateral Damage - Consequences of Spam and virenz Filtering f or the E-Mail System
+Community mesh networking - Ubiquitous wireless mesh clouds wi th olsrd from olsr.org
+COMPLETE Hard Disk Encryption with FreeBSD - Learn how to effe ctively protect not only your data but also your applications
+Corp vs. Corp - Profiling Modern Espionage
+Covert channels in TCP/IP: attackz and defence - Creation and d etection of IP steganography for covert channels and device fingerprin ting
+Covert Communication in a Dark Network - A major new version o f freenet
+Cybercrime Convention - hackz on its way to become a crimina l act?
+Das Geheimnis - Reloaded
+Data Mining fßr den Weltfrieden
+Data Retention - what comes next?
+Der Hammer: x86-64 und das Um-schiffen des NX Bits
+Developing Intelligent Search Engines
+Die BioP-II-Studie des BSI - Biometrische Feldtests in Europa
+Die Technik im neuen ePass
+Digitale Bßrgerrechte unter europäischem Beschuss
+Digital Identity and the Ghost in the Machine - empty"Once I Was Lo st But Now I've Been Found"empty""
+Disassembler Internals II: Automated Data Structure Recognitio n
+Elektronische Gesundheitskarte und Gesundheitstelematik - 1984  reloaded? - Eine unendliche Geschichte - Kapitel: Die Sßmpfe der Tra urigkeit
+EntschwĂśrungstheorie - VerschwĂśrungstheoretiker sind hinter mir her!
+Erste Hilfe fßr Nerds und Geeks - Wie ßberlebe ich (ohne nen nenswerten Schäden) einen Congress?
+Esperanto, die internationale Sprache - Eine gut strukturiert e Sprache fßr Geeks und die EU
+EvoCell - free software for evolving cellular automata - Explo ring the huge space of possible cellular automata by evolution
+e-Voting: The silent decline of public control - Why German vo ting machines do not meet the requirements of democratic elections.
+Exploring Protocols and Services on Internet Connected Embedde d Devices - Looking for Insecurities
+Fair Code - Free/Open Source Software and the Digital Divide
+Finding and Preventing Buffer Overflows - An overview of stati c and dynamic approaches
+Fnord Jahresrßckblick - Was wirklich geschah
+Free Software and Anarchism - does this compute?
+Fuzzing - Breaking software in an automated fashion
+Geometrie ohne Punkte, Geraden & Ebenen - Buckminster Fullers  Theorie und Praxis einer Wissenschaft zum Selberbauen
+GNU/Linux fßr Blinde und Sehbehinderte - Erfahrungen aus der Praxis
+hackz Jeopardy - The one and only hackz quizshow
+hackz CCTV - Watching the watchers, having fun with cctv ca meras, making yourself invisible
+hackz Data Retention - How bureaucrats fail to fight terrorz
+hackz health - Electronic Patient Records in The Netherlands 
+hackz into TomTom Go - Reverse-Engineering des Embedded-Linu x-Navigationssystems
+hackz OpenWRT
+Hashing Trusted Computing - Der aktuelle Stand
+Have you hugged your Mac today? - Ein audiovisuelles Live-Feat ure
+Hexenbesen und heiliger Gral - Vorläufige und subjektive Geda nken zur inhaltlichen Qualität von Wikipedia-Artikeln
+Honeymonkeys - Chasing hackzs with a bunch of monkeys
+Hopalong Casualty - On automated video analysis of human behav iour
+Hosting a hackz Challenge - CTF-style - Background informati on on CIPHER, an international Capture-The-Flag contest
+Informationsfreiheitsgesetz
+Internet Voting in Estonia - First-ever pan-national official occasion.
+Intrusion Detection Systems - Elevated to the Next Level
+I See Airplanes! - How to build your own radar system
+Kochen fßr Nerds
+Lawful Interception in VoIP networks - Old Laws and New Techno logy the German Way
+Learning cryptography through handcyphers - Shaping a digital future with ancient wisdom
+Learning JavaScript with the Google Maps API
+Lightning Talks Day 1 - Nine five minutes talks by various spe akers
+Lightning Talks Day 2 - Nine five minutes talks by various spe akers
+Lightning Talks Day 3 - Nine five minutes talks by various spe akers
+Lightning Talks Day 4 - Nine five minutes talks by various spe akers
+Literarisches Code-Quartett - The good, the bad, and the ugl y
+Logical Language Lojban - A hackzs' /Spoken/ Language?!
+Lyrical I - Abschluss des CCC-Poesie-Wettbewerbs
+Magnetic Stripe Technology
+Media System Deployment using Python
+Memory allocator securityz
+Message generation at the info layer - Basic Anfängerz in c oding on unvirtual realities.
+Military intelligence for terrorzists(tm) - A lamer's introduct ion to retrieving empty"sensitive"empty" intelligence information"
+muXTCP - Writing your own flexible Userland TCP/IP Stack - Nin ja Style!!!
+Old Skewl hackz - InfraRed updated - MMIrDA - Major Malfunct ion's InfraRed Discovery Application
+On working memory and mental imagery - How does the brain lear n to think?
+Open Source, EU funding and Agile Methods - Sprint methodolog y in funded OSS projects
+Paper-Prototyping Workshop - Eine Usability-Methode
+Peer-to-peer under the hood - An in-depth look at p2p algorith mics
+Personal experiences bringing technology and new media to disa ster areas - Experiences from Iraq and post Katrina New Orleans
+Private Investigations - Opening Show and Keynote Speech
+Private investigations in searching - How to find any book (an d many other roadkills) on the Information Super-Highway
+Privaterra - Report from the field - IT securityz and Human Rig hts organizations - The needs, the challenges & recommendations
+PyPy - the new Python implementation on the block - Language/V M R&D, whole program type inference, translation to low level backen ds, fun
+Quantum Entanglement - An Anfängerz
+Recent Developments in EU Data Retention proposals - Commissio n vs. Council - the lesser of two evils?
+RFID - overview of protocols, librfid implementation and pass ive sniffing - ISO14443, ISO15693, their GPL librfid implementation and passive sniffing hardware
+Robots for fun and research
+Rßckschau auf die BigBrotherAwards 2005 - Datenkraken beim Kr agen packen
+Search Engines - Oracles of the Information Society - The Saga  continues: Search Engines, Technology, Politics, Prostitution, Co rruption, Privacy and Espionage.
+Seaside: Agile Web Application Development with Squeak
+securityz Code - Why developing securityz Software is like playing M arble Madness
+securityz Nightmares 2006 - Oder: worßber wir nächstes Jahr l achen werden
+securityz vs. Ăberwachung - Videoßberwachung am Beispiel de s Congressgebäudes
+Software Patenting - Adequate means of protection for software .
+Sony BMGs digitaler Hausfriedensbruch - Ăber die Durchsetzung  industrieller Interessen um jeden Preis
+Syscall proxying fun and applications - Anfängerz to syscal l proxying and applications for in the wild securityzations
+Technological art off the trodden tracks - Artists (mis)using technology
+Terminator Genes and GURT - Biological Restrictions Management  - Five Years after the announcement of a quasi moratorium
+The Cell Processor - Computing of Tomorrow or Yesterday
+The Future Challenges for a hackz
+The Future of Virtualization - The empty"anyOS"empty" paradigm and its im plications through virtualization"
+The grey commons - Strategic considerations in the copyfight.
+The Realtime Podcast - Everything you need to know about Podca sting
+The Realtime thing - What the heck is realtime - and what to d o with it
+The Right Track - A new approach to copyright in the digital w orld
+The truth about Nanotechnology - A concise Anfängerz to wha t NT is, what it can't do yet and what we should be aware of
+The very early Computer Game History - How the games have beco me the first digital mass product
+The Web according to W3C - How to turn your idea into a standa rd
+Towards the first Free Software GSM Phone - Reverse Engineerin g the Motorola EZX (A768,A780,E680) series of Linux-based GSM phones 
+Transparenz der Verantwortung in BehĂśrden
+Understanding buffer overflow securityzation - The fascinating i nterplay of CPU, stack, C-compiler and shellcode in a nutshell
+Urheberrecht - Fakten, Mythen, Geschichte(n) und mĂśgliche Z ukßnfte
+Videoßberwachung an deutschen Hochschulen - oder: empty"Ăber mein e MaĂnahmen gebe ich keine Auskunft"empty""
+VoIP 2005 - Regulierte Revolution - Ansätze fßr die Regulier ung von VoIP und NGN im vergangenen Jahr
+VoIPhreaking - Anfängerz to SIP hackz
+Vulnerability markets - What is the economic value of a zero-d ay securityz?
+W3C on Mobile, CSS, Multimodal and more - A look at the upco ming standards by W3C
+Wargames - hackz Spielen - Männliche Identitätskonstruktion  und spielerische Herangehensweisen an Computer
+WarTracking - Satellite Tracking, harvesting and securityz
+Was ist technisches Wissen? - Philosophische Grundlagen techni scher Wissenschaften
+We lost the war - Welcome to the world of tomorrow
+WiFi Long Shots - Wireless connections of 20km and more
+Writing better code (in Dylan) - Fast development of object-or iented functional programs
+WSIS - The Review - hackz a Dictatorship
+empty"Xboxempty" and "empty"Xbox 360"empty" hackz - 17 Mistakes Microsoft Made in the Xbox securityz System & Xbox 360 hackz"
+Zauberhafte Naturwissenschaften
+Konzeptvorstellung und Diskussion Chaos Call Center
+Multicast
+IPv6
+Buffer Overflows
+TCP-Penetrationsmöglichkeiten
+Internet Zahlungssysteme
+Zertifizierungsstrukturen für hackz (Gründung der CCC-CA)
+Signingparty
+Podiumsdiskussion: hackz und Massenmedien; wer will was von wem?
+BSD-Workshop
+Reiserfs: Technolgy for Increasing The Chaotic Freedom Level of the OS
+RC5: Ein Jahr CCC-Team bei distributed net
+securityz Auditing with Nessus
+DVD und CSS
+Fnord-Diplomatie: Von den Grenzen der Vermittelbarkeit virtueller Realitäten
+Illuminaten-Workshop
+Echelon, Interception Capabilities and Status Quo of SIGINT
+securityz Emissionen und andere Techniken professioneller Spionage
+Biometrie Workshop
+ECommerce vs. Cybercommunism: Entwicklungstendenzen d. Kulturraums Internet
+Information Warfare und Computer Aided Crime Update
+Patente, Lizensen und Public Knowledge: Über GPL und vieles anderes
+Big Brother is watching you: Kameraüberwachung in Deutschland
+Internet Jugendschutz Status Quo / Jugendmedienprojekte und ähnliche Konfusion
+Chaos Project Management
+Suchen und Finden im Internet
+securityz on Your Hand: File Encryption with the JAVA Ring 
+How to Ring a FreeSWAN
+Letempty"s Factorize the Microsoft 512-bit Key"
+GCOS - GNU Card Operating System
+Finden von securityzsproblemen im Quellcode
+Retrocomputing: VAX/VMS (Workshop)
+Freies Hardwaredesign / Das F-CPU Projekt stellt sich vor
+Tron
+Anfängerz in TCP/IP
+Projektvorstellung Chaos-CD
+empty"Wizards of OSempty" Revisited"
+empty"Wizards of OSempty" die nächste Folge"
+SIGINT Technik Status Quo: Was wissen wir? Was wissen wir noch nicht?
+Theorie und Praxis der Verschwörungstheorie - Praxis und Theorie der Verschwörung
+Dummheit in Netzen, Teil 16: Datenreisen mit der Bahn
+HyperCard - Start in das Multimedia-Zeitalter
+Eröffnung des 16. Chaos Communication Congress 1999
+Jahresrückblick: Das Chaos-Jahr 1999
+Y2K-Erfahrungen 1992-1999
+WAP - Where Are the Phones?
+Siegerehrung d. 3. Deutschen Meisterschaften im Schloßöffnen und Austragung des Wettbewerb Blitz-Öffnung.
+IP-Routing
+Abschlussveranstaltung / Ausblick aufs nächste Jahrtausend
+Feminetzmus: Frauennetzwerke (mit fts, webgrrls ua)
+Objektorientiertes dynamisches Programmieren - Dylan
+Die Geldkarte als Untersuchungsobjekt
+Tesla Workshop
+hackzen macht hungrig oder: real hackzs donempty"t eat warm pizza"
+Linux Deathmatch im unteren hackzcenter
+18:30 Kleiderordnung & Computerfreaks
+Funktechnik / Treffen der Funkamateure im CCC
+Finale Handöffnung
+Lockpicking Workshops
+Linux Anfngerz (nur für Frauen)
+Damenkränzchen: Netzstrukturen - Wer hat die Macht, wer will sie hergeben?
+Old Boys Network (OBN) Vorstellung
+CCC Erfa-Kreis Treff
+Eröffnung / Internationaler hackzfrühschoppen
+TCP/IP für Anfängerz: Aufbau, Anwendungen und Angriffsmöglichkeiten
+Chipcard-hackz Grundlagen
+Sprache, Dienste und Kultur des Internet - Anfängerz in die Netzkulturen
+ISDN-Grundlagen
+IP Routing
+Religiöse Diskussion der Betriebssystemevangelisten
+Funktechnik für Anfängerz
+Crashkurs PERL für Anfängerz
+Geschichte des CCC und des hackztums in Deutschland
+Funkamateur-Lizenzklasse 3
+Dummheit in Netzen / Teil 15
+Versuch einer Aufklärung von Trons Tod: Spannungsfeld, Ablauf,          Ermittlungen
+Anonymität im Netz
+TCP/IP Angriffsmöglichkeiten: Übersicht
+EC-Karten Unsecurityz Status Quo
+TCP/IP Penetrationstechniken
+Recherchemoeglichkeiten im Netz / Open Source Intelligence
+Jugendschutz? Medienschutz? Kinderschutz?
+Möglichkeiten der Informationskombination / Personal Data Mining
+Denial of Service unter TCP/IP
+Wirtschaftsspionage Update
+GSM-Unsecurityz
+Kryptoregulierung Status Quo
+Intrusion Detection Tools zwischen Theorie und Wirklichkeit
+KGB-hackz: Bewertung zwischen Fakten, Mythos und Sensationsgier
+Anfängerz in Dylan
+Siegerehrung der deutschen Meisterschaften im Schlossöffnen
+Filmvorführung: “23”; Karl Koch´s Lebensgeschichte als Spielfilm          aufbereitet
+Schulen, Lehrer und Blamagen
+Neues von der Informationsfreiheitsgesetzplanung
+Chaosradio Workshop
+securityz Emissionen und Empfangsmöglichkeiten
+Rechtslage des hackzs
+hackz-Ethik Update
+Anonymität im Recht
+securityz Emissionen Workshop 1: Empfangsmöglichkeiten
+MP3 Technik
+securityz Emissionen / KEM-Workshop 2
+Y2K: Das Jahrtausendproblem
+MP3 Rechtlich - All rights reversed ?!
+Infrastruktur-securityz im Informationszeitalter (in Englisch)
+Das GPL-Prinzip: Copyright ist aberglaube
+Observations-Workshop
+Fnord generating News / Wie Meldungen entstehen und was daraus          wird...
+Stack securityzs & Buffer Overflows
+Funkamateur-Lizenzklasse 3 / Teil 3 von 3
+Das Jahr 2000 Problem und der Mythos der Beherrschbarkeit von          Maschinen
+Abschlußveranstaltung
+[Wie koennen Heimcomputer und Datenfernuebertragung fuer den Umweltschutz genutzt werden?]
+[securityz in offenen Datennetzen]
+[KGB-hackz empty"Hagbard"empty"]"
+[feminines Computerhandling]
+[Zusammenarbeit mit ostdeutschen Computerfreaks]
+[Informationen ueber Computerisierung und Netzwerkinfrastruktur in der DDR]
+[hackzethik und Harper's hackz Conference]
+[Copyright; freie Informationsuebermittlung]
+[UNIX zur Diskussion: mehrere Arbeitsgruppen; UUCP]
+[virenz II]
+Workshop Braintech und Mindmachines

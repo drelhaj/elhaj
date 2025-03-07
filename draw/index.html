@@ -1,0 +1,87 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title>vis</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+  
+
+  <!-- CSS concatenated and minified via ant build script-->
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <!-- end CSS-->
+
+  <script src="js/libs/modernizr-2.0.6.min.js"></script>
+</head>
+
+<body>
+
+  <div class="container">
+    <div id="main" role="main">
+      <select id="text_select">
+        <option value="titles">Titles</option>
+		<option value="abstracts">Abstracts</option>
+		<option value="habibi">Habibi paper</option>
+		<option value="entaomri">Enta Omri</option>
+		<option value="amrodiab">Amro Diab</option>
+		<option value="Mockingbird">Mockingbird</option>
+		<option value="gatsby">The Great Gatsby</option>
+        <option value="brave">Brave New World</option>
+        <option value="rye">The Catcher in the Rye</option>
+        <option value="room">A Room of One's Own</option>
+        <option value="farewell">A Farewell to Arms</option>
+        <option value="1984">Nineteen Eighty-Four</option>
+      </select>
+
+      <h1 id="name"></h1>
+      <div id="vis"></div>
+      <div id="footer">
+        <p>Sentence Drawings is an original Data Art project by <a href="http://www.itsbeenreal.co.uk/index.php?/wwwords/sentence-drawings/">Stefanie Posavec</a>.<br/>Here, we experiment with algorithmic production of these same representations.<br/>Code is originally from <a href="http://www.r-bloggers.com/sentence-drawing-function-vs-art/">Tyler Rinker</a>. <a href="https://github.com/vlandham/sentence_drawings">My version</a> is a slight derivative written in D3.<br/>Hover over line for original sentence it represents.</p>
+      </div>
+    </div>
+  </div> <!--! end of #container -->
+
+
+  <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script> -->
+  <script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.2.min.js"><\/script>')</script>
+
+
+  <script defer src="js/plugins.js"></script>
+  <script defer src="js/script.js"></script>
+  <script src="js/libs/coffee-script.js"></script>
+  <script src="js/libs/d3.v3.js"></script>
+  <script src="js/libs/queue.min.js"></script>
+  <script src="js/complex.js"></script>
+  <script src="js/CustomTooltip.js"></script>
+  <script type="text/coffeescript" src="coffee/vis.coffee"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+    });
+  </script>
+
+
+  <script> // Change UA-XXXXX-X to be your site's ID
+    window._gaq = [['_setAccount','UA-17355070-1'],['_trackPageview'],['_trackPageLoadTime']];
+    Modernizr.load({
+      load: ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js'
+    });
+  </script>
+
+
+  <!--[if lt IE 7 ]>
+    <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+    <script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+  <![endif]-->
+  
+</body>
+</html>

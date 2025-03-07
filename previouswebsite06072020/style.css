@@ -1,0 +1,253 @@
+body {
+margin: 0;
+padding : 0;
+background: #ccc url(images/bg2.jpg) center repeat;
+color: #000000;
+}
+			/*WRAP*/
+#container {
+width: 900px;
+margin-left: auto;
+margin-right: auto;
+padding: 0;
+font: 76% "Trebuchet MS","lucida sans", tahoma, sans-serif;
+line-height: 1.8em;
+background: white;
+color: #000000;
+}
+			/*TOP BANNER*/
+#banner {
+padding: 0;
+margin-bottom: 0;
+height: 150px;
+border-bottom:3px solid #fff;
+background: #82B64D url(images/6.jpg);
+color: #000;
+}
+			/*TOP NAVIGATION 0066FF*/
+#navbar ul {
+float:left;
+width:100%;
+padding:0;
+margin:0;
+list-style-type:none;
+font-size: 122.905%;
+text-align: center;
+border-bottom:3px solid #fff;
+background: #33CCFF;
+color: #000;
+}
+#navbar a {
+float:left;
+width:6em;
+height:30px;
+text-decoration:none;
+color:#000;
+background:#33CCFF;
+padding:0.5em 0.6em;
+border-right:1px solid #fff;
+}
+#navbar a:hover {
+background:#930ed6;
+color: #fff;
+}
+#navbar li {
+display:inline;
+}
+			/*MAIN CONTENT*/
+#content {
+padding: 3em;
+margin-left: 200px;
+}
+			/*SIDEBAR*/
+#sidebar {
+float: left;
+width: 160px;
+margin: 0;
+padding: 0 1em 0 1em;
+}
+			/*SIDE MENU*/
+#sidebar ul {
+list-style: none;
+margin: 0 0 20px 0;
+padding: 0;
+}
+#sidebar ul li { 
+display: inline;
+padding: 0;
+margin: 0;
+}
+#sidebar ul li a {
+display: block;
+color: #000099;
+background: inherit;
+text-decoration: none;
+margin: 0;
+padding: 5px 0 5px 0;
+border-bottom: 1px solid #C0C0C0;
+}
+#sidebar ul li a:hover {
+text-decoration: none;
+background: #E6E7E9;
+color: #0066FF;
+}
+			/*FOOTER*/
+#footer {
+clear: both;
+width:885px;
+padding: 5px;
+margin: 0;
+font-size: 1.0em;
+border-top: 3px solid #fff;
+border-bottom: 3px solid #fff;
+background: #0066FF;
+color: #FFF;
+}
+#footer a:link, #footer a:visited {
+text-decoration : none;
+background : inherit;
+color : #FFF; 
+}
+#footer a:hover {
+text-decoration : underline;
+background : inherit;
+color :  #fff;
+}
+			/*LINKS*/
+a:link, a:visited {
+text-decoration : none;
+background : inherit;
+color : #0066FF;
+}
+a:hover {
+text-decoration : underline;
+background : inherit;
+color :  #0000CC; 
+}
+			/*TYPOGRAPHY*/
+h1 {
+margin: 0;
+padding: 30px 0 0 20px;
+font-size: 175%;
+letter-spacing: 1px;
+}
+h2 {
+margin-top: 10px;
+padding: 10px 0 10px 0;
+font-size: 160%;
+letter-spacing: 1px;
+background : transparent;
+color :   #0000CC;
+}
+h3 {
+margin: 0;
+padding: 10px 0 10px 0;
+font-size: 160%;
+letter-spacing: 1px;
+background : inherit;
+color :  #0000FF;
+}
+blockquote {
+font-weight : bold;
+font-style : italic;
+color : #0000FF;
+}
+
+h4 {
+margin: 0;
+padding: 10px 0 10px 0;
+font-size: 120%;
+letter-spacing: 1px;
+background : inherit;
+color :  #0000FF;
+}
+blockquote {
+font-weight : bold;
+font-style : italic;
+color : #0000FF;
+}
+			/*CLASS*/
+.clear {
+clear: both;
+overflow: hidden;
+width: 0;
+height: 0;
+}
+.slogan {
+margin: 0 0 0 50px;
+letter-spacing: 3px;
+}
+
+.post{
+background: #E6E7E9;
+padding: 3px;
+margin: 20px 10px 10px 5px;
+font-size: 80%;
+}
+.post .date {
+background: url(images/clock.gif) no-repeat left center;
+padding-left: 15px;
+margin: 0 15px 0 5px;
+}
+.post .comments {
+background: url(images/comment.gif) no-repeat left center;
+padding-left: 15px;
+margin: 0 15px 0 5px;
+}
+.post .readmore {
+background: url(images/document.gif) no-repeat left center;
+padding-left: 15px;
+margin: 0 15px 0 5px;
+}
+
+ summary::-webkit-details-marker {
+ color: #00ACF3;
+ font-size: 125%;
+ margin-right: 2px;
+}
+summary:focus {
+	outline-style: none;
+}
+summary {
+	font-size: 24px;
+	margin-top: 30px;
+	color :   #0000CC;
+}
+details {
+	margin-left: 2px;
+		font-size: 15px;
+}
+details details {
+	margin-left: 36px;
+}
+details details summary {
+	font-size: 16px;
+}
+
+.left-div {
+    float: left;
+    width: 320px;
+    /*height: 20px;*/
+    margin-right: 8px;
+    background-color: #F8F8F9;
+}
+.right-div {
+    width: 320px;
+    margin-left: 328px;
+    background-color: #E0FFFF;
+}
+
+hr {
+  height: 70px;
+  border: 0;
+  box-shadow: 0 50px 50px 50px #DCDCDC inset;
+}
+
+.boxed {
+  border: 1px #D3D3D3 ;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  background-color: #D3D3D3;
+
+}
