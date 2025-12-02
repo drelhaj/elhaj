@@ -1,0 +1,41 @@
+name: Generate Sitemap
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Generate sitemap for arabicnlp.uk
+        env:
+          SITE_URL: "https://arabicnlp.uk"
+        run: |
+          node sitemap-generator.js
+          mv sitemap.xml sitemap-arabicnlp.xml
+
+      - name: Generate sitemap for elhaj.uk
+        env:
+          SITE_URL: "https://elhaj.uk"
+        run: |
+          node sitemap-generator.js
+          mv sitemap.xml sitemap-elhaj.xml
+
+      - name: Commit sitemap files
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add sitemap-*.xml || true
+          git commit -m "Automated sitemap update" || true
+          git push || true
