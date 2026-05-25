@@ -330,9 +330,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
   <!-- html file include script | used for navbar and footer -->
   <script src="js/w3data.js"></script>
-  <script>
-    w3IncludeHTML()
-  </script>
+<script>
+  w3IncludeHTML(function() {
+    document.getElementById("current-year").textContent = new Date().getFullYear();
+  });
+</script>
 
   <!-- Local scripts -->
   <script src="js/main.js"></script>
