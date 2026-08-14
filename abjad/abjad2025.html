@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Archive of AbjadNLP 2025, the 1st Workshop on NLP for Languages Using Arabic Script, co-located with COLING 2025 in Abu Dhabi, UAE.">
+  <title>AbjadNLP 2025 | 1st Workshop on NLP for Languages Using Arabic Script</title>
+  <link rel="icon" href="organisers/logo.jpg" sizes="32x32">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Kufi+Arabic:wght@500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --ink:#20262d;--muted:#667178;--line:#e1e6e5;--paper:#fff;--canvas:#f5f7f6;
+      --deep:#173f3d;--deep2:#0d2f2d;--teal:#1d6d66;--gold:#d4ad61;--gold2:#f5ead3;
+      --sand:#f8f3e9;--ruby:#8b3342;--shadow:0 16px 42px rgba(20,48,47,.10);
+      --shadow-sm:0 7px 24px rgba(20,48,47,.075);--radius:18px;--max:1220px
+    }
+    *{box-sizing:border-box} html{scroll-behavior:smooth;scroll-padding-top:84px}
+    body{margin:0;font-family:"DM Sans",Arial,sans-serif;color:var(--ink);background:var(--canvas);line-height:1.65;-webkit-font-smoothing:antialiased}
+    img{max-width:100%;display:block} a{color:inherit} ::selection{background:#ead19d;color:#17302f}
+    .site-header{position:sticky;top:0;z-index:80;background:rgba(255,255,255,.96);backdrop-filter:blur(16px);border-bottom:1px solid rgba(223,229,232,.92);box-shadow:0 3px 18px rgba(20,48,47,.05)}
+    .nav{max-width:var(--max);margin:auto;padding:10px 24px;display:flex;align-items:center;justify-content:space-between;gap:20px}
+    .brand{display:flex;align-items:center;gap:12px;text-decoration:none;min-width:max-content}
+    .brand-logo{width:48px;height:48px;border-radius:13px;object-fit:cover;border:1px solid #e0e4df;background:#fff}
+    .brand-copy{display:flex;flex-direction:column;line-height:1.08} .brand-copy strong{font-size:1.02rem;color:var(--deep)} .brand-copy span{font-size:.67rem;text-transform:uppercase;letter-spacing:.12em;color:#8a6928;font-weight:700;margin-top:5px}
+    .links{display:flex;align-items:center;gap:2px;list-style:none;margin:0;padding:0} .links a{display:block;text-decoration:none;font-size:.79rem;font-weight:700;color:#4d5d60;padding:9px 10px;border-radius:9px} .links a:hover,.links a.active{background:#f0f4f3;color:var(--deep)} .links .proceedings{background:var(--deep);color:#fff;padding-inline:14px} .links .proceedings:hover{background:var(--teal);color:#fff}
+    .menu-toggle{display:none;width:42px;height:42px;border:1px solid var(--line);border-radius:10px;background:#fff;font-size:1.2rem;color:var(--deep)} .mobile{display:none;padding:8px 20px 16px;background:#fff;border-top:1px solid var(--line)} .mobile.open{display:block} .mobile a{display:block;padding:10px 2px;text-decoration:none;font-weight:700;border-bottom:1px solid #edf0ef}
+    .hero{position:relative;overflow:hidden;color:#fff;background:linear-gradient(100deg,rgba(10,36,35,.97),rgba(18,64,60,.92) 55%,rgba(28,83,77,.80)),radial-gradient(circle at 78% 20%,rgba(212,173,97,.22),transparent 30%);}
+    .hero:after{content:"ا  ب  ج  د";position:absolute;right:-22px;bottom:-52px;font-family:"Noto Kufi Arabic",sans-serif;font-weight:700;font-size:clamp(7rem,17vw,15rem);color:rgba(255,255,255,.045);white-space:nowrap;direction:rtl;pointer-events:none}
+    .hero-inner{max-width:var(--max);margin:auto;padding:86px 24px 78px;position:relative;z-index:2;display:grid;grid-template-columns:1.35fr .65fr;gap:62px;align-items:center}
+    .eyebrow{display:inline-flex;align-items:center;gap:9px;font-size:.76rem;text-transform:uppercase;letter-spacing:.15em;font-weight:700;color:#f1d69e;margin-bottom:18px} .eyebrow:before{content:"";width:30px;height:2px;background:var(--gold)}
+    h1{font-size:clamp(2.7rem,5.7vw,5.1rem);line-height:.98;letter-spacing:-.045em;margin:0 0 22px} .hero h1 span{display:block;color:#f1d69e;font-size:.48em;letter-spacing:-.015em;line-height:1.2;margin-top:12px}
+    .hero-copy{font-size:1.08rem;max-width:760px;color:#d8e4e2;margin:0 0 28px} .hero-actions{display:flex;gap:11px;flex-wrap:wrap}
+    .btn{display:inline-flex;align-items:center;justify-content:center;gap:9px;border-radius:11px;padding:12px 17px;text-decoration:none;font-size:.86rem;font-weight:700;border:1px solid transparent} .btn.gold{background:var(--gold);color:#183433} .btn.ghost{border-color:rgba(255,255,255,.3);color:#fff;background:rgba(255,255,255,.06)} .btn:hover{transform:translateY(-1px)}
+    .archive-card{background:rgba(255,255,255,.09);border:1px solid rgba(255,255,255,.16);border-radius:22px;padding:25px;box-shadow:0 20px 60px rgba(4,26,25,.18);backdrop-filter:blur(12px)} .archive-card .label{font-size:.7rem;text-transform:uppercase;letter-spacing:.15em;color:#f1d69e;font-weight:700} .archive-card h2{font-size:1.48rem;line-height:1.2;margin:8px 0 18px} .facts{display:grid;gap:11px} .fact{padding-top:11px;border-top:1px solid rgba(255,255,255,.14)} .fact b{display:block;color:#fff;font-size:.82rem} .fact span{font-size:.84rem;color:#c8d8d6}
+    .stats{max-width:var(--max);margin:-30px auto 0;padding:0 24px;position:relative;z-index:5} .stats-grid{display:grid;grid-template-columns:repeat(4,1fr);background:#fff;border:1px solid var(--line);border-radius:18px;box-shadow:var(--shadow);overflow:hidden} .stat{padding:22px 24px;border-right:1px solid var(--line)} .stat:last-child{border:0} .stat strong{display:block;font-size:1.55rem;color:var(--deep);letter-spacing:-.03em} .stat span{font-size:.78rem;color:var(--muted);font-weight:600}
+    section{padding:78px 24px} .wrap{max-width:var(--max);margin:auto} .section-kicker{font-size:.72rem;text-transform:uppercase;letter-spacing:.16em;font-weight:700;color:#9b762f;margin-bottom:10px} .section-title{font-size:clamp(2rem,3.3vw,3.05rem);line-height:1.1;letter-spacing:-.035em;color:var(--deep);margin:0 0 17px} .lead{max-width:860px;color:#56666a;font-size:1.03rem;margin:0 0 32px} .muted-bg{background:#fff} .deep-bg{background:var(--deep2);color:#fff} .deep-bg .section-title{color:#fff} .deep-bg .lead{color:#c7d8d6}
+    .about-grid{display:grid;grid-template-columns:1.12fr .88fr;gap:46px;align-items:start} .prose p{margin:0 0 16px;color:#4e5c60} .callout{padding:25px;border-radius:18px;background:var(--sand);border:1px solid #eadfc7} .callout h3{margin:0 0 8px;color:var(--deep);font-size:1.25rem} .callout p{margin:0;color:#59615f}
+    .language-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:30px} .language-card{background:#fff;border:1px solid var(--line);border-radius:17px;padding:24px;box-shadow:var(--shadow-sm)} .language-card .script{font-family:"Noto Kufi Arabic",sans-serif;color:var(--teal);font-size:2.05rem;line-height:1.1;margin-bottom:12px} .language-card h3{margin:0 0 8px;color:var(--deep)} .language-card p{margin:0;color:var(--muted);font-size:.9rem}
+    .topic-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:15px;margin-top:28px} .topic{border:1px solid var(--line);background:#fff;border-radius:15px;padding:21px} .topic h3{margin:0 0 7px;font-size:1rem;color:var(--deep)} .topic p{margin:0;font-size:.87rem;color:var(--muted)}
+    .proceedings-banner{display:grid;grid-template-columns:1fr auto;align-items:center;gap:24px;background:linear-gradient(115deg,#fff9ed,#f4e6c9);border:1px solid #ead7b2;padding:28px 30px;border-radius:20px;box-shadow:var(--shadow-sm)} .proceedings-banner h3{margin:0 0 7px;color:var(--deep);font-size:1.35rem} .proceedings-banner p{margin:0;color:#66645e}
+    .papers{display:grid;gap:11px;margin-top:30px} .paper-card{display:grid;grid-template-columns:52px 1fr;gap:16px;padding:19px 20px;background:#fff;border:1px solid var(--line);border-radius:14px} .paper-no{width:42px;height:42px;border-radius:11px;background:#eff5f3;color:var(--teal);display:grid;place-items:center;font-weight:700;font-size:.8rem} .paper-card h3{font-size:.95rem;line-height:1.4;margin:0 0 5px;color:var(--deep)} .paper-card p{margin:0;color:var(--muted);font-size:.84rem}
+    .people-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:15px;margin-top:30px} .person-card{display:block;background:#fff;border:1px solid var(--line);border-radius:17px;text-decoration:none;overflow:hidden;box-shadow:var(--shadow-sm);transition:.18s} .person-card:hover{transform:translateY(-3px);box-shadow:var(--shadow)} .person-photo{height:185px;position:relative;display:grid;place-items:center;background:linear-gradient(135deg,#dfe9e5,#f5ead3);overflow:hidden} .person-photo>span{font-size:2rem;font-weight:700;color:#52716d} .person-photo img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover} .person-meta{padding:17px} .person-meta .role{display:block;font-size:.64rem;text-transform:uppercase;letter-spacing:.11em;font-weight:700;color:#9a752f;margin-bottom:5px} .person-meta h3{font-size:.98rem;line-height:1.25;margin:0 0 5px;color:var(--deep)} .person-meta p{font-size:.78rem;line-height:1.4;margin:0;color:var(--muted)}
+    .adviser-grid{display:grid;grid-template-columns:repeat(2,minmax(0,320px));gap:16px;margin-top:24px}
+    details{background:#fff;border:1px solid var(--line);border-radius:16px;overflow:hidden} summary{cursor:pointer;list-style:none;padding:19px 22px;font-weight:700;color:var(--deep);display:flex;justify-content:space-between;align-items:center} summary::-webkit-details-marker{display:none} summary:after{content:"+";font-size:1.3rem;color:var(--teal)} details[open] summary:after{content:"–"} .pc-list{columns:2;column-gap:36px;margin:0;padding:0 22px 24px 42px} .pc-list li{break-inside:avoid;margin:0 0 8px;color:#5a686b;font-size:.84rem}
+    .history{display:grid;grid-template-columns:repeat(3,1fr);gap:16px} .edition{padding:22px;border-radius:16px;border:1px solid var(--line);background:#fff;text-decoration:none} .edition.current{border-color:#d5b369;background:#fff9ee} .edition .year{font-size:.7rem;text-transform:uppercase;letter-spacing:.13em;color:#9c772f;font-weight:700} .edition h3{margin:5px 0 5px;color:var(--deep)} .edition p{margin:0;color:var(--muted);font-size:.84rem}
+    footer{background:#102d2b;color:#bcd0cd;padding:34px 24px} .footer-inner{max-width:var(--max);margin:auto;display:flex;justify-content:space-between;gap:30px;align-items:center} footer strong{color:#fff} footer p{margin:3px 0 0;font-size:.8rem} footer a{color:#f1d69e;text-decoration:none}
+    @media(max-width:1020px){.links{display:none}.menu-toggle{display:block}.hero-inner{grid-template-columns:1fr}.archive-card{max-width:560px}.stats-grid{grid-template-columns:repeat(2,1fr)}.stat:nth-child(2){border-right:0}.stat:nth-child(-n+2){border-bottom:1px solid var(--line)}.about-grid{grid-template-columns:1fr}.people-grid{grid-template-columns:repeat(3,1fr)}}
+    @media(max-width:720px){section{padding:58px 20px}.nav{padding-inline:18px}.brand-copy span{display:none}.hero-inner{padding:65px 20px 62px}.language-grid,.topic-grid,.history{grid-template-columns:1fr}.people-grid{grid-template-columns:repeat(2,1fr)}.proceedings-banner{grid-template-columns:1fr}.pc-list{columns:1}.footer-inner{display:block}.footer-inner>div+div{margin-top:15px}}
+    @media(max-width:470px){.stats-grid{grid-template-columns:1fr}.stat{border-right:0!important;border-bottom:1px solid var(--line)!important}.stat:last-child{border-bottom:0!important}.people-grid{grid-template-columns:1fr}.person-photo{height:260px}}
+  </style>
+</head>
+<body>
+<header class="site-header">
+  <nav class="nav">
+    <a class="brand" href="#home">
+      <img class="brand-logo" src="organisers/logo.jpg" alt="AbjadNLP logo">
+      <span class="brand-copy"><strong>AbjadNLP 2027</strong><span>Arabic-script NLP community</span></span>
+    </a>
+    <ul class="links">
+	<li><a href="abjad.html">Home</a></li>
+      <li><a href="abjad2027.html">2027</a></li>
+      <li><a href="abjad2026.html">2026</a></li>
+		<li><a href="abjad2025.html">2025</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#papers">Papers</a></li>
+      <li><a href="#organisers">Organisers</a></li>
+      <li><a class="proceedings" href="https://aclanthology.org/volumes/2025.abjadnlp-1/" target="_blank" rel="noopener">Proceedings ↗</a></li>
+    </ul>
+    <button class="menu-toggle" id="menuToggle" aria-label="Open navigation">☰</button>
+  </nav>
+  <div class="mobile" id="mobileNav">
+    <a href="abjad.html">AbjadNLP 2027</a><a href="abjad2026.html">AbjadNLP 2026</a><a href="#about">About 2025</a><a href="#papers">Accepted Papers</a><a href="#organisers">Organisers</a><a href="https://aclanthology.org/volumes/2025.abjadnlp-1/" target="_blank" rel="noopener">Proceedings ↗</a>
+  </div>
+</header>
+
+<main>
+<section class="hero" id="home">
+  <div class="hero-inner">
+    <div>
+      <div class="eyebrow">AbjadNLP Archive · First Edition</div>
+      <h1>AbjadNLP 2025<span>The 1st Workshop on NLP for Languages Using Arabic Script</span></h1>
+      <p class="hero-copy">The inaugural AbjadNLP workshop brought together researchers working on Arabic, Perso-Arabic and Ajami languages, creating a dedicated forum for language technology across one of the world's most widely used script traditions.</p>
+      <div class="hero-actions">
+        <a class="btn gold" href="https://aclanthology.org/volumes/2025.abjadnlp-1/" target="_blank" rel="noopener">View ACL Anthology Proceedings ↗</a>
+        <a class="btn ghost" href="https://wp.lancs.ac.uk/abjad/programme/" target="_blank" rel="noopener">Workshop Programme ↗</a>
+      </div>
+    </div>
+    <aside class="archive-card">
+      <span class="label">Completed workshop</span>
+      <h2>Abu Dhabi, UAE · 19 January 2025</h2>
+      <div class="facts">
+        <div class="fact"><b>Host conference</b><span>Co-located with COLING 2025</span></div>
+        <div class="fact"><b>Format</b><span>In-person workshop</span></div>
+        <div class="fact"><b>Focus</b><span>NLP for languages using Arabic and Perso-Arabic scripts, including Ajami traditions</span></div>
+        <div class="fact"><b>Status</b><span>Proceedings published on the ACL Anthology</span></div>
+      </div>
+    </aside>
+  </div>
+</section>
+
+<div class="stats">
+  <div class="stats-grid">
+    <div class="stat"><strong>1st</strong><span>edition of AbjadNLP</span></div>
+    <div class="stat"><strong>15</strong><span>accepted papers listed</span></div>
+    <div class="stat"><strong>~1B</strong><span>speakers across the wider language scope</span></div>
+    <div class="stat"><strong>43+</strong><span>Ajami languages highlighted in the original call</span></div>
+  </div>
+</div>
+
+<section id="about">
+  <div class="wrap">
+    <div class="section-kicker">Why AbjadNLP</div>
+    <h2 class="section-title">A dedicated home for Arabic-script language technology</h2>
+    <div class="about-grid">
+      <div class="prose">
+        <p>AbjadNLP was established to advance Natural Language Processing for languages that use Arabic-derived writing systems. The first edition deliberately reached beyond Arabic to include Perso-Arabic and Ajami traditions, creating a shared research space for languages that face related challenges in orthography, digital resources, representation and tooling.</p>
+        <p>The workshop focused on the linguistic structures, resources and technical challenges of these languages, while bringing together researchers from NLP, linguistics, writing systems and language-resource communities. It also highlighted links with the Masakhane NLP community, COMSATS and Lancaster University's UCREL NLP Group.</p>
+        <p>The name <strong>AbjadNLP</strong> is used as an inclusive umbrella. The workshop has always recognised that the wider scope includes languages using Arabic and Perso-Arabic alphabets, as well as Ajami writing traditions, and that not every language within this community is technically written using an abjad.</p>
+      </div>
+      <aside class="callout">
+        <h3>Why this mattered</h3>
+        <p>The 2025 workshop created a cross-regional forum spanning Africa, the Middle East, South Asia and Central Asia. Its scope connected mainstream Arabic NLP with work on Persian, Urdu, Pashto, Sorani Kurdish, Uyghur, Wolofal and other languages whose digital resources and NLP support remain uneven.</p>
+      </aside>
+    </div>
+
+    <div class="language-grid">
+      <div class="language-card"><div class="script">العربية</div><h3>Arabic</h3><p>Modern Standard Arabic, dialects, historical language varieties and Arabic NLP.</p></div>
+      <div class="language-card"><div class="script">فارسی · اردو</div><h3>Perso-Arabic</h3><p>Persian, Urdu, Pashto, Sorani Kurdish, Sindhi, Uyghur and related writing traditions.</p></div>
+      <div class="language-card"><div class="script">عجمي</div><h3>Ajami</h3><p>African languages written using Arabic-derived scripts, including Hausa, Fulfulde, Wolofal, Swahili, Kanuri, Mandingo and Tamazight.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="muted-bg" id="topics">
+  <div class="wrap">
+    <div class="section-kicker">Research scope</div>
+    <h2 class="section-title">Topics represented by the first edition</h2>
+    <p class="lead">The original call combined core NLP, writing-system technology, resources and culturally grounded language technology.</p>
+    <div class="topic-grid">
+      <div class="topic"><h3>Core NLP</h3><p>Morphology, tokenisation, POS tagging, named entities, parsing, semantic role labelling, sentiment and language modelling.</p></div>
+      <div class="topic"><h3>Applications</h3><p>Machine translation, speech recognition and synthesis, OCR, pedagogy, assistive technologies and social media analysis.</p></div>
+      <div class="topic"><h3>Language Resources</h3><p>Dictionaries, annotated datasets, corpora, BLARK descriptions and open-access resources.</p></div>
+      <div class="topic"><h3>Writing Systems</h3><p>Orthography descriptions, font technology, glyph rendering, Unicode, text input and spell-checking.</p></div>
+      <div class="topic"><h3>Transliteration & Processing</h3><p>Text processing across Arabic-derived scripts, transliteration and morphology-aware approaches.</p></div>
+      <div class="topic"><h3>Culture & Sociolinguistics</h3><p>Cultural and sociolinguistic considerations for inclusive NLP applications and language preservation.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="papers">
+  <div class="wrap">
+    <div class="section-kicker">Published record</div>
+    <h2 class="section-title">Accepted papers</h2>
+    <div class="proceedings-banner">
+      <div><h3>AbjadNLP 2025 Proceedings</h3><p>The workshop proceedings are permanently available through the ACL Anthology.</p></div>
+      <a class="btn gold" href="https://aclanthology.org/volumes/2025.abjadnlp-1/" target="_blank" rel="noopener">Open Proceedings ↗</a>
+    </div>
+    <div class="papers"><article class="paper-card"><div class="paper-no">01</div><div><h3>Developing an Informal-Formal Persian Corpus: Highlighting the Differences between Two Writing Styles</h3><p>Vahide Tajalli, Mehrnoush Shamsfard and Fateme Kalantari</p></div></article>
+<article class="paper-card"><div class="paper-no">02</div><div><h3>DadmaTools V2: an Adapter-Based Natural Language Processing Toolkit for the Persian Language</h3><p>Sadegh Jafari, Farhan Farsi, Navid Ebrahimi, Mohamad Bagher Sajadi and Sauleh Eetemadi</p></div></article>
+<article class="paper-card"><div class="paper-no">03</div><div><h3>Towards Unified Processing of Perso-Arabic Scripts for ASR</h3><p>Srihari Bandarupalli, Bhavana Akkiraju, Sri Charan Devarakonda, Harinie Sivaramasethu, Vamshiraghusimha Narasinga and Anil Vuppala</p></div></article>
+<article class="paper-card"><div class="paper-no">04</div><div><h3>Evaluating Large Language Models on Health-Related Claims Across Arabic Dialects</h3><p>Abdulsalam Obaid Alharbi, Abdullah Alsuhaibani, Abdulrahman Abdullah Alalawi, Usman Naseem, Shoaib Jameel, Salil Kanhere and Imran Razzak</p></div></article>
+<article class="paper-card"><div class="paper-no">05</div><div><h3>Can LLMs Verify Arabic Claims? Evaluating the Arabic Fact-Checking Abilities of Multilingual LLMs</h3><p>Ayushman Gupta, Aryan Singhal, Thomas Law, Veekshith Rao, Evan Duan and Ryan Luo Li</p></div></article>
+<article class="paper-card"><div class="paper-no">06</div><div><h3>Can LLMs Translate Cultural Nuance in Dialects? A Case Study on Lebanese Arabic</h3><p>Silvana Yakhni and Ali Chehab</p></div></article>
+<article class="paper-card"><div class="paper-no">07</div><div><h3>Boosting Sentiment Analysis in Persian through a GAN-Based Synthetic Data Augmentation Method</h3><p>Masoumeh Mohammadi, Mohammad Ruhul Amin and Shadi Tavakoli</p></div></article>
+<article class="paper-card"><div class="paper-no">08</div><div><h3>In-Depth Analysis of Arabic-Origin Words in the Turkish Morpholex</h3><p>Mounes Zaval, Abdullah İhsanoğlu, Asım Ersoy and Olcay Taner Yıldız</p></div></article>
+<article class="paper-card"><div class="paper-no">09</div><div><h3>A Derivational ChainBank for Modern Standard Arabic</h3><p>Reham Marzouk, Sondos Krouna and Nizar Habash</p></div></article>
+<article class="paper-card"><div class="paper-no">10</div><div><h3>Evaluation of Large Language Models on Arabic Punctuation Prediction</h3><p>Asma Ali Al Wazrah, Afrah Altamimi, Hawra Aljasim, Waad Alshammari, Rawan Al-Matham, Omar Elnashar, Mohamed Amin and Abdulrahman AlOsaimy</p></div></article>
+<article class="paper-card"><div class="paper-no">11</div><div><h3>Evaluating RAG Pipelines for Arabic Lexical Information Retrieval: A Comparative Study of Embedding and Generation Models</h3><p>Raghad Al-Rasheed, Abdullah Al Muaddi, Hawra Aljasim, Rawan Al-Matham, Muneera Alhoshan, Asma Al Wazrah and Abdulrahman AlOsaimy</p></div></article>
+<article class="paper-card"><div class="paper-no">12</div><div><h3>Automated Generation of Arabic Verb Conjugations with Multilingual Urdu Translation: An NLP Approach</h3><p>Haq Nawaz, Manal Elobaid, Ali Al-Laith and Saif Ullah</p></div></article>
+<article class="paper-card"><div class="paper-no">13</div><div><h3>Psychological Health Chatbot, Detecting and Assisting Patients in their Path to Recovery</h3><p>Sadegh Jafari, Mohammad Erfan Zare, Amireza Vishte, Mirzae Melike, Zahra Amiri, Sima Mohammadparast and Sauleh Eetemadi</p></div></article>
+<article class="paper-card"><div class="paper-no">14</div><div><h3>MultiProp Framework: Ensemble Models for Enhanced Cross-Lingual Propaganda Detection in Social Media and News using Data Augmentation, Text Segmentation, and Meta-Learning</h3><p>Farizeh Aldabbas, Shaina Ashraf, Rafet Sifa and Lucie Flek</p></div></article>
+<article class="paper-card"><div class="paper-no">15</div><div><h3>The Best of Both Worlds: Exploring Wolofal in the Context of NLP</h3><p>Ngoc Tan Le, Ali Mijiyawa, Abdoulahat Leye and Fatiha Sadat</p></div></article></div>
+  </div>
+</section>
+
+<section class="muted-bg" id="organisers">
+  <div class="wrap">
+    <div class="section-kicker">People behind the first edition</div>
+    <h2 class="section-title">Organising committee</h2>
+    <p class="lead">The inaugural workshop was organised by an international team spanning NLP, linguistics, writing systems and low-resource language research.</p>
+    <div class="people-grid"><a class="person-card" href="https://elhaj.uk/" target="_blank" rel="noopener">
+      <div class="person-photo"><span>ME</span><img src="organisers/mo-el-haj.png" alt="Dr Mo El-Haj" onerror="this.remove()"></div>
+      <div class="person-meta"><span class="role">General Chair</span><h3>Dr Mo El-Haj</h3><p>VinUniversity, Vietnam · Lancaster University, UK</p></div>
+    </a>
+<a class="person-card" href="http://hugh4.us/" target="_blank" rel="noopener">
+      <div class="person-photo"><span>HP</span><img src="organisers/hugh.jpg" alt="Hugh Paterson III" onerror="this.remove()"></div>
+      <div class="person-meta"><span class="role">Programme Chair</span><h3>Hugh Paterson III</h3><p>Collaborative scholar in linguistics, writing systems, metadata and archives</p></div>
+    </a>
+<a class="person-card" href="http://ezzini.github.io/" target="_blank" rel="noopener">
+      <div class="person-photo"><span>SE</span><img src="organisers/saad-ezzini.jpg" alt="Dr Saad Ezzini" onerror="this.remove()"></div>
+      <div class="person-meta"><span class="role">Programme Chair</span><h3>Dr Saad Ezzini</h3><p>Lancaster University, UK</p></div>
+    </a>
+<a class="person-card" href="https://www.lancaster.ac.uk/scc/about-us/people/ignatius-ezeani" target="_blank" rel="noopener">
+      <div class="person-photo"><span>IE</span><img src="organisers/ignatius-ezeani.jpg" alt="Dr Ignatius Ezeani" onerror="this.remove()"></div>
+      <div class="person-meta"><span class="role">Programme Chair</span><h3>Dr Ignatius Ezeani</h3><p>Lancaster University, UK</p></div>
+    </a>
+<a class="person-card" href="https://investigacion.unirioja.es/investigadores/1183/detalle" target="_blank" rel="noopener">
+      <div class="person-photo"><span>MK</span><img src="organisers/mahum-hayat-khan.jpg" alt="Dr Mahum Hayat Khan" onerror="this.remove()"></div>
+      <div class="person-meta"><span class="role">Review Committee</span><h3>Dr Mahum Hayat Khan</h3><p>University of La Rioja, Spain</p></div>
+    </a>
+<a class="person-card" href="https://scholar.google.com/citations?user=xUF3l9gAAAAJ&hl=en" target="_blank" rel="noopener">
+      <div class="person-photo"><span>MS</span><img src="organisers/muhammad-sharjeel.jpg" alt="Dr Muhammad Sharjeel" onerror="this.remove()"></div>
+      <div class="person-meta"><span class="role">Review Committee</span><h3>Dr Muhammad Sharjeel</h3><p>COMSATS University Islamabad, Pakistan</p></div>
+    </a>
+<a class="person-card" href="https://sinaahmadi.github.io/" target="_blank" rel="noopener">
+      <div class="person-photo"><span>SA</span><img src="organisers/sina-ahmadi.jpg" alt="Dr Sina Ahmadi" onerror="this.remove()"></div>
+      <div class="person-meta"><span class="role">Publication Chair</span><h3>Dr Sina Ahmadi</h3><p>University of Zurich, Switzerland</p></div>
+    </a>
+<a class="person-card" href="https://ke.linkedin.com/in/cynthia-amol-779668119" target="_blank" rel="noopener">
+      <div class="person-photo"><span>CA</span><img src="organisers/cynthia-amol.jpg" alt="Cynthia Amol" onerror="this.remove()"></div>
+      <div class="person-meta"><span class="role">Publicity Chair</span><h3>Cynthia Amol</h3><p>Maseno University, Kenya</p></div>
+    </a>
+<a class="person-card" href="http://lexicon.ugr.es/haddad" target="_blank" rel="noopener">
+      <div class="person-photo"><span>AH</span><img src="organisers/amal-haddad-haddad.jpg" alt="Amal Haddad Haddad" onerror="this.remove()"></div>
+      <div class="person-meta"><span class="role">Publicity Chair</span><h3>Amal Haddad Haddad</h3><p>University of Granada, Spain</p></div>
+    </a>
+<a class="person-card" href="https://www.surrey.ac.uk/people/jaleh-delfani" target="_blank" rel="noopener">
+      <div class="person-photo"><span>JD</span><img src="organisers/jaleh-delfani.jpg" alt="Dr Jaleh Delfani" onerror="this.remove()"></div>
+      <div class="person-meta"><span class="role">Publicity Chair</span><h3>Dr Jaleh Delfani</h3><p>University of Surrey, UK</p></div>
+    </a></div>
+
+    <div style="margin-top:54px">
+      <div class="section-kicker">Advisory committee</div>
+      <div class="adviser-grid"><a class="person-card" href="https://wp.lancs.ac.uk/mitkov/" target="_blank" rel="noopener">
+      <div class="person-photo"><span>RM</span><img src="organisers/ruslan-mitkov.jpg" alt="Prof. Ruslan Mitkov" onerror="this.remove()"></div>
+      <div class="person-meta"><span class="role">Advisory Committee</span><h3>Prof. Ruslan Mitkov</h3><p>Lancaster University, UK</p></div>
+    </a>
+<a class="person-card" href="https://www.lancaster.ac.uk/staff/rayson/" target="_blank" rel="noopener">
+      <div class="person-photo"><span>PR</span><img src="organisers/paul-rayson.jpg" alt="Prof. Paul Rayson" onerror="this.remove()"></div>
+      <div class="person-meta"><span class="role">Advisory Committee</span><h3>Prof. Paul Rayson</h3><p>Lancaster University, UK</p></div>
+    </a></div>
+    </div>
+
+    <div style="margin-top:42px">
+      <details>
+        <summary>Programme Committee</summary>
+        <ul class="pc-list"><li>Abdoulaye Diallo · Fula & Wolofal · Independent Researcher</li>
+<li>Ahmed Abdelali · Arabic/Multilingual NLP · Humain, Saudi Arabia</li>
+<li>Ahmed AbuRa’ed · Arabic · UBC, Canada</li>
+<li>Alp Oktem · Tigrinya and Kanuri · Translators without Borders</li>
+<li>Antonio Moreno Sandoval · Low-Resourced Languages · UAM, Spain</li>
+<li>Azizud Din · Pashto · University Malaysia Sarawak, Malaysia</li>
+<li>Behnam Sabeti · Persian · Miras Technologies International, Iran</li>
+<li>Chenggang Mi · Uyghur · Xinjiang Technical Institute, China</li>
+<li>Clement Oyeleke · Yoruba · University of Ibadan, Nigeria</li>
+<li>Daniel Whitenack · Kimbundu, Fulfulde, Pular · SIL International, USA</li>
+<li>Derguene Mbaye · Wolofal · Baamtu, Senegal</li>
+<li>Djamel Mostefa · Pashto · ELDA, France</li>
+<li>Doaa Samy · Arabic · Cairo University, Egypt & LLI-UAM, Spain</li>
+<li>Elias W BA · Fula and Wolofal · Baamtu, Senegal</li>
+<li>Eric Atwell · Arabic/Multilingual NLP · Leeds University, UK</li>
+<li>Frederick Apina · Swahili · Parrot.AI, Tanzania</li>
+<li>George Giannakopoulos · Multilingual NLP · SKEL Lab – NCSR Demokritos, Greece</li>
+<li>Haithem Afli · Arabic/Multilingual NLP · Dublin City University, Ireland</li>
+<li>Hazem Hajj · Arabic/Multilingual NLP · American University of Beirut, Lebanon</li>
+<li>Houda Anoun · Arabic NLP · Hassan II University of Casablanca, Morocco</li>
+<li>Nassera Habbat · Arabic NLP · Hassan II University of Casablanca, Morocco</li>
+<li>Houda Bouamor · Arabic/Multilingual NLP · CMU, Qatar</li>
+<li>Ignatius Ezeani · Igbo, African Languages NLP · Lancaster University, UK</li>
+<li>Imed Zitouni · Arabic/Multilingual NLP · Microsoft Research, USA</li>
+<li>Karim Bouzoubaa · Arabic/Multilingual NLP · Mohamed V University, Morocco</li>
+<li>Mariam Masoud · Kurdish · National University of Ireland Galway, Ireland</li>
+<li>Lei Wang · Uyghur · Xinjiang Technical Institute, China</li>
+<li>Muhammad Sharjeel · Urdu · COMSATS University Islamabad, Pakistan</li>
+<li>Omid Momenzadeh · Persian · Miras Technologies International, Iran</li>
+<li>Preni Golazizian · Persian · Miras Technologies International, Iran</li>
+<li>Rao Muhammad Adeel Nawab · Urdu · COMSATS University Islamabad, Pakistan</li>
+<li>Reza Fahmi · Persian · Miras Technologies International, Iran</li>
+<li>Samuel Olanrewaju · Yoruba, Yagba and Basa · University of Ibadan, Nigeria</li>
+<li>Scott Piao · Multilingual and Low-Resourced Languages · Lancaster University, UK</li>
+<li>Seyed Arad Ashrafi Asli · Persian · Miras Technologies International, Iran</li>
+<li>Shervin Malmasi · Sorani Kurdish · Macquarie University, Australia</li>
+<li>Sina Ahmadi · Kurdish · University of Zurich, Switzerland</li>
+<li>Sokhar Samb · Wolofal · ML & NLP, Senegal</li>
+<li>Tonghai Jiang · Uyghur · Xinjiang Technical Institute, China</li>
+<li>Waziri Shebogholo · Swahili · Parrot.AI, Tanzania</li>
+<li>Wole Akin · IsiXhosa, Yorùbá, Hausa and Igbo · University of Johannesburg, South Africa</li>
+<li>Xi Zhou · Uyghur · Xinjiang Technical Institute, China</li>
+<li>Yating Yang · Uyghur · Xinjiang Technical Institute, China</li>
+<li>Zahra Majdabadi · Persian · Miras Technologies International, Iran</li></ul>
+      </details>
+    </div>
+  </div>
+</section>
+
+<section class="deep-bg">
+  <div class="wrap">
+    <div class="section-kicker" style="color:#f1d69e">Workshop series</div>
+    <h2 class="section-title">From the first edition to a continuing community</h2>
+    <p class="lead">AbjadNLP 2025 established the workshop series and its broad community focus. Later editions continue the same mission while expanding the programme, shared tasks and participation across Arabic-script language communities.</p>
+    <div class="history">
+      <div class="edition current"><div class="year">2025 · Abu Dhabi</div><h3>1st AbjadNLP</h3><p>Inaugural edition, co-located with COLING 2025.</p></div>
+      <a class="edition" href="abjad2026.html"><div class="year">2026 · Rabat</div><h3>2nd AbjadNLP</h3><p>Second edition at EACL 2026.</p></a>
+      <a class="edition" href="abjad2027.html"><div class="year">2027 · Athens</div><h3>3rd AbjadNLP</h3><p>Current edition at EACL 2027.</p></a>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="footer-inner">
+    <div><strong>AbjadNLP 2025 Archive</strong><p>The 1st Workshop on NLP for Languages Using Arabic Script · Abu Dhabi, UAE</p></div>
+    <div><a href="https://aclanthology.org/volumes/2025.abjadnlp-1/" target="_blank" rel="noopener">ACL Anthology</a> · <a href="abjad.html">Current edition</a></div>
+  </div>
+</footer>
+
+<script>
+  const btn=document.getElementById('menuToggle'), nav=document.getElementById('mobileNav');
+  btn.addEventListener('click',()=>nav.classList.toggle('open'));
+  nav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>nav.classList.remove('open')));
+</script>
+</body>
+</html>

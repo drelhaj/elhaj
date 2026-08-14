@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="AbjadNLP is the workshop series for Natural Language Processing across Arabic, Perso-Arabic and Ajami writing traditions, connecting research, resources and communities across Africa, the Middle East and Asia.">
+  <title>AbjadNLP | NLP for Languages Using Arabic Script</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Kufi+Arabic:wght@500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --ink:#20262d;--muted:#667178;--line:#e1e6e5;--canvas:#f5f7f6;--white:#fff;
+      --deep:#173f3d;--deep2:#0b2d2b;--teal:#1d6d66;--gold:#d4ad61;--gold-soft:#f3e3c4;
+      --sand:#f8f3e9;--ruby:#8b3342;--blue:#376f82;--shadow:0 16px 42px rgba(20,48,47,.10);
+      --shadow-sm:0 7px 24px rgba(20,48,47,.075);--max:1220px;
+    }
+    *{box-sizing:border-box} html{scroll-behavior:smooth;scroll-padding-top:82px}
+    body{margin:0;font-family:"DM Sans",Arial,sans-serif;color:var(--ink);background:var(--canvas);line-height:1.65;-webkit-font-smoothing:antialiased}
+    a{color:inherit} img{max-width:100%;display:block} ::selection{background:#ead19d;color:#17302f}
+    .site-header{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.96);backdrop-filter:blur(16px);border-bottom:1px solid rgba(225,230,229,.92);box-shadow:0 3px 18px rgba(20,48,47,.05)}
+    .nav{max-width:var(--max);margin:auto;padding:10px 24px;display:flex;align-items:center;justify-content:space-between;gap:22px}
+    .brand{display:flex;align-items:center;gap:12px;text-decoration:none;min-width:max-content}.brand-mark{width:48px;height:48px;border-radius:13px;background:linear-gradient(135deg,var(--deep),var(--teal));color:#f1d69e;display:grid;place-items:center;font-family:"Noto Kufi Arabic",sans-serif;font-weight:700;font-size:1.12rem;box-shadow:inset 0 0 0 1px rgba(255,255,255,.12)}
+    .brand-copy{display:flex;flex-direction:column;line-height:1.05}.brand-copy strong{font-size:1.02rem;color:var(--deep)}.brand-copy span{font-size:.65rem;text-transform:uppercase;letter-spacing:.13em;color:#8a6928;font-weight:700;margin-top:6px}
+    .links{display:flex;align-items:center;gap:2px;list-style:none;margin:0;padding:0}.links a{display:block;text-decoration:none;font-size:.78rem;font-weight:700;color:#4e5e60;padding:9px 10px;border-radius:9px}.links a:hover{background:#eef3f2;color:var(--deep)}.links .current{background:var(--deep);color:#fff;padding-inline:14px}.links .current:hover{background:var(--teal);color:#fff}
+    .menu-toggle{display:none;width:42px;height:42px;border:1px solid var(--line);border-radius:10px;background:#fff;color:var(--deep);font-size:1.2rem}.mobile{display:none;padding:8px 20px 16px;background:#fff;border-top:1px solid var(--line)}.mobile.open{display:block}.mobile a{display:block;padding:10px 2px;text-decoration:none;font-weight:700;border-bottom:1px solid #edf0ef}
+    .hero{position:relative;overflow:hidden;color:#fff;background:linear-gradient(100deg,rgba(8,34,33,.99),rgba(17,62,58,.96) 52%,rgba(35,91,82,.88)),radial-gradient(circle at 80% 22%,rgba(212,173,97,.28),transparent 30%)}
+    .hero:before{content:"";position:absolute;inset:0;background-image:linear-gradient(rgba(255,255,255,.018) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.018) 1px,transparent 1px);background-size:36px 36px}.hero:after{content:"ا  ب  ج  د";position:absolute;right:-25px;bottom:-64px;font-family:"Noto Kufi Arabic",sans-serif;font-weight:700;font-size:clamp(8rem,19vw,17rem);color:rgba(255,255,255,.045);white-space:nowrap;direction:rtl;pointer-events:none}
+    .hero-inner{max-width:var(--max);margin:auto;padding:100px 24px 88px;position:relative;z-index:2;display:grid;grid-template-columns:1.25fr .75fr;gap:64px;align-items:center}
+    .eyebrow{display:inline-flex;align-items:center;gap:9px;font-size:.74rem;text-transform:uppercase;letter-spacing:.16em;font-weight:700;color:#f1d69e;margin-bottom:18px}.eyebrow:before{content:"";width:30px;height:2px;background:var(--gold)}
+    h1{font-size:clamp(3.1rem,6vw,5.8rem);line-height:.95;letter-spacing:-.052em;margin:0 0 24px}.hero h1 span{display:block;color:#f2d79e;font-size:.39em;letter-spacing:-.015em;line-height:1.25;margin-top:15px;max-width:790px}.hero-copy{font-size:1.1rem;max-width:790px;color:#d9e5e3;margin:0 0 29px}.hero-actions{display:flex;gap:11px;flex-wrap:wrap}.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:12px 17px;border-radius:11px;border:1px solid transparent;text-decoration:none;font-size:.85rem;font-weight:700;transition:.18s}.btn:hover{transform:translateY(-1px)}.btn.gold{background:var(--gold);color:#183433}.btn.ghost{border-color:rgba(255,255,255,.28);color:#fff;background:rgba(255,255,255,.055)}
+    .hero-panel{background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.15);border-radius:22px;padding:27px;backdrop-filter:blur(12px);box-shadow:0 24px 70px rgba(4,26,25,.18)}.hero-panel .panel-label{font-size:.68rem;text-transform:uppercase;letter-spacing:.15em;color:#f1d69e;font-weight:700}.hero-panel h2{font-size:1.45rem;line-height:1.2;margin:8px 0 15px}.hero-panel p{color:#c9d9d7;font-size:.88rem;margin:0 0 18px}.script-list{display:grid;grid-template-columns:1fr 1fr;gap:9px}.script-pill{border-top:1px solid rgba(255,255,255,.14);padding-top:10px}.script-pill strong{display:block;color:#fff;font-size:.8rem}.script-pill span{color:#bdd0cd;font-size:.75rem}
+    .statement{max-width:var(--max);margin:-32px auto 0;padding:0 24px;position:relative;z-index:5}.statement-box{background:#fff;border:1px solid var(--line);border-radius:19px;box-shadow:var(--shadow);display:grid;grid-template-columns:1.3fr .7fr;overflow:hidden}.statement-copy{padding:28px 30px}.statement-copy strong{font-size:1.2rem;color:var(--deep);display:block;margin-bottom:5px}.statement-copy p{margin:0;color:#5f6d70}.statement-stat{background:linear-gradient(135deg,#f8f1e3,#f1e0bc);display:flex;align-items:center;justify-content:center;text-align:center;padding:24px}.statement-stat strong{display:block;font-size:2.35rem;line-height:1;color:var(--deep);letter-spacing:-.05em}.statement-stat span{display:block;margin-top:7px;font-size:.75rem;font-weight:700;color:#846627;text-transform:uppercase;letter-spacing:.08em}
+    section{padding:78px 24px}.wrap{max-width:var(--max);margin:auto}.white{background:#fff}.deep{background:var(--deep2);color:#fff}.kicker{font-size:.71rem;text-transform:uppercase;letter-spacing:.16em;color:#9b762f;font-weight:700;margin-bottom:9px}.deep .kicker{color:#f1d69e}.title{font-size:clamp(2.05rem,3.6vw,3.25rem);line-height:1.08;letter-spacing:-.04em;color:var(--deep);margin:0 0 16px}.deep .title{color:#fff}.lead{max-width:930px;font-size:1.02rem;color:#59696c;margin:0 0 31px}.deep .lead{color:#c7d8d6}
+    .why-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:46px;align-items:start}.prose p{margin:0 0 17px;color:#4f5e62}.quote{border-left:4px solid var(--gold);padding:2px 0 2px 20px;margin-top:24px;color:var(--deep);font-size:1.18rem;font-weight:600;line-height:1.45}.reason-grid{display:grid;gap:13px}.reason{background:#fff;border:1px solid var(--line);border-radius:16px;padding:20px;box-shadow:var(--shadow-sm)}.reason .num{font-size:.67rem;text-transform:uppercase;letter-spacing:.11em;color:#9a742f;font-weight:700}.reason h3{font-size:1.03rem;margin:5px 0 6px;color:var(--deep)}.reason p{margin:0;color:var(--muted);font-size:.87rem}
+    .language-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:28px}.language-card{background:#fff;border:1px solid var(--line);border-radius:17px;padding:25px;box-shadow:var(--shadow-sm)}.script{font-family:"Noto Kufi Arabic",sans-serif;font-size:2.12rem;color:var(--teal);line-height:1.1;margin-bottom:13px}.language-card h3{margin:0 0 8px;color:var(--deep);font-size:1.08rem}.language-card p{margin:0;color:var(--muted);font-size:.89rem}
+    .mission-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:15px;margin-top:30px}.mission{border:1px solid rgba(255,255,255,.14);background:rgba(255,255,255,.065);border-radius:17px;padding:23px}.mission .icon{width:38px;height:38px;border-radius:11px;background:rgba(212,173,97,.14);display:grid;place-items:center;color:#f1d69e;font-weight:700;margin-bottom:15px}.mission h3{margin:0 0 8px;font-size:1rem}.mission p{margin:0;color:#c7d8d6;font-size:.86rem}
+    .edition-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:30px}.edition{background:#fff;border:1px solid var(--line);border-radius:18px;overflow:hidden;box-shadow:var(--shadow-sm);display:flex;flex-direction:column}.edition-top{padding:22px 23px 18px;background:linear-gradient(135deg,#f8f3e9,#fff)}.edition.current .edition-top{background:linear-gradient(135deg,#e8f2ef,#f8f4e8)}.edition-year{font-size:.68rem;text-transform:uppercase;letter-spacing:.13em;color:#9a742f;font-weight:700}.edition h3{font-size:1.28rem;color:var(--deep);margin:6px 0 6px}.edition-meta{font-size:.84rem;color:#5f6d70}.edition-body{padding:20px 23px 23px;display:flex;flex-direction:column;gap:14px;flex:1}.edition-body p{margin:0;color:var(--muted);font-size:.88rem}.edition-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:auto}.small-btn{display:inline-flex;padding:8px 11px;border-radius:9px;text-decoration:none;font-size:.74rem;font-weight:700;border:1px solid var(--line);background:#fff;color:var(--deep)}.small-btn.primary{background:var(--deep);color:#fff;border-color:var(--deep)}.small-btn:hover{border-color:#b9c8c5}.edition.current{border-color:#c8dcd7}
+    .proceedings-band{background:linear-gradient(115deg,#fff8eb,#f2e0bd);border:1px solid #ead5ae;border-radius:20px;padding:28px 30px;display:grid;grid-template-columns:1fr auto;gap:26px;align-items:center;box-shadow:var(--shadow-sm);margin-top:34px}.proceedings-band h3{margin:0 0 7px;color:var(--deep);font-size:1.28rem}.proceedings-band p{margin:0;color:#66645e;font-size:.9rem}
+    .topics{display:grid;grid-template-columns:repeat(3,1fr);gap:15px;margin-top:28px}.topic{border:1px solid var(--line);background:#fff;border-radius:15px;padding:21px}.topic h3{margin:0 0 7px;font-size:1rem;color:var(--deep)}.topic p{margin:0;color:var(--muted);font-size:.86rem}
+    .mo-card{display:grid;grid-template-columns:210px 1fr;gap:30px;align-items:center;background:#fff;border:1px solid var(--line);border-radius:20px;padding:27px;box-shadow:var(--shadow)}.mo-photo{height:210px;border-radius:16px;background:linear-gradient(135deg,#dfe9e5,#f5ead3);position:relative;overflow:hidden;display:grid;place-items:center}.mo-photo span{font-size:2.5rem;font-weight:700;color:#52716d}.mo-photo img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}.mo-card .role{font-size:.68rem;text-transform:uppercase;letter-spacing:.12em;color:#9a742f;font-weight:700}.mo-card h3{font-size:1.55rem;margin:5px 0 7px;color:var(--deep)}.mo-card p{margin:0 0 15px;color:#5d6c6f}.contact-links{display:flex;gap:9px;flex-wrap:wrap}
+    footer{background:#092725;color:#bfd0ce;padding:36px 24px}.footer-inner{max-width:var(--max);margin:auto;display:flex;align-items:flex-start;justify-content:space-between;gap:28px}.footer-inner strong{color:#fff}.footer-inner p{margin:5px 0 0;font-size:.81rem}.footer-links{display:flex;gap:14px;flex-wrap:wrap}.footer-links a{color:#f0d49b;text-decoration:none;font-size:.8rem}
+    @media(max-width:1020px){.links{display:none}.menu-toggle{display:block}.hero-inner{grid-template-columns:1fr;gap:36px}.hero-panel{max-width:680px}.mission-grid{grid-template-columns:repeat(2,1fr)}.edition-grid{grid-template-columns:1fr}.topics{grid-template-columns:repeat(2,1fr)}}
+    @media(max-width:760px){section{padding:58px 18px}.nav{padding-inline:18px}.hero-inner{padding:76px 18px 68px}.statement{padding-inline:18px}.statement-box,.why-grid,.mo-card,.proceedings-band{grid-template-columns:1fr}.statement-stat{justify-content:flex-start;text-align:left}.language-grid,.topics{grid-template-columns:1fr}.mo-photo{max-width:360px;height:300px}.footer-inner{flex-direction:column}}
+    @media(max-width:520px){.brand-copy span{display:none}.mission-grid{grid-template-columns:1fr}h1{font-size:3rem}.script-list{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+<header class="site-header">
+  <nav class="nav" aria-label="Primary navigation">
+    <a class="brand" href="#home"><div class="brand-mark">أبجد</div><div class="brand-copy"><strong>AbjadNLP</strong><span>NLP for languages using Arabic script</span></div></a>
+    <ul class="links">
+      <li><a href="#why">Why AbjadNLP</a></li><li><a href="#languages">Languages</a></li><li><a href="#mission">Mission</a></li><li><a href="#editions">Editions</a></li><li><a href="#research">Research</a></li><li><a href="#chair">Chair</a></li><li><a class="current" href="abjad2027.html">AbjadNLP 2027 ↗</a></li>
+    </ul>
+    <button class="menu-toggle" id="menuToggle" aria-label="Open navigation">☰</button>
+  </nav>
+  <div class="mobile" id="mobileNav"><a href="#why">Why AbjadNLP</a><a href="#languages">Languages</a><a href="#mission">Mission</a><a href="#editions">Editions</a><a href="#research">Research</a><a href="#chair">Chair</a><a href="abjad2027.html">AbjadNLP 2027 ↗</a></div>
+</header>
+
+<main id="home">
+<section class="hero">
+  <div class="hero-inner">
+    <div>
+      <div class="eyebrow">AbjadNLP Workshop Series</div>
+      <h1>Language technology for a script shared across continents<span>Natural Language Processing for Arabic, Perso-Arabic and Ajami writing traditions</span></h1>
+      <p class="hero-copy">AbjadNLP brings together researchers, language communities and technology builders working on languages written in Arabic-derived scripts. The workshop exists because script matters: it shapes tokenisation, orthography, OCR, search, generation, language resources and the ability of communities to participate fully in the digital world.</p>
+      <div class="hero-actions"><a class="btn gold" href="abjad2027.html">Explore AbjadNLP 2027</a><a class="btn ghost" href="#editions">Previous editions & proceedings</a></div>
+    </div>
+    <aside class="hero-panel">
+      <div class="panel-label">One script · many language communities</div>
+      <h2>From Arabic to Urdu, Persian to Wolofal</h2>
+      <p>The Arabic script and its derived forms are used across unrelated language families and distinct cultural traditions. AbjadNLP creates a common NLP forum without treating those languages as linguistically identical.</p>
+      <div class="script-list">
+        <div class="script-pill"><strong>Arabic</strong><span>MSA · Classical · dialects</span></div>
+        <div class="script-pill"><strong>Perso-Arabic</strong><span>Persian · Urdu · Pashto · Kurdish</span></div>
+        <div class="script-pill"><strong>Ajami</strong><span>Hausa · Fula · Wolofal · Swahili</span></div>
+        <div class="script-pill"><strong>Beyond</strong><span>Sindhi · Uyghur · Azeri · others</span></div>
+      </div>
+    </aside>
+  </div>
+</section>
+
+<div class="statement">
+  <div class="statement-box"><div class="statement-copy"><strong>Why a workshop around writing systems?</strong><p>Because language technology is not script-neutral. Orthographic variation, shaping and rendering, segmentation, transliteration, OCR, low-resource data and multilingual modelling all behave differently across writing traditions.</p></div><div class="statement-stat"><div><strong>~1B</strong><span>speakers represented across the wider language communities</span></div></div></div>
+</div>
+
+<section id="why">
+  <div class="wrap">
+    <div class="kicker">Why AbjadNLP matters</div><h2 class="title">Digital inclusion starts with the languages people actually write</h2>
+    <div class="why-grid">
+      <div class="prose">
+        <p>Arabic-derived scripts are used across Africa, the Middle East, Central Asia and South Asia by communities with very different linguistic histories. Some of these languages have mature digital resources; many others remain under-resourced, inconsistently encoded, poorly represented in training data or weakly supported by mainstream NLP systems.</p>
+        <p>That gap affects much more than benchmark scores. It affects whether people can search, translate, read, write, learn, access public information, build cultural archives and use modern AI systems in their own languages. It also affects whether linguistic heritage survives the transition from print and oral traditions into digital environments.</p>
+        <p>AbjadNLP provides a place to study these problems together while respecting the differences between Arabic, Perso-Arabic and Ajami traditions. It connects computational work with orthography, language resources, sociolinguistics and the practical needs of language communities.</p>
+        <div class="quote">The aim is not to force diverse languages into one technical mould. It is to build NLP that understands the diversity carried by a shared writing tradition.</div>
+      </div>
+      <div class="reason-grid">
+        <div class="reason"><div class="num">01 · Representation</div><h3>Many languages remain digitally under-resourced</h3><p>Low-resource communities need corpora, lexicons, benchmarks, tools and models that reflect their actual writing practices.</p></div>
+        <div class="reason"><div class="num">02 · Writing systems</div><h3>Script creates technical challenges of its own</h3><p>Tokenisation, orthography, Unicode, glyph rendering, OCR, transliteration and spelling variation require dedicated attention.</p></div>
+        <div class="reason"><div class="num">03 · Modern AI</div><h3>LLMs can reproduce existing resource inequalities</h3><p>Strong performance in high-resource languages does not guarantee reliable behaviour for dialects, minority languages or alternative orthographies.</p></div>
+        <div class="reason"><div class="num">04 · Heritage</div><h3>Language technology can help preserve written traditions</h3><p>Better digital infrastructure enables communities to search, analyse, teach and preserve linguistic and cultural material.</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="white" id="languages">
+  <div class="wrap">
+    <div class="kicker">Language coverage</div><h2 class="title">A workshop defined by writing tradition, not by one language family</h2><p class="lead">AbjadNLP deliberately spans languages that are typologically different but share Arabic-derived writing systems and many related computational challenges.</p>
+    <div class="language-grid">
+      <div class="language-card"><div class="script">العربية</div><h3>Arabic</h3><p>Modern Standard Arabic, Classical Arabic and regional dialects, including challenges in morphology, dialect variation, code-switching, generation and evaluation.</p></div>
+      <div class="language-card"><div class="script">فارسی · اردو</div><h3>Perso-Arabic traditions</h3><p>Persian, Urdu, Pashto, Sorani Kurdish, Sindhi, Uyghur, Azeri and other languages that use adapted Arabic-derived scripts.</p></div>
+      <div class="language-card"><div class="script">عجمي</div><h3>Ajami traditions</h3><p>African languages including Hausa, Fula, Wolofal, Swahili, Kanuri, Mandingo and Tamazight written using Arabic-derived conventions.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="deep" id="mission">
+  <div class="wrap">
+    <div class="kicker">What the workshop is trying to build</div><h2 class="title">A sustained research community around inclusive Arabic-script NLP</h2><p class="lead">AbjadNLP is designed as an ongoing workshop series rather than a one-off event, connecting research papers, shared tasks, proceedings and community-building across editions.</p>
+    <div class="mission-grid">
+      <div class="mission"><div class="icon">R</div><h3>Resources</h3><p>Encourage reusable corpora, dictionaries, datasets, annotation schemes, orthographic documentation and open tools.</p></div>
+      <div class="mission"><div class="icon">M</div><h3>Methods</h3><p>Advance NLP and LLM methods that work across scripts, dialects and low-resource settings rather than only dominant languages.</p></div>
+      <div class="mission"><div class="icon">E</div><h3>Evaluation</h3><p>Develop better benchmarks and shared tasks that expose where multilingual systems succeed, fail or behave unevenly.</p></div>
+      <div class="mission"><div class="icon">C</div><h3>Community</h3><p>Connect researchers across regions and disciplines, including academia, industry and grassroots language communities.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="editions">
+  <div class="wrap">
+    <div class="kicker">Workshop series</div><h2 class="title">From Abu Dhabi to Rabat to Athens</h2><p class="lead">Each edition builds a permanent research record through peer-reviewed proceedings while extending the workshop's coverage of Arabic-script languages and shared research challenges.</p>
+    <div class="edition-grid">
+      <article class="edition"><div class="edition-top"><div class="edition-year">2025 · 1st edition</div><h3>AbjadNLP 2025</h3><div class="edition-meta">Abu Dhabi, UAE · 19 January 2025 · COLING 2025</div></div><div class="edition-body"><p>The inaugural workshop established a dedicated international venue for NLP across Abjad, Perso-Arabic and Ajami writing traditions.</p><div class="edition-actions"><a class="small-btn primary" href="abjad2025.html">Workshop archive</a><a class="small-btn" href="https://aclanthology.org/volumes/2025.abjadnlp-1/" target="_blank" rel="noopener">Proceedings ↗</a></div></div></article>
+      <article class="edition"><div class="edition-top"><div class="edition-year">2026 · 2nd edition</div><h3>AbjadNLP 2026</h3><div class="edition-meta">Rabat, Morocco · 28 March 2026 · EACL 2026</div></div><div class="edition-body"><p>The second edition expanded the community and introduced four shared tasks spanning generated-text detection, authorship, style transfer and medical NLP.</p><div class="edition-actions"><a class="small-btn primary" href="abjad2026.html">Workshop archive</a><a class="small-btn" href="https://aclanthology.org/events/abjadnlp-2026/" target="_blank" rel="noopener">Proceedings ↗</a></div></div></article>
+      <article class="edition current"><div class="edition-top"><div class="edition-year">2027 · 3rd edition · Current</div><h3>AbjadNLP 2027</h3><div class="edition-meta">Athens, Greece · EACL 2027</div></div><div class="edition-body"><p>The third edition continues the workshop's multilingual and community-driven agenda, with an expanded shared-task programme and wider Abjad and Ajami coverage.</p><div class="edition-actions"><a class="small-btn primary" href="abjad2027.html">Current workshop</a><a class="small-btn" href="https://aclanthology.org/venues/abjadnlp/" target="_blank" rel="noopener">Series proceedings ↗</a></div></div></article>
+    </div>
+    <div class="proceedings-band"><div><h3>A growing public research record</h3><p>AbjadNLP proceedings are archived on the ACL Anthology, giving papers and shared-task work a permanent, openly accessible home and making it possible to follow the development of the field across editions.</p></div><a class="btn gold" href="https://aclanthology.org/venues/abjadnlp/" target="_blank" rel="noopener">Browse all proceedings ↗</a></div>
+  </div>
+</section>
+
+<section class="white" id="research">
+  <div class="wrap">
+    <div class="kicker">Research themes</div><h2 class="title">From foundational language resources to multilingual LLMs</h2><p class="lead">The workshop welcomes work across the NLP pipeline, especially research that helps explain, document or overcome the technical consequences of writing-system and resource diversity.</p>
+    <div class="topics">
+      <div class="topic"><h3>Core NLP</h3><p>Morphology, tokenisation, tagging, parsing, named entities, sentiment, language modelling and representation learning.</p></div>
+      <div class="topic"><h3>LLMs & Generative AI</h3><p>Multilingual and low-resource LLMs, adaptation, evaluation, safety, generated-text detection and culturally aware generation.</p></div>
+      <div class="topic"><h3>Machine Translation & Speech</h3><p>Translation, speech recognition, speech synthesis and cross-lingual technologies for under-represented languages.</p></div>
+      <div class="topic"><h3>OCR & Writing Systems</h3><p>Optical character recognition, handwriting, Unicode, fonts, glyph rendering, transliteration and orthographic variation.</p></div>
+      <div class="topic"><h3>Language Resources</h3><p>Corpora, dictionaries, benchmarks, annotation, orthography descriptions and tools for low-resource communities.</p></div>
+      <div class="topic"><h3>Culture, Society & Access</h3><p>Code-switching, dialects, language preservation, education, cultural heritage, fairness and digital inclusion.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="chair">
+  <div class="wrap">
+    <div class="kicker">Workshop series</div><h2 class="title">General Chair</h2>
+    <div class="mo-card"><div class="mo-photo"><span>ME</span><img src="organisers/mo-el-haj.png" alt="Dr Mo El-Haj" onerror="this.remove()"></div><div><div class="role">General Chair · AbjadNLP</div><h3>Dr Mo El-Haj</h3><p>Natural Language Processing researcher working on multilingual and under-resourced language technology, with a long-standing focus on Arabic NLP, language resources and cross-lingual research. AbjadNLP is organised as a continuing community workshop with collaborators and chairs changing across editions.</p><div class="contact-links"><a class="small-btn primary" href="https://elhaj.uk/" target="_blank" rel="noopener">Profile ↗</a><a class="small-btn" href="https://aclanthology.org/venues/abjadnlp/" target="_blank" rel="noopener">AbjadNLP on ACL Anthology ↗</a></div></div></div>
+  </div>
+</section>
+</main>
+
+<footer><div class="footer-inner"><div><strong>AbjadNLP Workshop Series</strong><p>Natural Language Processing for languages using Arabic and Arabic-derived scripts.</p></div><div class="footer-links"><a href="abjad2025.html">2025</a><a href="abjad2026.html">2026</a><a href="abjad2027.html">2027</a><a href="https://aclanthology.org/venues/abjadnlp/" target="_blank" rel="noopener">Proceedings ↗</a></div></div></footer>
+<script>
+  const menuBtn=document.getElementById('menuToggle'), mobileNav=document.getElementById('mobileNav');
+  menuBtn.addEventListener('click',()=>mobileNav.classList.toggle('open'));
+  mobileNav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>mobileNav.classList.remove('open')));
+</script>
+</body>
+</html>
