@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="AbjadNLP 2027, the 3rd Workshop on NLP for Languages Using Arabic Script, co-located with EACL 2027 in Athens, Greece.">
+  <meta name="description" content="AbjadNLP 2027, the 3rd Workshop on NLP for Languages Using Arabic Script, co-located with COLING 2027 in Macau, China.">
   <title>AbjadNLP 2027 | 3rd Workshop on NLP for Languages Using Arabic Script</title>
   <link rel="icon" href="organisers/logo.jpg" sizes="32x32">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -52,6 +52,38 @@
     .mobile-nav{display:none;padding:7px 20px 16px;border-top:1px solid var(--line);background:#fff}
     .mobile-nav.open{display:block}
     .mobile-nav a{display:block;padding:10px 3px;text-decoration:none;font-weight:700;color:#46585a;border-bottom:1px solid #edf0ef}
+
+.keynote-placeholder {
+    display: flex !important;
+    align-items: center !important;
+    gap: 30px !important;
+}
+
+.keynote-placeholder .keynote-icon {
+    width: 160px !important;
+    height: 160px !important;
+    min-width: 160px !important;
+    min-height: 160px !important;
+    flex: 0 0 160px !important;
+    border-radius: 50% !important;
+    overflow: hidden !important;
+    padding: 0 !important;
+}
+
+.keynote-placeholder .keynote-icon img {
+    width: 160px !important;
+    height: 160px !important;
+    max-width: none !important;
+    border-radius: 50% !important;
+    object-fit: cover !important;
+    object-position: center !important;
+    display: block !important;
+}
+
+.keynote-placeholder > div:last-child {
+    flex: 1;
+    min-width: 0;
+}
 
     .hero{position:relative;overflow:hidden;background:
       linear-gradient(100deg,rgba(10,36,35,.97) 0%,rgba(15,54,52,.93) 48%,rgba(20,61,58,.78) 100%),
@@ -246,10 +278,10 @@
       </div>
     </div>
     <div class="hero-meta" aria-label="Workshop details">
-      <div class="badge"><i class="fa-solid fa-location-dot"></i> Co-located with EACL 2027</div>
-      <div class="meta-line"><i class="fa-regular fa-calendar"></i><div><strong>14 March 2027 (TBC)</strong>Full-day workshop</div></div>
-      <div class="meta-line"><i class="fa-solid fa-location-dot"></i><div><strong>Athens, Greece</strong>Venue to be announced</div></div>
-      <div class="meta-line"><i class="fa-solid fa-globe"></i><div><strong>EACL 2027</strong>9–14 March 2027</div></div>
+      <div class="badge"><i class="fa-solid fa-location-dot"></i> Co-located with COLING 2027</div>
+      <div class="meta-line"><i class="fa-regular fa-calendar"></i><div><strong>9-14 May 2027 (TBC)</strong>Full-day workshop</div></div>
+      <div class="meta-line"><i class="fa-solid fa-location-dot"></i><div><strong>Macau, China</strong><a href="https://www.galaxymacau.com/mice/gicc/meetings-conferences/" target="_blank">Galaxy International Convention Center</a></div></div>
+      <div class="meta-line"><i class="fa-solid fa-globe"></i><div><strong>COLING 2027</strong>9–14 May 2027</div></div>
     </div>
   </div>
 </section>
@@ -260,7 +292,7 @@
       <div class="eyebrow">About AbjadNLP</div>
       <h2 class="section-title">One workshop, a much wider Arabic-script world</h2>
       <p class="section-lead">AbjadNLP brings together researchers working on Arabic and the wider family of languages written in Arabic-derived scripts, spanning Abjad and Ajami traditions.</p>
-      <p>Following the first workshop in Abu Dhabi and the second edition at EACL 2026 in Rabat, AbjadNLP returns for its third edition in Athens. The workshop creates a common research space for languages that share script traditions but differ substantially in morphology, orthography, sociolinguistic context, resource availability and digital representation.</p>
+      <p>Following the first workshop in Abu Dhabi and the second edition at EACL 2026 in Rabat, AbjadNLP returns for its third edition in Macau. The workshop creates a common research space for languages that share script traditions but differ substantially in morphology, orthography, sociolinguistic context, resource availability and digital representation.</p>
       <p>The workshop places particular emphasis on low-resource and under-represented languages, open resources, reproducible research, shared evaluation, and collaboration between established NLP communities and researchers working on languages that remain poorly served by current language technologies.</p>
     </div>
     <div class="stats-grid" aria-label="AbjadNLP community highlights">
@@ -312,7 +344,7 @@
 
 <section class="section dark" id="tasks">
   <div class="container">
-    <div class="section-head"><div class="eyebrow">Shared Tasks at AbjadNLP 2027</div><h2 class="section-title">Community benchmarks for Arabic-script NLP</h2><p class="section-lead">The shared-task programme encourages comparable evaluation, reusable datasets and deeper collaboration across Arabic and other Abjad languages.</p></div>
+    <div class="section-head"><div class="eyebrow">Shared Tasks at AbjadNLP 2027</div><h2 class="section-title">Benchmarks for Arabic-script NLP</h2><p class="section-lead">The shared-task programme encourages comparable evaluation, reusable datasets and deeper collaboration across Arabic and other Abjad languages.</p></div>
     <div class="shared-grid">
       <article class="shared-card"><div class="task-no">Shared Task 01</div><h3>AbjadGenEval</h3><p>AI-generated text detection for languages using Arabic script, supporting research on content authenticity and robust machine-generated text detection.</p><a class="text-link" href="https://ezzini.github.io/AbjadGenEval/" target="_blank" rel="noopener">Shared-task site <i class="fa-solid fa-arrow-up-right-from-square"></i></a><div class="organisers-small"><strong>Organisers:</strong> Saad Ezzini, Shadi Abudalfa, Ahmad Abdelali, Mo El-Haj, Sina Ahmadi, Nadir Durrani, Hassan Sajjad and Farah Adeeba.</div></article>
       <article class="shared-card"><div class="task-no">Shared Task 02</div><h3>AbjadStyleTransfer</h3><p>Authorship style transfer, transforming formal input text into the style of a specified author while preserving the underlying meaning.</p><a class="text-link" href="https://ezzini.github.io/AbjadStyleTransfer/" target="_blank" rel="noopener">Shared-task site <i class="fa-solid fa-arrow-up-right-from-square"></i></a><div class="organisers-small"><strong>Organisers:</strong> Saad Ezzini, Shadi Abudalfa, Ahmad Abdelali, Mo El-Haj, Sina Ahmadi, Nadir Durrani, Hassan Sajjad and Farah Adeeba.</div></article>
@@ -324,14 +356,30 @@
 
 <section class="section" id="keynote">
   <div class="container">
-    <div class="section-head"><div class="eyebrow">Keynote</div><h2 class="section-title">Keynote speaker</h2></div>
-    <div class="keynote-placeholder"><div class="keynote-icon"><i class="fa-solid fa-microphone-lines"></i></div><div><h3>Keynote announcement coming soon</h3><p>The AbjadNLP 2027 keynote speaker and talk details will be announced here once confirmed.</p></div></div>
+    <div class="section-head">
+      <div class="eyebrow">Keynote</div>
+      <h2 class="section-title">Keynote speaker</h2>
+    </div>
+
+<div class="keynote-placeholder">
+  <div class="keynote-icon">
+    <img src="organisers/steven-bird.png" alt="Steven Bird">
+  </div>
+
+  <div>
+    <h3>
+      <a href="https://researchers.cdu.edu.au/en/persons/steven-bird/">Prof. Steve Bird</a>,
+      <a href="https://www.cdu.edu.au/">Charles Darwin University, Australia</a>
+    </h3>
+    <p>The talk details will be announced here once confirmed.</p>
+  </div>
+</div>
   </div>
 </section>
 
 <section class="section alt" id="submission">
   <div class="container">
-    <div class="section-head"><div class="eyebrow">Call for Papers</div><h2 class="section-title">Submission and publication</h2><p class="section-lead">AbjadNLP 2027 will follow EACL 2027 standards for formatting, peer review and ethical guidelines.</p></div>
+    <div class="section-head"><div class="eyebrow">Call for Papers</div><h2 class="section-title">Submission and publication</h2><p class="section-lead">AbjadNLP 2027 will follow COLING 2027 standards for formatting, peer review and ethical guidelines.</p></div>
     <div class="submission-layout">
       <div class="submission-card">
         <h3>Submission guidelines</h3>
@@ -340,23 +388,23 @@
           <div class="submission-point"><strong>Long papers</strong>Up to 8 pages of main content, excluding references.</div>
           <div class="submission-point"><strong>Short papers</strong>Up to 4 pages of main content, excluding references.</div>
           <div class="submission-point"><strong>Review model</strong>Double-blind peer review with full anonymisation.</div>
-          <div class="submission-point"><strong>Publication</strong>Accepted papers will appear in the EACL 2027 workshop proceedings on the ACL Anthology.</div>
+          <div class="submission-point"><strong>Publication</strong>Accepted papers will appear in the COLING 2027 workshop proceedings on the ACL Anthology.</div>
         </div>
-        <p><a class="text-link" href="https://2027.eacl.org/calls/papers/#paper-submission-information" target="_blank" rel="noopener">EACL 2027 paper guidelines <i class="fa-solid fa-arrow-up-right-from-square"></i></a> &nbsp;&nbsp; <a class="text-link" href="https://github.com/acl-org/acl-style-files" target="_blank" rel="noopener">ACL style files <i class="fa-solid fa-arrow-up-right-from-square"></i></a></p>
+        <p><a class="text-link" href="https://2027.coling-iccl.org/calls/main_conference_papers/" target="_blank" rel="noopener">COLING 2027 paper guidelines <i class="fa-solid fa-arrow-up-right-from-square"></i></a> &nbsp;&nbsp; <a class="text-link" href="https://github.com/acl-org/acl-style-files" target="_blank" rel="noopener">ACL style files <i class="fa-solid fa-arrow-up-right-from-square"></i></a></p>
         <div class="notice"><strong>Submission portal:</strong> to be announced. Workshop-specific deadlines below remain provisional until formally confirmed.</div>
       </div>
       <aside class="dates-card" id="dates">
         <h3>Key dates <span style="font-size:.72rem;color:#91702f;font-weight:700">PROVISIONAL</span></h3>
         <ul class="dates-list">
-          <li><strong>13 Oct 26</strong><span>First call for workshop papers</span></li>
-          <li><strong>13 Nov 26</strong><span>Second call for workshop papers</span></li>
-          <li><strong>15 Dec 26</strong><span>Direct paper submission deadline</span></li>
-          <li><strong>22 Dec 26</strong><span>ARR commitment deadline</span></li>
-          <li><strong>5 Jan 27</strong><span>Notification of acceptance</span></li>
-          <li><strong>19 Jan 27</strong><span>Camera-ready paper deadline</span></li>
-          <li><strong>9 Feb 27</strong><span>Proceedings deadline</span></li>
-          <li><strong>12 Feb 27</strong><span>Pre-recorded video deadline</span></li>
-          <li><strong>9–14 Mar</strong><span>EACL 2027, Athens, Greece</span></li>
+	<li><strong>15 Oct 26</strong><span>First call for workshop papers</span></li>
+	<li><strong>10 Dec 26</strong><span>Second call for workshop papers</span></li>
+	<li><strong>20 Jan 27</strong><span>Direct paper submission deadline</span></li>
+	<li><strong>20 Jan 27</strong><span>ARR commitment deadline</span></li>
+	<li><strong>10 Feb 27</strong><span>Notification of acceptance</span></li>
+	<li><strong>5 Mar 27</strong><span>Camera-ready paper deadline</span></li>
+	<li><strong>5 Apr 27</strong><span>Proceedings deadline</span></li>
+	<li><strong>15 Apr 27</strong><span>Pre-recorded video deadline</span></li>
+	<li><strong>9–14 May 27</strong><span>COLING 2027, Macau, China</span></li>
         </ul>
       </aside>
     </div>
@@ -478,7 +526,7 @@
 <footer class="footer">
   <div class="container footer-inner">
     <div>AbjadNLP 2027 · The 3rd Workshop on NLP for Languages Using Arabic Script</div>
-    <div class="footer-links"><a href="https://2027.eacl.org/" target="_blank" rel="noopener">EACL 2027</a><a href="https://aclanthology.org/venues/abjadnlp/" target="_blank" rel="noopener">ACL Anthology</a><a href="#home">Back to top</a></div>
+    <div class="footer-links"><a href="https://2027.coling-iccl.org/" target="_blank" rel="noopener">COLING 2027</a><a href="https://aclanthology.org/venues/abjadnlp/" target="_blank" rel="noopener">ACL Anthology</a><a href="#home">Back to top</a></div>
   </div>
 </footer>
 
