@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="AbjadNLP 2027 author guidelines: paper lengths, templates, submission routes, ethics, peer review, camera-ready papers and publication.">
+  <meta name="theme-color" content="#173f3d">
+  <title>Author Guidelines | AbjadNLP 2027</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=Noto+Kufi+Arabic:wght@600;700&amp;display=swap" rel="stylesheet">
+  <style>
+:root{--deep:#173f3d;--deep-2:#0e2e2d;--teal:#1c6b65;--gold:#d4ad61;--gold-soft:#f5ead3;--ink:#20262d;--muted:#65707a;--line:#dfe5e8;--canvas:#f5f7f6;--paper:#fff;--max:1180px}
+*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:98px}body{margin:0;background:var(--canvas);color:var(--ink);font-family:"DM Sans",Arial,sans-serif;line-height:1.7;-webkit-font-smoothing:antialiased}a{color:var(--teal);text-underline-offset:3px}button,input{font:inherit}button{cursor:pointer}h1,h2,h3{line-height:1.25;color:var(--deep)}h1,h2,h3,p,li{overflow-wrap:anywhere}button:focus-visible,a:focus-visible,input:focus-visible{outline:3px solid #a66e0e;outline-offset:4px}::selection{background:#ead19d;color:var(--deep)}[hidden]{display:none!important}.container{max-width:var(--max);padding-inline:24px;margin-inline:auto}.skip-link{position:fixed;top:-100px;left:16px;z-index:100;background:var(--gold);color:var(--deep);padding:12px 18px;border-radius:8px;font-weight:700}.skip-link:focus{top:12px}
+.site-header{position:sticky;top:0;z-index:30;background:#fffffff5;border-bottom:1px solid var(--line);backdrop-filter:blur(12px)}.site-nav{max-width:var(--max);margin:auto;padding:12px 24px;display:flex;align-items:center;justify-content:space-between;gap:18px}.brand{display:flex;align-items:center;gap:12px;flex-shrink:0;text-decoration:none}.brand-mark{display:grid;place-items:center;width:44px;height:44px;border-radius:12px;background:var(--deep);color:var(--gold);font-family:serif;font-size:26px}.brand-copy{display:flex;flex-direction:column;line-height:1.1}.brand-copy strong{color:var(--deep);font-size:1.05rem;letter-spacing:-.02em}.brand-copy span{margin-top:5px;font-size:.64rem;font-weight:700;letter-spacing:.11em;text-transform:uppercase;color:#826024}.nav-links{display:flex;gap:4px;flex-wrap:wrap}.nav-links a{padding:9px 11px;border-radius:8px;color:#4d5d60;text-decoration:none;font-size:.79rem;font-weight:700}.nav-links a:hover{background:#edf3f0}.nav-links a[aria-current=page]{background:var(--deep);color:#fff}
+.hero{position:relative;overflow:hidden;background:linear-gradient(110deg,#0e2e2d,#173f3d 65%,#215c57);color:#fff}.hero::after{content:"ا  ب  ج  د";position:absolute;right:12px;bottom:-45px;font-family:"Noto Kufi Arabic",serif;font-weight:700;font-size:clamp(7rem,15vw,12rem);color:#ffffff08;white-space:nowrap;direction:rtl;pointer-events:none}.hero .container{position:relative;z-index:1;padding-top:25px;padding-bottom:43px}.breadcrumbs ol{display:flex;flex-wrap:wrap;gap:8px;list-style:none;padding:0;margin:0 0 31px;color:#f3cf89;font-size:.77rem}.breadcrumbs li+li::before{content:"/";margin-right:8px;color:#9cb6b0}.breadcrumbs a{color:#dce8e4;text-decoration:none}.breadcrumbs a:hover{text-decoration:underline}.eyebrow{margin:0 0 12px;color:#f2ca7c;font-size:.7rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase}.hero h1{max-width:900px;margin:0;color:white;font-size:clamp(2.2rem,4.6vw,3.5rem);letter-spacing:-.045em;line-height:1.1}.hero-subtitle{max-width:800px;margin:18px 0 0;font-size:1.03rem;line-height:1.7;color:#dbe9e5}.hero-subtitle strong{font-weight:400}.hero-actions{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-top:24px}.btn{display:inline-flex;align-items:center;justify-content:center;padding:10px 15px;border:1px solid var(--line);border-radius:9px;background:white;color:var(--deep);font-size:.81rem;font-weight:700;text-decoration:none}.btn:hover{background:#edf3f0}.btn.gold{background:var(--gold);border-color:var(--gold);color:#172d2a}.btn.gold:hover{background:#e1bd79}.btn.ghost{background:#ffffff0c;color:white;border-color:#ffffff50}.btn.ghost:hover{background:#ffffff1c}
+.intro{padding-top:28px;padding-bottom:24px}.panel{padding:26px 29px;background:var(--paper);border:1px solid var(--line);border-radius:17px;box-shadow:0 7px 24px #14302f0a}.panel h2{margin:0;font-size:1.3rem;letter-spacing:-.02em}.panel-heading{display:flex;align-items:baseline;justify-content:space-between;gap:16px;margin-bottom:17px}.panel-heading p{margin:0;color:var(--muted);font-size:.78rem}.contents-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:30px;list-style:none;margin:0;padding:0}.contents-grid li{border-bottom:1px solid #edf1ee}.contents-grid a{display:flex;gap:11px;align-items:baseline;padding:11px 0;color:var(--deep);text-decoration:none;font-size:.85rem;line-height:1.5}.contents-grid a:hover .contents-label{text-decoration:underline}.contents-number{min-width:23px;font-size:.73rem;font-weight:700;color:#8c6724}.search-panel{margin-top:24px;padding-top:22px;border-top:1px solid var(--line)}.search-panel label{display:block;color:var(--deep);font-size:.85rem;font-weight:700;margin-bottom:8px}.search-row{display:flex;gap:10px;align-items:stretch}.search-row input{min-width:0;flex:1;padding:11px 14px;border:1px solid #afc2bd;border-radius:9px;background:#fcfdfc;color:var(--ink);font-size:.91rem}.search-row button{min-width:87px}.search-help{font-size:.76rem;color:var(--muted);margin:9px 0 0}.search-status{font-size:.82rem;font-weight:500;color:var(--teal);margin:13px 0 0}.search-results{list-style:none;padding:0;margin:12px 0 0;display:grid;grid-template-columns:1fr 1fr;gap:9px 20px}.search-results li{min-width:0}.search-results a{display:block;padding:12px 14px;border:1px solid #e0e8e3;border-radius:9px;text-decoration:none;background:#f8faf9}.search-results a:hover{border-color:#97b6aa}.result-title{display:block;font-size:.83rem;font-weight:700;line-height:1.5}.result-snippet{display:block;margin-top:5px;color:#5a6d63;font-size:.77rem;line-height:1.65;overflow-wrap:anywhere}mark{background:#f5d994;color:#203c34;border-radius:2px}
+.document-layout{display:grid;grid-template-columns:220px minmax(0,1fr);gap:27px;align-items:start;padding-bottom:55px}.side-index{position:sticky;top:98px;max-height:calc(100vh - 120px);overflow:auto;padding:12px 0;font-size:.76rem;scrollbar-width:thin}.side-index h2{margin:0 0 13px 10px;color:#8c6724;font-size:.7rem;text-transform:uppercase;letter-spacing:.12em}.side-index ul{padding:0;margin:0;list-style:none}.side-index a{display:block;padding:8px 10px;border-left:2px solid transparent;color:#5a7067;text-decoration:none;line-height:1.5;border-radius:0 6px 6px 0}.side-index a:hover{background:#eaf1ed;color:var(--deep);border-left-color:var(--gold)}.side-extra{display:block;margin-top:15px;padding-top:15px;border-top:1px solid var(--line)}.document{min-width:0}.document-section{background:white;border:1px solid var(--line);border-radius:17px;padding:29px 33px;margin:0 0 23px;box-shadow:0 4px 18px #14302f04}.section-header{display:flex;align-items:flex-start;gap:14px;padding-bottom:19px;margin-bottom:20px;border-bottom:1px solid var(--line)}.section-header h2{margin:0;flex:1;font-size:1.47rem;letter-spacing:-.026em}.permalink{display:grid;place-items:center;flex-shrink:0;width:29px;height:29px;border:1px solid #e1e8e3;border-radius:7px;font-size:.8rem;text-decoration:none;color:#6e8b7e}.permalink:hover{background:var(--gold-soft);color:var(--deep)}.document-section h3{font-size:1.05rem;margin:26px 0 12px;letter-spacing:-.01em}.document-section h3.step-heading{padding-top:22px;border-top:1px solid #e9eeea}.document-section p,.document-section li{font-size:.91rem;line-height:1.8}.document-section p{margin:0 0 15px}.document-section ul,.document-section ol{padding-left:24px;margin:12px 0 21px}.document-section li{padding-left:4px;margin:7px 0}.document-section li::marker{color:var(--teal);font-weight:700}.document-section strong{color:#294c42;font-weight:700}.document-section a{overflow-wrap:anywhere}.document-section .period{background:#f1f5f3;border:1px solid #e1e9e4;border-radius:10px;padding:13px 16px;color:#425f53;font-size:.85rem}.document-section .deliverable{background:#f3f8f4;border-left:3px solid var(--teal);border-radius:0 10px 10px 0;padding:15px 18px;margin:23px 0 17px}.document-section .note{background:#faf5e9;border-left:3px solid var(--gold);border-radius:0 10px 10px 0;padding:15px 18px}.document-section .inline-code{background:#f1f5f3;border:1px solid #dfe8e1;border-radius:7px;padding:11px 14px;font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-size:.83rem}.document-section pre{padding:17px 20px;margin:10px 0 18px;border-radius:11px;border:1px solid #325850;background:#143c36;color:#ecf6ef;overflow-x:auto;font-size:.81rem;line-height:1.8;tab-size:2}.document-section pre code{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;white-space:pre}.code-line{display:block}.document-section .code-label{font-weight:700;margin-bottom:8px}.section-end{margin-top:25px;padding-top:16px;border-top:1px solid #edf1ee;display:flex;justify-content:flex-end}.section-end a{font-size:.72rem;text-decoration:none;color:#667b70}.related-link{margin-top:21px}.footer{background:#0c2726;padding:25px 0;color:#c3d4cd;font-size:.76rem}.footer-inner{display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap}.footer p{margin:0}.footer-links{display:flex;gap:17px;flex-wrap:wrap}.footer a{color:#e4eee8;text-decoration:none}.footer a:hover{text-decoration:underline}.jump-target:target{outline:2px solid #d4ad61;outline-offset:7px;border-radius:3px}h2[tabindex],h3[tabindex]{scroll-margin-top:98px}h2[tabindex]:focus-visible,h3[tabindex]:focus-visible{outline:2px solid var(--gold);outline-offset:7px}
+@media(max-width:960px){.document-layout{grid-template-columns:1fr;gap:0}.side-index{display:none}.nav-links a{padding:8px;font-size:.75rem}}
+@media(max-width:720px){html{scroll-padding-top:24px}.site-header{position:relative}.site-nav{align-items:flex-start;flex-direction:column;gap:12px;padding:13px 18px}.nav-links{width:100%;gap:5px}.nav-links a{padding:7px 9px;font-size:.74rem}.brand-mark{width:39px;height:39px}.container{padding-inline:18px}.hero .container{padding-top:23px;padding-bottom:31px}.hero h1{font-size:2.35rem}.hero-subtitle{font-size:.96rem}.breadcrumbs ol{margin-bottom:26px;font-size:.7rem}.eyebrow{font-size:.62rem;line-height:1.7}.panel{padding:22px}.panel-heading{display:block}.panel-heading p{margin-top:6px}.contents-grid{column-gap:20px}.contents-grid a{font-size:.78rem}.document-section{padding:25px 23px}.section-header h2{font-size:1.3rem}.document-section h3{font-size:1rem}.search-results{grid-template-columns:1fr}.document-layout{padding-bottom:24px}.hero-actions .btn{font-size:.76rem}.footer-inner{display:block}.footer-links{margin-top:14px}h2[tabindex],h3[tabindex]{scroll-margin-top:24px}}
+@media(max-width:480px){.contents-grid{grid-template-columns:1fr}.panel{padding:20px}.document-section{padding:23px 20px}.hero h1{font-size:2.05rem}.search-row input{font-size:.85rem}.search-row button{min-width:70px;padding-inline:11px}.section-header{gap:8px}.section-header h2{font-size:1.25rem}.hero::after{font-size:8rem;bottom:-20px}.document-section pre{padding:14px;font-size:.73rem}.document-section p,.document-section li{font-size:.89rem}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+@media print{@page{margin:18mm}html{scroll-padding-top:0}body{background:white;color:black;font-family:Arial,sans-serif;font-size:10pt}.site-header,.breadcrumbs,.hero-actions,.intro,.side-index,.permalink,.section-end,.footer,.hero::after,.skip-link,.related-link{display:none!important}.container{max-width:none;padding:0}.hero{background:white;color:black}.hero .container{padding:0 0 15pt}.hero h1{font-size:24pt;color:black;letter-spacing:-.02em}.eyebrow,.hero-subtitle{color:black}.hero-subtitle{font-size:10pt}.document-layout{display:block;padding:0}.document-section{padding:15pt 0 0;border:0;box-shadow:none;margin:0 0 16pt;break-inside:auto}.section-header{padding-bottom:6pt;margin-bottom:12pt;border-bottom:1px solid #aaa}.section-header h2{font-size:15pt}.document-section h3{font-size:11pt;margin-top:15pt}.document-section p,.document-section li{font-size:10pt;line-height:1.5}.section-header,h2,h3{break-after:avoid}p,li{widows:3;orphans:3}.document-section .note,.document-section .period,.document-section .deliverable{background:white;color:black;padding:9pt;border:1px solid #ccc}.document-section pre{background:white;color:black;border:1px solid #bbb;white-space:pre-wrap}.document-section pre code{white-space:pre-wrap}.document-section pre,.document-section .deliverable{break-inside:avoid}a,.document-section strong{color:black}.jump-target:target{outline:none}mark{background:none;color:inherit}}
+
+.table-wrap{overflow-x:auto;margin:18px 0 22px;border:1px solid #dce6df;border-radius:10px}
+.policy-table{width:100%;border-collapse:collapse;font-size:.87rem;line-height:1.7}
+.policy-table th{background:#edf4ef;color:var(--deep);font-weight:700;text-align:left;padding:12px 16px;border-bottom:1px solid #d5e2d9}
+.policy-table td{padding:13px 16px;vertical-align:top;border-bottom:1px solid #e7ede8}
+.policy-table tbody tr:last-child td{border-bottom:0}.policy-table tbody tr:nth-child(even){background:#fafcfb}
+.policy-table td:first-child{width:52%;font-weight:500}.policy-table a{overflow-wrap:anywhere}
+.related-resources{display:flex;gap:9px;flex-wrap:wrap;margin-top:23px}
+.document-section .source-link{overflow-wrap:anywhere}.document-section .resource-label{margin-top:21px}
+.intro-card{border-top:3px solid var(--gold)}
+@media(max-width:520px){.policy-table{font-size:.78rem}.policy-table th,.policy-table td{padding:11px 12px}}
+@media print{.table-wrap{overflow:visible;border:0;border-radius:0}.policy-table{font-size:9pt}.policy-table th,.policy-table td{padding:7pt;border:1px solid #bbb}.policy-table th{background:white;color:black}.policy-table tr{break-inside:avoid}.policy-table thead{display:table-header-group}.related-resources{display:none}.intro-card{border-top:0}}
+
+  </style>
+</head>
+<body id="top">
+<a class="skip-link" href="#document">Skip to author guidelines</a>
+<header class="site-header"><nav class="site-nav" aria-label="Main navigation">
+  <a class="brand" href="abjad2027.html" aria-label="AbjadNLP 2027 workshop home"><span class="brand-mark" aria-hidden="true">أ</span><span class="brand-copy"><strong>AbjadNLP 2027</strong><span>Arabic-script language technologies</span></span></a>
+  <div class="nav-links"><a href="abjad2027.html">Workshop</a><a href="abjad2027.html#dates">Key dates</a><a href="author-policy.html" class="current" aria-current="page">Author guidelines</a><a href="pc-policy.html">Committee policy</a><a href="abjad2027-roles.html">Organiser roles</a></div>
+</nav></header>
+<main>
+<section class="hero" aria-labelledby="page-title"><div class="container">
+  <nav class="breadcrumbs" aria-label="Breadcrumb"><ol><li><a href="abjad2027.html">AbjadNLP 2027</a></li><li aria-current="page">Author guidelines</li></ol></nav>
+  <p class="eyebrow">AbjadNLP 2027 · Submission and publication</p>
+  <h1 id="page-title">Author guidelines</h1>
+  <p class="hero-subtitle">Requirements for preparing, submitting and publishing your work at the 3rd Workshop on NLP for Languages Using Arabic Script.</p>
+  <div class="hero-actions"><a class="btn gold" href="#contents">Browse the guidelines ↓</a><a class="btn ghost" href="abjad2027.html#dates">Key dates →</a><button class="btn ghost" id="print-page" type="button" hidden>Print / save PDF</button></div>
+</div></section>
+<div class="container">
+  <div class="intro"><section class="panel" aria-labelledby="contents">
+    <div class="panel-heading"><h2 id="contents" tabindex="-1">On this page</h2><p>Find the requirements relevant to your submission.</p></div>
+    <nav aria-label="Contents"><ul class="contents-grid"><li><a href="#paper-types"><span class="contents-number" aria-hidden="true">01</span><span class="contents-label">Paper types and length</span></a></li>
+<li><a href="#templates-formatting"><span class="contents-number" aria-hidden="true">02</span><span class="contents-label">Templates and formatting</span></a></li>
+<li><a href="#submission-routes"><span class="contents-number" aria-hidden="true">03</span><span class="contents-label">Submission routes</span></a></li>
+<li><a href="#anonymity-originality"><span class="contents-number" aria-hidden="true">04</span><span class="contents-label">Anonymity and originality</span></a></li>
+<li><a href="#research-ethics"><span class="contents-number" aria-hidden="true">05</span><span class="contents-label">Research ethics</span></a></li>
+<li><a href="#peer-review"><span class="contents-number" aria-hidden="true">06</span><span class="contents-label">Peer review and decisions</span></a></li>
+<li><a href="#camera-ready-publication"><span class="contents-number" aria-hidden="true">07</span><span class="contents-label">Camera-ready and publication</span></a></li>
+<li><a href="#registration-presentation"><span class="contents-number" aria-hidden="true">08</span><span class="contents-label">Registration and presentation</span></a></li>
+<li><a href="#questions-contact"><span class="contents-number" aria-hidden="true">09</span><span class="contents-label">Questions and contact</span></a></li>
+<li><a href="#governing-policies"><span class="contents-number" aria-hidden="true">10</span><span class="contents-label">Governing policies and resources</span></a></li></ul></nav>
+    <div class="search-panel" id="search-panel" role="search" aria-label="Search author guidelines" hidden>
+      <label for="page-search">Find information in the guidelines</label>
+      <div class="search-row"><input type="search" id="page-search" maxlength="160" placeholder="Try “ARR”, “page limits”, “anonymity” or “camera-ready”" aria-describedby="search-help search-status" autocomplete="off"><button type="button" class="btn" id="clear-search" disabled>Clear</button></div>
+      <p class="search-help" id="search-help">Search finds sections containing all your keywords. The full guidelines stay visible below.</p>
+      <p class="search-status" id="search-status" role="status" aria-live="polite" aria-atomic="true"></p><ul class="search-results" id="search-results" hidden></ul>
+    </div>
+    <noscript><p class="search-help">Use the contents above or your browser’s Find command (Ctrl+F / Cmd+F) to locate a keyword.</p></noscript>
+  </section></div>
+  <div class="document-layout">
+    <aside class="side-index"><nav aria-label="Section navigation"><h2>Quick navigation</h2><ul><li><a href="#paper-types">Paper types and length</a></li>
+<li><a href="#templates-formatting">Templates and formatting</a></li>
+<li><a href="#submission-routes">Submission routes</a></li>
+<li><a href="#anonymity-originality">Anonymity and originality</a></li>
+<li><a href="#research-ethics">Research ethics</a></li>
+<li><a href="#peer-review">Peer review and decisions</a></li>
+<li><a href="#camera-ready-publication">Camera-ready and publication</a></li>
+<li><a href="#registration-presentation">Registration and presentation</a></li>
+<li><a href="#questions-contact">Questions and contact</a></li>
+<li><a href="#governing-policies">Governing policies and resources</a></li></ul><div class="side-extra"><a href="abjad2027.html#dates">Workshop key dates →</a><a href="pc-policy.html">Full workshop policy →</a><a href="#top">Back to top ↑</a></div></nav></aside>
+    <article id="document" class="document" aria-label="AbjadNLP 2027 author guidelines">
+<!-- All author guidelines are standard HTML. Search reads this content automatically. -->
+<section class="document-section intro-card" aria-labelledby="about-guidelines"><header class="section-header"><h2 id="about-guidelines" tabindex="-1">About these guidelines</h2></header>
+<p id="source-2" class="jump-target" data-source-index="2">These guidelines explain the submission, formatting, reviewing, and publication requirements for the 3rd Workshop on NLP for Languages Using Arabic Script (AbjadNLP 2027), held in conjunction with COLING 2027 in Macau.</p>
+<p id="source-4" class="jump-target" data-source-index="4">Authors must follow the official AbjadNLP Call for Papers (CFP), the applicable COLING 2027 requirements, and the ACL/ARR policies adopted by the workshop.</p>
+<p id="source-6" class="jump-target note" data-source-index="6">Where requirements differ, binding host-conference and publisher rules take precedence. The final AbjadNLP CFP is authoritative for workshop-specific submission tracks, page limits, deadlines, and procedures.</p>
+<div class="section-end"><a href="#contents">Back to contents ↑</a></div></section>
+<!-- Paper types and length -->
+<section class="document-section" aria-labelledby="paper-types"><header class="section-header"><h2 id="paper-types" class="jump-target" tabindex="-1" data-source-index="8">1. Paper Types and Length</h2><a class="permalink" href="#paper-types" aria-label="Link to Paper types and length">#</a></header>
+<p id="source-10" class="jump-target" data-source-index="10">AbjadNLP plans to accept the following regular research-paper categories:</p>
+<div class="table-wrap" role="region" aria-labelledby="paper-types" tabindex="0"><table class="policy-table"><thead><tr id="source-12" class="jump-target" data-source-index="12"><th scope="col">Paper type</th>
+<th scope="col">Main content limit</th></tr></thead><tbody>
+<tr id="source-14" class="jump-target" data-source-index="14"><td>Long paper</td>
+<td>8 pages</td></tr>
+<tr id="source-15" class="jump-target" data-source-index="15"><td>Short paper</td>
+<td>4 pages</td></tr>
+</tbody></table></div>
+<p id="source-17" class="jump-target" data-source-index="17">References are excluded from these limits.</p>
+<p id="source-19" class="jump-target" data-source-index="19">Authors must include a dedicated <strong>Limitations</strong> section and follow the applicable instructions concerning ethical considerations, appendices, supplementary materials, and additional camera-ready pages.</p>
+<p id="source-21" class="jump-target" data-source-index="21">ARR permits a Limitations section outside the main content limit when placed as instructed. The final AbjadNLP CFP will confirm the corresponding arrangements for direct workshop submissions.</p>
+<p id="source-23" class="jump-target" data-source-index="23">Papers must present original, relevant, and scientifically substantiated research. Short papers should make a focused contribution rather than merely present an incomplete long paper.</p>
+<div class="section-end"><a href="#contents">Back to contents ↑</a></div></section>
+<!-- Templates and formatting -->
+<section class="document-section" aria-labelledby="templates-formatting"><header class="section-header"><h2 id="templates-formatting" class="jump-target" tabindex="-1" data-source-index="25">2. Official Templates and Formatting</h2><a class="permalink" href="#templates-formatting" aria-label="Link to Templates and formatting">#</a></header>
+<p id="source-27" class="jump-target" data-source-index="27">Authors must use the official ACL paper templates, subject to any workshop-specific instructions issued by COLING 2027.</p>
+<h3 id="source-29" class="jump-target" data-source-index="29" tabindex="-1"><strong>Official resources:</strong></h3>
+<ul>
+<li id="source-31" class="jump-target" data-source-index="31">ACL style files (LaTeX and templates): <a class="source-link" href="https://github.com/acl-org/acl-style-files">https://github.com/acl-org/acl-style-files</a></li>
+<li id="source-32" class="jump-target" data-source-index="32">ACL paper-formatting instructions: <a class="source-link" href="https://acl-org.github.io/ACLPUB/formatting.html">https://acl-org.github.io/ACLPUB/formatting.html</a></li>
+<li id="source-33" class="jump-target" data-source-index="33">ACL Author Guidelines: <a class="source-link" href="https://www.aclweb.org/adminwiki/index.php/ACL_Author_Guidelines">https://www.aclweb.org/adminwiki/index.php/ACL_Author_Guidelines</a></li>
+<li id="source-34" class="jump-target" data-source-index="34">ARR Call for Papers: <a class="source-link" href="https://aclrollingreview.org/cfp">https://aclrollingreview.org/cfp</a></li>
+</ul>
+<p id="source-36" class="jump-target" data-source-index="36">The ACL style repository provides an Overleaf template and downloadable LaTeX files. Authors should use the current official versions and must not alter the style files to bypass formatting requirements.</p>
+<p id="source-38" class="jump-target" data-source-index="38">Submitted manuscripts must be readable PDFs using the prescribed page size, margins, columns, fonts, and layout.</p>
+<h3 id="source-40" class="jump-target" data-source-index="40" tabindex="-1"><strong>Arabic and Other Non-Latin Scripts</strong></h3>
+<p id="source-42" class="jump-target" data-source-index="42">Authors must ensure that Arabic-script and other non-Latin text is displayed correctly, with appropriate font embedding, Unicode handling, diacritics, and right-to-left rendering.</p>
+<p id="source-44" class="jump-target" data-source-index="44">The ACL formatting guidelines also require appropriate English translations and Latin-script transliterations of non-English examples. Authors should follow those instructions while preserving the original script accurately.</p>
+<div class="section-end"><a href="#contents">Back to contents ↑</a></div></section>
+<!-- Submission routes -->
+<section class="document-section" aria-labelledby="submission-routes"><header class="section-header"><h2 id="submission-routes" class="jump-target" tabindex="-1" data-source-index="46">3. Submission Routes</h2><a class="permalink" href="#submission-routes" aria-label="Link to Submission routes">#</a></header>
+<h3 id="source-48" class="jump-target" data-source-index="48" tabindex="-1">3.1 Direct Workshop Submission</h3>
+<p id="source-50" class="jump-target" data-source-index="50">Authors submitting directly to AbjadNLP must use the official workshop submission system announced in the CFP.</p>
+<p id="source-52" class="jump-target" data-source-index="52">The Programme Chairs manage eligibility screening, reviewer assignment, scientific review, and acceptance decisions.</p>
+<p id="source-54" class="jump-target" data-source-index="54">The submission portal and deadline will be published in the official CFP.</p>
+<h3 id="source-56" class="jump-target" data-source-index="56" tabindex="-1">3.2 ACL Rolling Review (ARR) Commitment</h3>
+<p id="source-58" class="jump-target" data-source-index="58">AbjadNLP may offer an ARR commitment route, subject to confirmation of its participation and commitment arrangements.</p>
+<p id="source-60" class="jump-target" data-source-index="60">If available, authors must:</p>
+<ol>
+<li id="source-62" class="jump-target" data-source-index="62">Have a paper that has completed the applicable ARR review process, including the required reviews and meta-review.</li>
+<li id="source-63" class="jump-target" data-source-index="63">Meet the eligibility requirements and review-cycle restrictions published by AbjadNLP.</li>
+<li id="source-64" class="jump-target" data-source-index="64">Submit the required commitment information through the designated process.</li>
+<li id="source-65" class="jump-target" data-source-index="65">Follow ARR rules on authorship, revisions, confidentiality, concurrent submissions, and commitment.</li>
+</ol>
+<p id="source-67" class="jump-target" data-source-index="67">Authors submitting papers to ARR must also meet ARR&#x27;s current OpenReview profile and reviewing-service requirements, where applicable.</p>
+<p id="source-69" class="jump-target note" data-source-index="69"><strong>Important:</strong> COLING 2027&#x27;s main-conference ARR commitment route is separate from any AbjadNLP workshop commitment route. A commitment to COLING does not constitute a commitment to AbjadNLP.</p>
+<p id="source-71" class="jump-target" data-source-index="71">ARR-reviewed papers are not automatically accepted by the workshop.</p>
+<h3 id="source-73" class="jump-target" data-source-index="73" tabindex="-1">3.3 Shared-Task Submissions</h3>
+<p id="source-75" class="jump-target" data-source-index="75">Shared-task system-description papers are administered independently by their respective shared-task organising teams.</p>
+<p id="source-77" class="jump-target" data-source-index="77">Authors must follow the submission instructions, eligibility requirements, review procedures, and deadlines published by the relevant shared task.</p>
+<p id="source-79" class="jump-target" data-source-index="79">Each system-description paper must receive at least two independent, substantive reviews arranged by its shared-task organising team before an acceptance decision.</p>
+<p id="source-81" class="jump-target" data-source-index="81">Shared-task overview papers submitted by task organisers undergo independent review managed by the AbjadNLP Programme Chairs.</p>
+<p id="source-83" class="jump-target" data-source-index="83">Participation in a shared task does not automatically guarantee acceptance or archival publication of a system-description paper.</p>
+<div class="section-end"><a href="#contents">Back to contents ↑</a></div></section>
+<!-- Anonymity and originality -->
+<section class="document-section" aria-labelledby="anonymity-originality"><header class="section-header"><h2 id="anonymity-originality" class="jump-target" tabindex="-1" data-source-index="85">4. Anonymity and Originality</h2><a class="permalink" href="#anonymity-originality" aria-label="Link to Anonymity and originality">#</a></header>
+<p id="source-87" class="jump-target" data-source-index="87">Authors must comply with the anonymity requirements applicable to their submission route.</p>
+<p id="source-89" class="jump-target" data-source-index="89">For ARR submissions, the manuscript and relevant supplementary materials must follow ARR&#x27;s two-way anonymised reviewing instructions.</p>
+<p id="source-91" class="jump-target" data-source-index="91">Direct AbjadNLP submissions must follow the anonymisation requirements published in the workshop CFP.</p>
+<p id="source-93" class="jump-target" data-source-index="93">Authors should consult the current ACL/ARR policy before posting or discussing preprints. A publicly available preprint is not automatically a violation, but authors must comply with any binding declarations or restrictions associated with their submission.</p>
+<p id="source-95" class="jump-target" data-source-index="95">Submissions must be original and must not violate applicable rules concerning plagiarism, substantial overlap, prior publication, or simultaneous consideration at other archival venues.</p>
+<p id="source-97" class="jump-target" data-source-index="97">Authors must disclose related submissions and relevant earlier versions as required by the submission process.</p>
+<p id="source-99" class="jump-target" data-source-index="99">The same manuscript must not be submitted simultaneously through AbjadNLP&#x27;s direct and ARR commitment routes.</p>
+<div class="section-end"><a href="#contents">Back to contents ↑</a></div></section>
+<!-- Research ethics -->
+<section class="document-section" aria-labelledby="research-ethics"><header class="section-header"><h2 id="research-ethics" class="jump-target" tabindex="-1" data-source-index="101">5. Research Ethics and Responsible NLP</h2><a class="permalink" href="#research-ethics" aria-label="Link to Research ethics">#</a></header>
+<p id="source-103" class="jump-target" data-source-index="103">Authors are responsible for the accuracy, originality, attribution, and ethical integrity of their work.</p>
+<p id="source-105" class="jump-target" data-source-index="105">Submissions must comply with applicable publication-ethics requirements, including the ACL Publication Ethics Policy adopted by AbjadNLP.</p>
+<p id="source-107" class="jump-target" data-source-index="107">Authors must address relevant matters concerning:</p>
+<ul>
+<li id="source-109" class="jump-target" data-source-index="109">Data provenance, licensing, and permissions.</li>
+<li id="source-110" class="jump-target" data-source-index="110">Research participants, privacy, and sensitive information.</li>
+<li id="source-111" class="jump-target" data-source-index="111">Limitations, reproducibility, and transparency.</li>
+<li id="source-112" class="jump-target" data-source-index="112">Fair attribution and responsible citation.</li>
+<li id="source-113" class="jump-target" data-source-index="113">Generative AI assistance and applicable disclosure requirements.</li>
+<li id="source-114" class="jump-target" data-source-index="114">Potential harms and broader impacts of the research.</li>
+</ul>
+<p id="source-116" class="jump-target" data-source-index="116">ARR submissions must complete the applicable Responsible NLP Research Checklist and comply with ARR&#x27;s current disclosure requirements.</p>
+<h3 id="source-118" class="jump-target" data-source-index="118" tabindex="-1"><strong>Research involving Arabic-script languages</strong></h3>
+<p id="source-120" class="jump-target" data-source-index="120">AbjadNLP particularly encourages careful reporting of linguistic and community context, especially for underrepresented languages, culturally sensitive texts, and datasets containing personal information.</p>
+<p id="source-122" class="jump-target" data-source-index="122">Authors should avoid treating languages as interchangeable merely because they share a writing system.</p>
+<div class="section-end"><a href="#contents">Back to contents ↑</a></div></section>
+<!-- Peer review and decisions -->
+<section class="document-section" aria-labelledby="peer-review"><header class="section-header"><h2 id="peer-review" class="jump-target" tabindex="-1" data-source-index="124">6. Peer Review and Decisions</h2><a class="permalink" href="#peer-review" aria-label="Link to Peer review and decisions">#</a></header>
+<p id="source-126" class="jump-target" data-source-index="126">Regular AbjadNLP papers are evaluated by qualified reviewers according to the published scientific criteria.</p>
+<p id="source-128" class="jump-target" data-source-index="128">The Programme Chairs aim to obtain three substantive reviews for each direct submission and manage the scientific decision-making process.</p>
+<p id="source-130" class="jump-target" data-source-index="130">Reviewing must follow the applicable confidentiality and conflict-of-interest procedures.</p>
+<p id="source-132" class="jump-target" data-source-index="132">Papers involving conflicted organising chairs must receive independent handling.</p>
+<p id="source-134" class="jump-target" data-source-index="134">Acceptance decisions are based on scientific merit, relevant evidence, and the workshop&#x27;s published requirements.</p>
+<p id="source-136" class="jump-target" data-source-index="136">Authors may raise specific procedural concerns through the official workshop contact route, in accordance with the <a href="pc-policy.html">AbjadNLP Workshop Policy</a>.</p>
+<p id="source-138" class="jump-target" data-source-index="138">Shared-task system-description paper reviews and decisions remain the responsibility of the respective shared-task organising teams.</p>
+<div class="section-end"><a href="#contents">Back to contents ↑</a></div></section>
+<!-- Camera-ready and publication -->
+<section class="document-section" aria-labelledby="camera-ready-publication"><header class="section-header"><h2 id="camera-ready-publication" class="jump-target" tabindex="-1" data-source-index="140">7. Camera-Ready Submission and Publication</h2><a class="permalink" href="#camera-ready-publication" aria-label="Link to Camera-ready and publication">#</a></header>
+<p id="source-142" class="jump-target" data-source-index="142">Following acceptance, authors must submit final manuscripts and complete all applicable publication requirements within the communicated deadlines.</p>
+<p id="source-144" class="jump-target" data-source-index="144">For accepted regular workshop papers and shared-task overview papers, the AbjadNLP Publication Chairs are responsible for:</p>
+<ul>
+<li id="source-146" class="jump-target" data-source-index="146">Issuing camera-ready and formatting instructions.</li>
+<li id="source-147" class="jump-target" data-source-index="147">Communicating publication deadlines.</li>
+<li id="source-148" class="jump-target" data-source-index="148">Responding to author publication queries.</li>
+<li id="source-149" class="jump-target" data-source-index="149">Tracking final manuscripts and required forms.</li>
+<li id="source-150" class="jump-target" data-source-index="150">Requesting corrections and verifying metadata.</li>
+<li id="source-151" class="jump-target" data-source-index="151">Coordinating final proceedings preparation.</li>
+</ul>
+<p id="source-153" class="jump-target" data-source-index="153">Shared-task organisers independently manage these responsibilities for their system-description papers.</p>
+<p id="source-155" class="jump-target" data-source-index="155">Authors must ensure that titles, author names, ordering, affiliations, and publication metadata are accurate and consistent with the approved records.</p>
+<p id="source-157" class="jump-target" data-source-index="157">Authorship changes require authorisation under the applicable formal procedures.</p>
+<p id="source-159" class="jump-target note" data-source-index="159">Publication is conditional on satisfying the relevant host-conference and publisher requirements. Acceptance alone does not guarantee publication where mandatory conditions remain unmet.</p>
+<div class="section-end"><a href="#contents">Back to contents ↑</a></div></section>
+<!-- Registration and presentation -->
+<section class="document-section" aria-labelledby="registration-presentation"><header class="section-header"><h2 id="registration-presentation" class="jump-target" tabindex="-1" data-source-index="161">8. Registration and Presentation</h2><a class="permalink" href="#registration-presentation" aria-label="Link to Registration and presentation">#</a></header>
+<p id="source-163" class="jump-target" data-source-index="163">Accepted-paper authors must comply with the registration and presentation conditions confirmed by COLING 2027 and published by AbjadNLP.</p>
+<p id="source-165" class="jump-target" data-source-index="165">Details concerning registration, presentation format, attendance, remote participation, and accessibility arrangements will be communicated through the official workshop website and acceptance instructions.</p>
+<p id="source-167" class="jump-target" data-source-index="167">Authors should notify the responsible organisers promptly if circumstances affect their ability to meet a published requirement.</p>
+<div class="section-end"><a href="#contents">Back to contents ↑</a></div></section>
+<!-- Questions and contact -->
+<section class="document-section" aria-labelledby="questions-contact"><header class="section-header"><h2 id="questions-contact" class="jump-target" tabindex="-1" data-source-index="169">9. Questions and Contact</h2><a class="permalink" href="#questions-contact" aria-label="Link to Questions and contact">#</a></header>
+<p id="source-171" class="jump-target" data-source-index="171">Authors should use the appropriate contact route:</p>
+<div class="table-wrap" role="region" aria-labelledby="questions-contact" tabindex="0"><table class="policy-table"><thead><tr id="source-173" class="jump-target" data-source-index="173"><th scope="col">Enquiry</th>
+<th scope="col">Responsible team</th></tr></thead><tbody>
+<tr id="source-175" class="jump-target" data-source-index="175"><td>Direct submission, peer review, decisions and academic appeals</td>
+<td>AbjadNLP Programme Chairs</td></tr>
+<tr id="source-176" class="jump-target" data-source-index="176"><td>Camera-ready preparation and publication of regular and overview papers</td>
+<td>AbjadNLP Publication Chairs</td></tr>
+<tr id="source-177" class="jump-target" data-source-index="177"><td>Shared-task participation, system papers and task-specific publication</td>
+<td>Respective Shared-Task Leads</td></tr>
+<tr id="source-178" class="jump-target" data-source-index="178"><td>Conduct and publication-ethics concerns</td>
+<td>Designated workshop or competent external reporting authority</td></tr>
+</tbody></table></div>
+<p id="source-180" class="jump-target" data-source-index="180">Official contact addresses and submission links will be published on the AbjadNLP website.</p>
+<div class="section-end"><a href="#contents">Back to contents ↑</a></div></section>
+<!-- Governing policies and resources -->
+<section class="document-section" aria-labelledby="governing-policies"><header class="section-header"><h2 id="governing-policies" class="jump-target" tabindex="-1" data-source-index="182">10. Governing Policies and Official Resources</h2><a class="permalink" href="#governing-policies" aria-label="Link to Governing policies and resources">#</a></header>
+<p id="source-184" class="jump-target" data-source-index="184">Authors must consult the current versions of the following resources:</p>
+<ul>
+<li id="source-186" class="jump-target" data-source-index="186">COLING 2027: <a class="source-link" href="https://2027.coling-iccl.org/">https://2027.coling-iccl.org/</a></li>
+<li id="source-187" class="jump-target" data-source-index="187">COLING submission guidelines: <a class="source-link" href="https://2027.coling-iccl.org/calls/submission_guidlines/">https://2027.coling-iccl.org/calls/submission_guidlines/</a></li>
+<li id="source-188" class="jump-target" data-source-index="188">ACL Rolling Review CFP: <a class="source-link" href="https://aclrollingreview.org/cfp">https://aclrollingreview.org/cfp</a></li>
+<li id="source-189" class="jump-target" data-source-index="189">ACL style files: <a class="source-link" href="https://github.com/acl-org/acl-style-files">https://github.com/acl-org/acl-style-files</a></li>
+<li id="source-190" class="jump-target" data-source-index="190">ACL formatting guidelines: <a class="source-link" href="https://acl-org.github.io/ACLPUB/formatting.html">https://acl-org.github.io/ACLPUB/formatting.html</a></li>
+<li id="source-191" class="jump-target" data-source-index="191">ACL Publication Ethics Policy: <a class="source-link" href="https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics">https://www.aclweb.org/adminwiki/index.php/ACL_Policy_on_Publication_Ethics</a></li>
+</ul>
+<p id="source-193" class="jump-target" data-source-index="193">The full <a href="pc-policy.html#section-11">AbjadNLP 2027 Workshop Policy, particularly Sections 11–15</a>, establishes the workshop&#x27;s detailed author, review, integrity, publication, and appeal procedures.</p>
+<p id="source-195" class="jump-target" data-source-index="195">These guidelines may be updated to reflect confirmed COLING 2027 requirements. Material changes affecting submissions will be communicated through official workshop channels.</p>
+<div class="related-resources"><a class="btn" href="pc-policy.html">Full workshop policy →</a><a class="btn" href="pc-policy.html#section-14">Respectful participation and anti-harassment →</a><a class="btn" href="pc-policy.html#section-15">Reporting concerns →</a></div>
+<div class="section-end"><a href="#contents">Back to contents ↑</a></div></section>
+    </article>
+  </div>
+</div>
+</main>
+<footer class="footer"><div class="container footer-inner"><p><strong>AbjadNLP 2027</strong> · NLP for Languages Using Arabic Script</p><nav class="footer-links" aria-label="Footer navigation"><a href="abjad2027.html#policies">Policies and roles</a><a href="abjad2027.html">Workshop</a><a href="abjad2027.html#dates">Key dates</a><a href="pc-policy.html">Workshop policy</a><a href="pc-policy.html#section-15">Reporting concerns</a></nav></div></footer>
+<script>
+(() => {
+  'use strict';
+  // Search reads the visible document, so editing the HTML also updates the index.
+  const panel = document.getElementById('search-panel');
+  const input = document.getElementById('page-search');
+  const clear = document.getElementById('clear-search');
+  const status = document.getElementById('search-status');
+  const results = document.getElementById('search-results');
+  const normalise = text => text.normalize('NFKC').toLocaleLowerCase('en-GB').replace(/\s+/g, ' ').trim();
+  const records = Array.from(document.querySelectorAll('.document-section')).map(section => ({
+    id: section.querySelector('h2').id,
+    title: section.querySelector('h2').textContent.trim(),
+    units: Array.from(section.querySelectorAll('[data-source-index]')).map(el => ({
+      text: el.textContent.replace(/\s+/g, ' ').trim(),
+      target: el.id,
+      searchable: normalise(el.textContent)
+    }))
+  }));
+  const searchable = records.map(record => ({...record, text: normalise(record.units.map(unit => unit.text).join(' '))}));
+  function appendSnippet(element, text, tokens) {
+    const fragment = document.createDocumentFragment();
+    const escaped = tokens.map(token => token.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+    const regex = new RegExp(escaped.join('|'), 'giu');
+    let end = 0;
+    for (const match of text.matchAll(regex)) {
+      fragment.append(document.createTextNode(text.slice(end, match.index)));
+      const mark = document.createElement('mark');
+      mark.textContent = match[0];
+      fragment.append(mark);
+      end = match.index + match[0].length;
+    }
+    fragment.append(document.createTextNode(text.slice(end)));
+    element.append(fragment);
+  }
+  function search() {
+    const tokens = [...new Set(normalise(input.value).split(' ').filter(Boolean))];
+    results.replaceChildren();
+    clear.disabled = tokens.length === 0;
+    if (!tokens.length) {
+      status.textContent = '';
+      results.hidden = true;
+      return;
+    }
+    const matches = searchable.filter(record => tokens.every(token => record.text.includes(token)));
+    status.textContent = matches.length
+      ? `${matches.length} matching ${matches.length === 1 ? 'section' : 'sections'}. Select a result to jump to it.`
+      : 'No matching sections. Try a shorter keyword, such as formatting, ARR or publication.';
+    results.hidden = !matches.length;
+    matches.forEach(record => {
+      const unit = record.units.find(item => tokens.every(token => item.searchable.includes(token)))
+        || record.units.find(item => tokens.some(token => item.searchable.includes(token)));
+      const position = Math.min(...tokens.map(token => unit.searchable.indexOf(token)).filter(index => index >= 0));
+      const start = Math.max(0, position - 55);
+      const snippet = (start ? '…' : '') + unit.text.slice(start, start + 235) + (unit.text.length > start + 235 ? '…' : '');
+      const li = document.createElement('li');
+      const link = document.createElement('a');
+      link.href = '#' + (unit.target || record.id);
+      const title = document.createElement('span');
+      title.className = 'result-title';
+      title.textContent = record.title;
+      const excerpt = document.createElement('span');
+      excerpt.className = 'result-snippet';
+      appendSnippet(excerpt, snippet, tokens);
+      link.append(title, excerpt);
+      li.append(link);
+      results.append(li);
+    });
+  }
+  panel.hidden = false;
+  document.getElementById('print-page').hidden = false;
+  document.getElementById('print-page').addEventListener('click', () => window.print());
+  input.addEventListener('input', search);
+  input.addEventListener('keydown', event => {
+    if (event.key === 'Escape') { input.value = ''; search(); }
+  });
+  clear.addEventListener('click', () => { input.value = ''; search(); input.focus(); });
+  results.addEventListener('click', event => {
+    const link = event.target.closest('a');
+    if (!link) return;
+    const target = document.getElementById(link.hash.slice(1));
+    if (target) {
+      target.setAttribute('tabindex', '-1');
+      target.focus({preventScroll:true});
+    }
+  });
+})();
+
+</script>
+</body>
+</html>

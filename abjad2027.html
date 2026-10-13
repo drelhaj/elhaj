@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-GB">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -238,6 +238,24 @@
       .person-card{display:grid;grid-template-columns:76px 1fr;column-gap:15px;align-items:center}.person-card img{width:72px;height:72px;margin:3px 0;grid-row:1/5}.person-role,.person-card h3,.person-card p{grid-column:2}.person-role{margin-bottom:2px}
       .submission-points{grid-template-columns:1fr}.history-card{flex-direction:column}.dates-list li{grid-template-columns:72px 1fr}
     }
+
+    /* Key dates remain directly editable in this HTML file. */
+    .dates-list li{grid-template-columns:112px minmax(0,1fr)}
+    .hard-deadline{display:block;font-size:.68rem;color:var(--ruby);font-weight:700;margin-top:3px}
+    .dates-note{font-size:.76rem;color:var(--muted);margin:15px 0 0}
+    .policy-links-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}
+    .policy-link-card{display:flex;flex-direction:column;text-decoration:none;background:#fff;border:1px solid #dce6e1;border-top:3px solid var(--gold);border-radius:15px;padding:26px;box-shadow:var(--shadow-sm);transition:background .16s,border-color .16s}
+    .policy-link-card:hover{background:#fafcfb;border-color:#91aea3;border-top-color:var(--gold)}
+    .policy-link-card:focus-visible{outline:3px solid var(--teal);outline-offset:5px}
+    .policy-audience{font-size:.65rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#8a6829;line-height:1.6}
+    .policy-link-card h3{font-size:1.2rem;line-height:1.35;color:var(--deep);margin:11px 0}
+    .policy-link-card p{font-size:.85rem;color:var(--muted);margin:0 0 22px;line-height:1.75}
+    .policy-card-action{margin-top:auto;font-size:.81rem;font-weight:700;color:var(--teal)}
+    .organiser-policy-links{display:flex;gap:9px;flex-wrap:wrap;font-size:.84rem;margin:-6px 0 29px;color:var(--teal)}
+    .organiser-policy-links a{text-underline-offset:3px}
+    @media(max-width:1140px){.nav-links{display:none}.menu-toggle{display:flex}}
+    @media(max-width:790px){.policy-links-grid{grid-template-columns:1fr}.policy-link-card{padding:23px}}
+    @media(max-width:520px){.dates-list li{grid-template-columns:104px minmax(0,1fr)}}
   </style>
 </head>
 <body>
@@ -253,6 +271,7 @@
       <li><a href="#tasks">Shared Tasks</a></li>
       <li><a href="#submission">Submission</a></li>
       <li><a href="#dates">Dates</a></li>
+      <li><a href="#policies">Policies</a></li>
       <li><a href="#organisers">Organisers</a></li>
       <li><a href="#speaker">Speaker</a></li>
       <li><a class="cfp-link" href="#submission">Call for Papers</a></li>
@@ -260,7 +279,7 @@
     <button class="menu-toggle" id="menuBtn" aria-label="Toggle navigation" aria-expanded="false"><i class="fa-solid fa-bars"></i></button>
   </nav>
   <div class="mobile-nav" id="mobileNav">
-    <a href="#about">About</a><a href="#topics">Topics</a><a href="#tasks">Shared Tasks</a><a href="#submission">Submission</a><a href="#dates">Dates</a><a href="#organisers">Organisers</a><a href="#speaker">Speaker</a>
+    <a href="#about">About</a><a href="#topics">Topics</a><a href="#tasks">Shared Tasks</a><a href="#submission">Submission</a><a href="#dates">Dates</a><a href="#policies">Policies</a><a href="#organisers">Organisers</a><a href="#speaker">Speaker</a>
   </div>
 </header>
 
@@ -279,7 +298,7 @@
     </div>
     <div class="hero-meta" aria-label="Workshop details">
       <div class="badge"><i class="fa-solid fa-location-dot"></i> Co-located with COLING 2027</div>
-      <div class="meta-line"><i class="fa-regular fa-calendar"></i><div><strong>9-14 May 2027 (TBC)</strong>Full-day workshop</div></div>
+      <div class="meta-line"><i class="fa-regular fa-calendar"></i><div><strong>9–14 May 2027</strong>Conference dates; exact workshop day to be announced</div></div>
       <div class="meta-line"><i class="fa-solid fa-location-dot"></i><div><strong>Macau, China</strong><a href="https://www.galaxymacau.com/mice/gicc/meetings-conferences/" target="_blank">Galaxy International Convention Center</a></div></div>
       <div class="meta-line"><i class="fa-solid fa-globe"></i><div><strong>COLING 2027</strong>9–14 May 2027</div></div>
     </div>
@@ -391,22 +410,54 @@
           <div class="submission-point"><strong>Publication</strong>Accepted papers will appear in the COLING 2027 workshop proceedings on the ACL Anthology.</div>
         </div>
         <p><a class="text-link" href="https://2027.coling-iccl.org/calls/main_conference_papers/" target="_blank" rel="noopener">COLING 2027 paper guidelines <i class="fa-solid fa-arrow-up-right-from-square"></i></a> &nbsp;&nbsp; <a class="text-link" href="https://github.com/acl-org/acl-style-files" target="_blank" rel="noopener">ACL style files <i class="fa-solid fa-arrow-up-right-from-square"></i></a></p>
-        <div class="notice"><strong>Submission portal:</strong> to be announced. Workshop-specific deadlines below remain provisional until formally confirmed.</div>
+        <div class="notice"><strong>Submission portal:</strong> to be announced. The ARR commitment deadline and exact workshop day will be announced here. Please read the <a href="author-policy.html">author policy</a> and the <a href="#policies">workshop policies</a> before submitting.</div>
       </div>
       <aside class="dates-card" id="dates">
-        <h3>Key dates <span style="font-size:.72rem;color:#91702f;font-weight:700">PROVISIONAL</span></h3>
+        <h3>Key dates</h3>
+        <!-- Update the workshop dates directly in this list. -->
         <ul class="dates-list">
-	<li><strong>15 Oct 26</strong><span>First call for workshop papers</span></li>
-	<li><strong>10 Dec 26</strong><span>Second call for workshop papers</span></li>
-	<li><strong>20 Jan 27</strong><span>Direct paper submission deadline</span></li>
-	<li><strong>20 Jan 27</strong><span>ARR commitment deadline</span></li>
-	<li><strong>10 Feb 27</strong><span>Notification of acceptance</span></li>
-	<li><strong>5 Mar 27</strong><span>Camera-ready paper deadline</span></li>
-	<li><strong>5 Apr 27</strong><span>Proceedings deadline</span></li>
-	<li><strong>15 Apr 27</strong><span>Pre-recorded video deadline</span></li>
-	<li><strong>9–14 May 27</strong><span>COLING 2027, Macau, China</span></li>
+          <li><strong><time datetime="2026-11-02">2 Nov 2026</time></strong><span>First call for workshop papers</span></li>
+          <li><strong><time datetime="2026-12-21">21 Dec 2026</time></strong><span>Second call for workshop papers</span></li>
+          <li><strong><time datetime="2027-01-05">5 Jan 2027</time></strong><span>Direct paper submission deadline</span></li>
+          <li><strong>TBA</strong><span>Pre-reviewed ARR commitment deadline</span></li>
+          <li><strong><time datetime="2027-02-06">6 Feb 2027</time></strong><span>Notification of acceptance</span></li>
+          <li><strong><time datetime="2027-03-05">5 Mar 2027</time></strong><span>Camera-ready papers due</span></li>
+          <li><strong><time datetime="2027-04-05">5 Apr 2027</time></strong><span>Proceedings due <small class="hard-deadline">Hard deadline</small></span></li>
+          <li><strong><time datetime="2027-04-15">15 Apr 2027</time></strong><span>Pre-recorded videos due <small class="hard-deadline">Hard deadline</small></span></li>
+          <li><strong><time datetime="2027-05-09">9–14 May 2027</time></strong><span>COLING 2027, Macau, China</span></li>
         </ul>
+        <p class="dates-note">AbjadNLP is a full-day workshop. The exact day within the conference dates will be announced.</p>
       </aside>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="policies" aria-labelledby="policies-title">
+  <div class="container">
+    <div class="section-head">
+      <div class="eyebrow">Policies and responsibilities</div>
+      <h2 class="section-title" id="policies-title">Guidance for authors and organisers</h2>
+      <p class="section-lead">Read the policy relevant to your participation. Organisers should also review the responsibilities assigned to each role.</p>
+    </div>
+    <div class="policy-links-grid">
+      <a class="policy-link-card" href="author-policy.html">
+        <span class="policy-audience">For authors</span>
+        <h3>Author policy</h3>
+        <p>Submission routes, paper formatting, research ethics, peer review and publication requirements.</p>
+        <span class="policy-card-action">Read the author policy <span aria-hidden="true">→</span></span>
+      </a>
+      <a class="policy-link-card" href="pc-policy.html">
+        <span class="policy-audience">For the programme committee and organisers</span>
+        <h3>Committee and organiser policy</h3>
+        <p>Committee responsibilities, reviewing standards, professional conduct and workshop procedures.</p>
+        <span class="policy-card-action">Read the workshop policy <span aria-hidden="true">→</span></span>
+      </a>
+      <a class="policy-link-card" href="abjad2027-roles.html">
+        <span class="policy-audience">Understand your role</span>
+        <h3>Organiser roles and responsibilities</h3>
+        <p>What each chair and organising team is responsible for, and what they are expected to deliver.</p>
+        <span class="policy-card-action">Explore organiser roles <span aria-hidden="true">→</span></span>
+      </a>
     </div>
   </div>
 </section>
@@ -414,6 +465,7 @@
 <section class="section" id="organisers">
   <div class="container">
     <div class="section-head"><div class="eyebrow">People</div><h2 class="section-title">Organising committee</h2><p class="section-lead">AbjadNLP is organised by an international team spanning multilingual NLP, low-resource language technology, corpus linguistics, language resources and applied AI.</p></div>
+    <p class="organiser-policy-links"><a href="abjad2027-roles.html">Organiser roles and responsibilities</a><span aria-hidden="true"> · </span><a href="pc-policy.html">Committee and organiser policy</a></p>
 
     <div class="committee-group">
       <h3 class="committee-heading">General Chair</h3>
@@ -526,7 +578,7 @@
 <footer class="footer">
   <div class="container footer-inner">
     <div>AbjadNLP 2027 · The 3rd Workshop on NLP for Languages Using Arabic Script</div>
-    <div class="footer-links"><a href="https://2027.coling-iccl.org/" target="_blank" rel="noopener">COLING 2027</a><a href="https://aclanthology.org/venues/abjadnlp/" target="_blank" rel="noopener">ACL Anthology</a><a href="#home">Back to top</a></div>
+    <div class="footer-links"><a href="#policies">Policies and roles</a><a href="https://2027.coling-iccl.org/" target="_blank" rel="noopener">COLING 2027</a><a href="https://aclanthology.org/venues/abjadnlp/" target="_blank" rel="noopener">ACL Anthology</a><a href="#home">Back to top</a></div>
   </div>
 </footer>
 
