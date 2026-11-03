@@ -37,6 +37,23 @@ a{color:inherit} img{max-width:100%;display:block}
 .brand{display:flex;align-items:center;gap:12px;text-decoration:none}
 .brand-mark{width:45px;height:45px;border-radius:12px;background:linear-gradient(135deg,var(--navy),var(--blue));display:grid;place-items:center;color:var(--gold);font-size:.92rem;font-weight:700;letter-spacing:.02em}
 .brand-copy{display:flex;flex-direction:column;line-height:1.1}.brand-copy strong{font-size:.98rem;color:var(--navy)}.brand-copy span{font-size:.64rem;letter-spacing:.12em;text-transform:uppercase;color:#98742f;font-weight:700;margin-top:4px}
+
+.social-row .contact-btn {
+  background: #2563eb;
+  color: white;
+  padding: 10px 18px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  display: inline-block;
+  transition: background 0.2s ease;
+}
+
+.social-row .contact-btn:hover {
+  background: #1d4ed8;
+  color: white;
+}
+
 .nav-links{display:flex;align-items:center;gap:2px;list-style:none;margin:0;padding:0}.nav-links a{display:block;padding:9px 10px;text-decoration:none;border-radius:9px;font-size:.76rem;font-weight:700;color:#536071}.nav-links a:hover,.nav-links a.active{background:#eef2f6;color:var(--navy)}.nav-links .nav-cta{background:var(--navy);color:#fff;padding-inline:14px}.nav-links .nav-cta:hover{background:var(--blue);color:#fff}
 .menu-toggle{display:none;width:42px;height:42px;border:1px solid var(--line);border-radius:10px;background:#fff;color:var(--navy);font-size:1.15rem}
 .mobile-nav{display:none;background:#fff;padding:8px 20px 16px;border-top:1px solid var(--line)}.mobile-nav.open{display:block}.mobile-nav a{display:block;padding:10px 0;text-decoration:none;border-bottom:1px solid #eef1f4;font-size:.82rem;font-weight:700}
@@ -296,7 +313,16 @@ footer{background:#0b1425;color:#bec9d7;padding:34px 24px}.footer-inner{max-widt
       <p class="subhead">Multilingual NLP, Arabic language technology, large language models, language resources, financial NLP, text summarisation and information extraction.</p>
       <p class="bio">I develop NLP methods, datasets and research infrastructure for multilingual and under-resourced language settings, with a long-standing focus on Arabic and work spanning English, Spanish, Portuguese, Welsh and other languages. My research connects language technology with domains including finance, health, education and cultural heritage.</p>
       <div class="hero-actions"><a class="btn gold" href="publications.html">View publications</a><a class="btn ghost" href="docs/elhajcv.pdf" target="_blank">Download CV ↗</a><a class="btn ghost" href="https://scholar.google.com/citations?user=diBeuuEAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar ↗</a></div>
-      <div class="social-row"><a href="https://github.com/drelhaj" target="_blank" rel="noopener">GitHub</a><a href="https://huggingface.co/drelhaj" target="_blank" rel="noopener">Hugging Face</a><a href="https://www.linkedin.com/in/melhaj/" target="_blank" rel="noopener">LinkedIn</a><a href="finai.html" target="_blank" rel="noopener">Financial AI</a><a href="https://ArabicNLP.uk" target="_blank" rel="noopener">ArabicNLP.uk</a></div>
+
+<div class="social-row">
+  <a href="https://github.com/drelhaj" target="_blank" rel="noopener">GitHub</a>
+  <a href="https://huggingface.co/drelhaj" target="_blank" rel="noopener">Hugging Face</a>
+  <a href="https://www.linkedin.com/in/melhaj/" target="_blank" rel="noopener">LinkedIn</a>
+  <a href="finai.html" target="_blank" rel="noopener">Financial AI</a>
+  <a href="https://ArabicNLP.uk" target="_blank" rel="noopener">ArabicNLP.uk</a>
+  <a href="mailto:m.el-haj@lancaster.ac.uk" class="contact-btn">✉ Contact Me</a>
+</div>
+
     </div>
     <div class="portrait-wrap">
       <div class="portrait-card"><img src="img/mopicss.png" alt="Dr Mo El-Haj"></div>
