@@ -227,6 +227,47 @@ footer{background:#0b1425;color:#bec9d7;padding:34px 24px}.footer-inner{max-widt
     grid-template-columns: 1fr;
   }
 }
+
+.research-highlights {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin: 22px 0;
+}
+
+.highlight-item {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 13px 16px;
+  border: 1px solid rgba(180, 150, 80, 0.25);
+  border-radius: 10px;
+  background: rgba(180, 150, 80, 0.05);
+}
+
+.highlight-icon {
+  font-size: 22px;
+}
+
+.highlight-item strong {
+  display: block;
+  font-size: 14px;
+  margin-bottom: 4px;
+}
+
+.highlight-item span {
+  font-size: 13px;
+}
+
+.highlight-item a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.highlight-item a:hover {
+  text-decoration: underline;
+}
+
   </style>
   <script type="application/ld+json">
   {
@@ -306,28 +347,96 @@ footer{background:#0b1425;color:#bec9d7;padding:34px 24px}.footer-inner{max-widt
 <main>
 <section class="hero">
   <div class="hero-inner profile-hero">
-    <div>
-      <div class="eyebrow">Research · Leadership · Language Technology</div>
-      <h1>Dr Mo <span class="gold">El-Haj</span></h1>
-      <div class="role-line">Associate Professor in Natural Language Processing · Director, NLP @ VinUniversity</div>
-      <p class="subhead">Multilingual NLP, Arabic language technology, large language models, language resources, financial NLP, text summarisation and information extraction.</p>
-      <p class="bio">I develop NLP methods, datasets and research infrastructure for multilingual and under-resourced language settings, with a long-standing focus on Arabic and work spanning English, Spanish, Portuguese, Welsh and other languages. My research connects language technology with domains including finance, health, education and cultural heritage.</p>
-      <div class="hero-actions"><a class="btn gold" href="publications.html">View publications</a><a class="btn ghost" href="docs/elhajcv.pdf" target="_blank">Download CV ↗</a><a class="btn ghost" href="https://scholar.google.com/citations?user=diBeuuEAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar ↗</a></div>
 
-<div class="social-row">
-  <a href="https://github.com/drelhaj" target="_blank" rel="noopener">GitHub</a>
-  <a href="https://huggingface.co/drelhaj" target="_blank" rel="noopener">Hugging Face</a>
-  <a href="https://www.linkedin.com/in/melhaj/" target="_blank" rel="noopener">LinkedIn</a>
-  <a href="finai.html" target="_blank" rel="noopener">Financial AI</a>
-  <a href="https://ArabicNLP.uk" target="_blank" rel="noopener">ArabicNLP.uk</a>
-  <a href="mailto:m.el-haj@lancaster.ac.uk" class="contact-btn">✉ Contact Me</a>
+<div>
+  <div class="eyebrow">Research · Leadership · Language Technology</div>
+
+  <h1>Dr Mo <span class="gold">El-Haj</span></h1>
+
+  <div class="role-line">
+    Associate Professor in Natural Language Processing · NLP Research Leader
+  </div>
+
+  <p class="subhead">
+    Multilingual NLP, low-resource languages, large language models,
+    language resources, financial NLP, text summarisation and
+    information extraction.
+  </p>
+
+  <p class="bio">
+    I develop NLP methods, datasets and research infrastructure for
+    multilingual and under-resourced language settings, with a
+    long-standing focus on Arabic and work spanning English, Spanish,
+    Portuguese, Welsh and other languages. My research connects
+    language technology with domains including finance, health,
+    education and cultural heritage.
+  </p>
+
+  <!-- RESEARCH HIGHLIGHTS -->
+  <div class="research-highlights">
+
+<div class="highlight-item">
+  <span class="highlight-icon">🏆</span>
+  <div>
+    <strong>
+      <a href="https://aclanthology.org/2026.arabicnlp-main.4/"
+         target="_blank" rel="noopener">
+        Best Resource Paper Award · 2026 ↗
+      </a>
+    </strong>
+    <span>ArabicNLP 2026, co-located with EMNLP</span>
+  </div>
 </div>
 
+    <div class="highlight-item">
+      <span class="highlight-icon">📢</span>
+      <div>
+        <strong>
+          <a href="https://abjadnlp.com/" target="_blank"
+             rel="noopener">AbjadNLP 2027 ↗</a>
+        </strong>
+        <span>
+          3rd Workshop on NLP for Languages Using Arabic Script
+          · COLING 2027 · Macao · 9–14 May
+        </span>
+      </div>
     </div>
-    <div class="portrait-wrap">
-      <div class="portrait-card"><img src="img/mopicss.png" alt="Dr Mo El-Haj"></div>
-      <div class="portrait-badge"><strong>VinUniversity · Hanoi, Vietnam</strong><span>Visiting research role at Lancaster University, UK</span></div>
-    </div>
+
+  </div>
+
+  <div class="hero-actions">
+    <a class="btn gold" href="publications.html">View publications</a>
+    <a class="btn ghost" href="docs/elhajcv.pdf"
+       target="_blank">Download CV ↗</a>
+    <a class="btn ghost"
+       href="https://scholar.google.com/citations?user=diBeuuEAAAAJ&hl=en"
+       target="_blank" rel="noopener">Google Scholar ↗</a>
+  </div>
+
+  <div class="social-row">
+    <a href="https://github.com/drelhaj" target="_blank"
+       rel="noopener">GitHub</a>
+    <a href="https://huggingface.co/drelhaj" target="_blank"
+       rel="noopener">Hugging Face</a>
+    <a href="https://www.linkedin.com/in/melhaj/" target="_blank"
+       rel="noopener">LinkedIn</a>
+    <a href="finai.html" target="_blank">Financial AI</a>
+    <a href="https://ArabicNLP.uk" target="_blank"
+       rel="noopener">ArabicNLP.uk</a>
+    <a href="mailto:m.el-haj@lancaster.ac.uk"
+       class="contact-btn">✉ Contact Me</a>
+  </div>
+</div>
+
+<div class="portrait-wrap">
+  <div class="portrait-card">
+    <img src="img/mopicss.png" alt="Dr Mo El-Haj">
+  </div>
+<div class="portrait-badge">
+  <strong>Associate Professor · NLP & AI</strong>
+  <span>NLP for Every Language.</span>
+</div>
+</div>
   </div>
 </section>
 
@@ -343,7 +452,7 @@ footer{background:#0b1425;color:#bec9d7;padding:34px 24px}.footer-inner{max-widt
     <div class="section-kicker">Profile</div><h2 class="section-title">Researching language technology across languages, domains and communities</h2>
     <div class="about-grid">
       <div class="about-copy">
-        <p>I am the Director of the NLP @ VinUniversity Research Group and a Reader (Associate Professor) in Natural Language Processing at the College of Engineering & Computer Science, VinUniversity, Hanoi. I also hold a visiting research role at Lancaster University.</p>
+        <p>I am the Director of the NLP @ VinUniversity Research Group and a Reader (Associate Professor) in Natural Language Processing at the College of Engineering & Computer Science, VinUniversity, Hanoi. I also hold an NLP researcher role at Lancaster University.</p>
         <p>My doctoral research at the University of Essex focused on Arabic multi-document summarisation. Since then, my work has expanded across multilingual NLP, language resources, information extraction, financial NLP, biomedical applications, text classification and large language models.</p>
         <p>A recurring theme across my research is building resources and systems that make language technology more useful for under-resourced languages and domain-specific settings, and releasing datasets, models and tools so that others can build on the work.</p>
       </div>
@@ -355,8 +464,8 @@ footer{background:#0b1425;color:#bec9d7;padding:34px 24px}.footer-inner{max-widt
           <a href="https://scholar.google.com/citations?user=diBeuuEAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar <span>↗</span></a>
           <a href="https://github.com/drelhaj" target="_blank" rel="noopener">GitHub <span>↗</span></a>
           <a href="https://huggingface.co/drelhaj" target="_blank" rel="noopener">Hugging Face <span>↗</span></a>
-          <a href="mailto:elhaj.m@vinuni.edu.vn">elhaj.m@vinuni.edu.vn <span>→</span></a>
-        </div>
+		  <a href="finai.html" target="_blank" rel="noopener">Financial AI</a>
+		        </div>
       </aside>
     </div>
   </div>

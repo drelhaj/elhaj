@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="robots" content="noindex">
+  <title>Redirecting to AbjadNLP</title>
+  <script>
+    const oldPages = [
+      "abjad.html",
+      "abjad2025.html",
+      "abjad2026.html",
+      "abjad2027.html",
+      "abjad2027-github.html",
+      "abjad2027-roles.html",
+      "author-policy.html",
+      "pc-policy.html"
+    ];
+
+    const page = window.location.pathname.split("/").pop();
+
+    if (oldPages.includes(page)) {
+      window.location.replace(
+        "https://abjadnlp.com/" + page +
+        window.location.search + window.location.hash
+      );
+    }
+  </script>
+</head>
+<body>
+  <p>Page not found.</p>
+</body>
+</html>
